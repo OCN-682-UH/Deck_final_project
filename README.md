@@ -1,4 +1,4 @@
-# Final Project (OCRN-682) 
+# Final Project (OCN-682) 
 This is a repository for my Data Fundamentals in R class at University of Hawaii. For this project I used the Mo'orea Coral Reef Long-Term Ecological Research (MCR LTER) public data repository. To analyze and vizualize the data I made a [Shiny app]( https://annie-deck.shinyapps.io/Final_project_shiny/). 
 
 ## Research Questions
