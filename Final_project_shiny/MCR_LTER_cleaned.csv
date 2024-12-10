@@ -1,0 +1,4260 @@
+Year,Site,Habitat,Taxonomy_Substrate_Functional_Group,mean_percent_cover
+2005,LTER 1,Fringing,Algal Turf,45.44
+2005,LTER 1,Fringing,Amansia rhodantha,0.4
+2005,LTER 1,Fringing,Ascidian,0.08
+2005,LTER 1,Fringing,Coral,38.64
+2005,LTER 1,Fringing,Crustose Corallines,0.48
+2005,LTER 1,Fringing,Dictyota sp.,0.56
+2005,LTER 1,Fringing,Halimeda sp.,3.44
+2005,LTER 1,Fringing,Sand,10.96
+2005,LTER 1,Outer 10,Algal Turf,49.92
+2005,LTER 1,Outer 10,Asparagopsis taxiformis,2.72
+2005,LTER 1,Outer 10,Coral,37.52
+2005,LTER 1,Outer 10,Crustose Corallines,7.44
+2005,LTER 1,Outer 10,Halimeda sp.,1.04
+2005,LTER 1,Outer 10,Lobophora variegata,0.8
+2005,LTER 1,Outer 10,Sand,0.4
+2005,LTER 1,Outer 10,Sponge,0.16
+2005,LTER 1,Outer 17,Algal Turf,36.08
+2005,LTER 1,Outer 17,Asparagopsis taxiformis,4.72
+2005,LTER 1,Outer 17,Coral,52
+2005,LTER 1,Outer 17,Crustose Corallines,4.88
+2005,LTER 1,Outer 17,Dictyota sp.,0.16
+2005,LTER 1,Outer 17,Halimeda sp.,0.56
+2005,LTER 1,Outer 17,Sand,1.6
+2005,LTER 2,Fringing,Algal Turf,22.48
+2005,LTER 2,Fringing,Coral,12.72
+2005,LTER 2,Fringing,Crustose Corallines,2.56
+2005,LTER 2,Fringing,Damselfish Turf,58.24
+2005,LTER 2,Fringing,Millepora platyphylla,0.96
+2005,LTER 2,Fringing,Sand,0
+2005,LTER 2,Fringing,Turbinaria ornata,3.04
+2005,LTER 2,Outer 10,Algal Turf,38.96
+2005,LTER 2,Outer 10,Asparagopsis taxiformis,3.12
+2005,LTER 2,Outer 10,Coral,35.84
+2005,LTER 2,Outer 10,Crustose Corallines,7.6
+2005,LTER 2,Outer 10,Halimeda sp.,1.12
+2005,LTER 2,Outer 10,Lobophora variegata,8.96
+2005,LTER 2,Outer 10,Millepora platyphylla,3.44
+2005,LTER 2,Outer 10,Sand,0.96
+2005,LTER 2,Outer 17,Algal Turf,38.88
+2005,LTER 2,Outer 17,Asparagopsis taxiformis,4.48
+2005,LTER 2,Outer 17,Coral,40.96
+2005,LTER 2,Outer 17,Crustose Corallines,3.36
+2005,LTER 2,Outer 17,Dictyota sp.,0
+2005,LTER 2,Outer 17,Halimeda sp.,0.88
+2005,LTER 2,Outer 17,Lobophora variegata,7.92
+2005,LTER 2,Outer 17,Millepora platyphylla,1.68
+2005,LTER 2,Outer 17,Sand,1.84
+2005,LTER 3,Fringing,Algal Turf,41.36
+2005,LTER 3,Fringing,Coral,27.6
+2005,LTER 3,Fringing,Crustose Corallines,0.72
+2005,LTER 3,Fringing,Damselfish Turf,18.16
+2005,LTER 3,Fringing,Halimeda sp.,0.24
+2005,LTER 3,Fringing,Sand,11.92
+2005,LTER 3,Fringing,Turbinaria ornata,0
+2005,LTER 3,Outer 10,Algal Turf,40.72
+2005,LTER 3,Outer 10,Asparagopsis taxiformis,0
+2005,LTER 3,Outer 10,Coral,34.96
+2005,LTER 3,Outer 10,Crustose Corallines,12.96
+2005,LTER 3,Outer 10,Halimeda sp.,5.12
+2005,LTER 3,Outer 10,Lobophora variegata,1.84
+2005,LTER 3,Outer 10,Sand,0.16
+2005,LTER 3,Outer 10,Turbinaria ornata,4.24
+2005,LTER 3,Outer 17,Algal Turf,41.04
+2005,LTER 3,Outer 17,Coral,27.36
+2005,LTER 3,Outer 17,Crustose Corallines,11.92
+2005,LTER 3,Outer 17,Halimeda sp.,10.08
+2005,LTER 3,Outer 17,Lobophora variegata,8.48
+2005,LTER 3,Outer 17,Millepora platyphylla,0
+2005,LTER 3,Outer 17,Sand,1.12
+2005,LTER 4,Fringing,Algal Turf,56.48
+2005,LTER 4,Fringing,Coral,19.52
+2005,LTER 4,Fringing,Crustose Corallines,0
+2005,LTER 4,Fringing,Damselfish Turf,0.96
+2005,LTER 4,Fringing,Halimeda sp.,0.8
+2005,LTER 4,Fringing,Sand,19.28
+2005,LTER 4,Fringing,Shell Debris,2.96
+2005,LTER 4,Outer 10,Algal Turf,38.64
+2005,LTER 4,Outer 10,Coral,45.68
+2005,LTER 4,Outer 10,Crustose Corallines,11.04
+2005,LTER 4,Outer 10,Halimeda sp.,0.24
+2005,LTER 4,Outer 10,Millepora platyphylla,3.2
+2005,LTER 4,Outer 10,Peyssonnelia inamoena,1.2
+2005,LTER 4,Outer 10,Sand,0
+2005,LTER 4,Outer 17,Algal Turf,37.6
+2005,LTER 4,Outer 17,Coral,41.6
+2005,LTER 4,Outer 17,Crustose Corallines,11.6
+2005,LTER 4,Outer 17,Halimeda sp.,0.72
+2005,LTER 4,Outer 17,Millepora platyphylla,0.08
+2005,LTER 4,Outer 17,Peyssonnelia inamoena,7.44
+2005,LTER 4,Outer 17,Sand,0.8
+2005,LTER 4,Outer 17,Soft Coral,0.16
+2005,LTER 5,Fringing,Algal Turf,18.72
+2005,LTER 5,Fringing,Coral,59.36
+2005,LTER 5,Fringing,Crustose Corallines,0
+2005,LTER 5,Fringing,Damselfish Turf,4.96
+2005,LTER 5,Fringing,Halimeda sp.,0.16
+2005,LTER 5,Fringing,Sand,16.48
+2005,LTER 5,Fringing,Valonia aegagropila,0.32
+2005,LTER 5,Outer 10,Algal Turf,54.16
+2005,LTER 5,Outer 10,Coral,28.56
+2005,LTER 5,Outer 10,Crustose Corallines,9.36
+2005,LTER 5,Outer 10,Halimeda sp.,3.6
+2005,LTER 5,Outer 10,Peyssonnelia inamoena,4.24
+2005,LTER 5,Outer 10,Sand,0.08
+2005,LTER 5,Outer 17,Algal Turf,42.32
+2005,LTER 5,Outer 17,Coral,32.4
+2005,LTER 5,Outer 17,Crustose Corallines,14.96
+2005,LTER 5,Outer 17,Dictyota sp.,0.08
+2005,LTER 5,Outer 17,Halimeda sp.,0.56
+2005,LTER 5,Outer 17,Lobophora variegata,0.8
+2005,LTER 5,Outer 17,Millepora platyphylla,0.96
+2005,LTER 5,Outer 17,Peyssonnelia inamoena,5.76
+2005,LTER 5,Outer 17,Sand,1.92
+2005,LTER 5,Outer 17,Soft Coral,0.24
+2005,LTER 6,Fringing,Algal Turf,13.44
+2005,LTER 6,Fringing,Amansia rhodantha,9.04
+2005,LTER 6,Fringing,Coral,42.16
+2005,LTER 6,Fringing,Crustose Corallines,0
+2005,LTER 6,Fringing,Damselfish Turf,13.6
+2005,LTER 6,Fringing,Dichotomaria marginata,0.8
+2005,LTER 6,Fringing,Dichotomaria obtusata,1.6
+2005,LTER 6,Fringing,Dictyota sp.,7.6
+2005,LTER 6,Fringing,Halimeda sp.,5.52
+2005,LTER 6,Fringing,Sand,0.24
+2005,LTER 6,Fringing,Turbinaria ornata,6
+2006,LTER 1,Backreef,Algal Turf,46.88
+2006,LTER 1,Backreef,Amansia rhodantha,0.08
+2006,LTER 1,Backreef,Coral,31.04
+2006,LTER 1,Backreef,Crustose Corallines,1.84
+2006,LTER 1,Backreef,Sand,14.72
+2006,LTER 1,Backreef,Turbinaria ornata,5.44
+2006,LTER 2,Backreef,Algal Turf,31.52
+2006,LTER 2,Backreef,Coral,28.88
+2006,LTER 2,Backreef,Crustose Corallines,1.04
+2006,LTER 2,Backreef,Dictyota sp.,6
+2006,LTER 2,Backreef,Halimeda sp.,0.08
+2006,LTER 2,Backreef,Sand,25.76
+2006,LTER 2,Backreef,Turbinaria ornata,6.72
+2006,LTER 3,Backreef,Algal Turf,27.76
+2006,LTER 3,Backreef,Amansia rhodantha,1.12
+2006,LTER 3,Backreef,Coral,36.72
+2006,LTER 3,Backreef,Crustose Corallines,0.16
+2006,LTER 3,Backreef,Damselfish Turf,4.56
+2006,LTER 3,Backreef,Sand,29.68
+2006,LTER 4,Backreef,Algal Turf,57.76
+2006,LTER 4,Backreef,Coral,32.64
+2006,LTER 4,Backreef,Crustose Corallines,0.16
+2006,LTER 4,Backreef,Damselfish Turf,0
+2006,LTER 4,Backreef,Halimeda sp.,0
+2006,LTER 4,Backreef,Sand,9.44
+2006,LTER 4,Backreef,Shell Debris,0
+2006,LTER 5,Backreef,Algal Turf,42.72
+2006,LTER 5,Backreef,Coral,27.92
+2006,LTER 5,Backreef,Crustose Corallines,0.64
+2006,LTER 5,Backreef,Halimeda sp.,0.24
+2006,LTER 5,Backreef,Sand,28.24
+2006,LTER 5,Backreef,Turbinaria ornata,0.24
+2006,LTER 6,Backreef,Algal Turf,35.04
+2006,LTER 6,Backreef,Coral,19.6
+2006,LTER 6,Backreef,Crustose Corallines,0.4
+2006,LTER 6,Backreef,Damselfish Turf,9.04
+2006,LTER 6,Backreef,Dictyota sp.,0.08
+2006,LTER 6,Backreef,Halimeda sp.,0.4
+2006,LTER 6,Backreef,Lobophora variegata,0
+2006,LTER 6,Backreef,Sand,35.44
+2006,LTER 6,Outer 10,Algal Turf,40.56
+2006,LTER 6,Outer 10,Coral,41.44
+2006,LTER 6,Outer 10,Crustose Corallines,14.16
+2006,LTER 6,Outer 10,Dictyota sp.,0.16
+2006,LTER 6,Outer 10,Halimeda sp.,0.48
+2006,LTER 6,Outer 10,Lobophora variegata,0.48
+2006,LTER 6,Outer 10,Peyssonnelia inamoena,1.84
+2006,LTER 6,Outer 10,Sand,0.88
+2006,LTER 6,Outer 17,Algal Turf,32
+2006,LTER 6,Outer 17,Coral,30.72
+2006,LTER 6,Outer 17,Crustose Corallines,23.76
+2006,LTER 6,Outer 17,Halimeda sp.,0.72
+2006,LTER 6,Outer 17,Lobophora variegata,1.2
+2006,LTER 6,Outer 17,Millepora platyphylla,0
+2006,LTER 6,Outer 17,Peyssonnelia inamoena,6.88
+2006,LTER 6,Outer 17,Sand,4.72
+2007,LTER 1,Fringing,Algal Turf,45.04
+2007,LTER 1,Fringing,Amansia rhodantha,0
+2007,LTER 1,Fringing,Ascidian,0
+2007,LTER 1,Fringing,Coral,39.76
+2007,LTER 1,Fringing,Crustose Corallines,1.2
+2007,LTER 1,Fringing,Dictyota sp.,0
+2007,LTER 1,Fringing,Halimeda sp.,2.72
+2007,LTER 1,Fringing,Sand,11.28
+2007,LTER 1,Backreef,Algal Turf,51.04
+2007,LTER 1,Backreef,Amansia rhodantha,0
+2007,LTER 1,Backreef,Coral,30.08
+2007,LTER 1,Backreef,Crustose Corallines,2.96
+2007,LTER 1,Backreef,Halimeda sp.,0.08
+2007,LTER 1,Backreef,Sand,12.16
+2007,LTER 1,Backreef,Turbinaria ornata,3.68
+2007,LTER 1,Outer 10,Algal Turf,44
+2007,LTER 1,Outer 10,Asparagopsis taxiformis,12.24
+2007,LTER 1,Outer 10,Coral,36.08
+2007,LTER 1,Outer 10,Crustose Corallines,5.6
+2007,LTER 1,Outer 10,Halimeda sp.,0.16
+2007,LTER 1,Outer 10,Lobophora variegata,0
+2007,LTER 1,Outer 10,Millepora platyphylla,1.52
+2007,LTER 1,Outer 10,Peyssonnelia inamoena,0.24
+2007,LTER 1,Outer 10,Sand,0
+2007,LTER 1,Outer 10,Sponge,0
+2007,LTER 1,Outer 10,Turbinaria ornata,0.16
+2007,LTER 1,Outer 17,Algal Turf,39.84
+2007,LTER 1,Outer 17,Asparagopsis taxiformis,6.88
+2007,LTER 1,Outer 17,Coral,45.6
+2007,LTER 1,Outer 17,Crustose Corallines,4.8
+2007,LTER 1,Outer 17,Dictyota sp.,0
+2007,LTER 1,Outer 17,Halimeda sp.,0
+2007,LTER 1,Outer 17,Lobophora variegata,0.4
+2007,LTER 1,Outer 17,Sand,2.48
+2007,LTER 2,Fringing,Algal Turf,75.52
+2007,LTER 2,Fringing,Coral,15.6
+2007,LTER 2,Fringing,Crustose Corallines,3.12
+2007,LTER 2,Fringing,Damselfish Turf,1.6
+2007,LTER 2,Fringing,Millepora platyphylla,1.44
+2007,LTER 2,Fringing,Sand,0.48
+2007,LTER 2,Fringing,Turbinaria ornata,2.24
+2007,LTER 2,Backreef,Algal Turf,42.96
+2007,LTER 2,Backreef,Coral,30.48
+2007,LTER 2,Backreef,Crustose Corallines,1.28
+2007,LTER 2,Backreef,Dictyota sp.,0.72
+2007,LTER 2,Backreef,Halimeda sp.,0.4
+2007,LTER 2,Backreef,Sand,20.16
+2007,LTER 2,Backreef,Turbinaria ornata,4
+2007,LTER 2,Outer 10,Algal Turf,58.96
+2007,LTER 2,Outer 10,Asparagopsis taxiformis,4.72
+2007,LTER 2,Outer 10,Coral,18.96
+2007,LTER 2,Outer 10,Crustose Corallines,8.88
+2007,LTER 2,Outer 10,Halimeda sp.,1.92
+2007,LTER 2,Outer 10,Lobophora variegata,1.12
+2007,LTER 2,Outer 10,Millepora platyphylla,2.48
+2007,LTER 2,Outer 10,Peyssonnelia inamoena,1.12
+2007,LTER 2,Outer 10,Sand,1.84
+2007,LTER 2,Outer 17,Algal Turf,53.76
+2007,LTER 2,Outer 17,Asparagopsis taxiformis,5.44
+2007,LTER 2,Outer 17,Coral,18.08
+2007,LTER 2,Outer 17,Crustose Corallines,3.76
+2007,LTER 2,Outer 17,Dictyota sp.,0
+2007,LTER 2,Outer 17,Halimeda sp.,0.56
+2007,LTER 2,Outer 17,Lobophora variegata,0
+2007,LTER 2,Outer 17,Millepora platyphylla,0.48
+2007,LTER 2,Outer 17,Peyssonnelia inamoena,0.88
+2007,LTER 2,Outer 17,Ralfsia sp.,14.4
+2007,LTER 2,Outer 17,Sand,2.64
+2007,LTER 3,Fringing,Algal Turf,49.12
+2007,LTER 3,Fringing,Coral,19.28
+2007,LTER 3,Fringing,Crustose Corallines,0
+2007,LTER 3,Fringing,Damselfish Turf,4.56
+2007,LTER 3,Fringing,Halimeda sp.,1.28
+2007,LTER 3,Fringing,Sand,25.76
+2007,LTER 3,Fringing,Turbinaria ornata,0
+2007,LTER 3,Backreef,Algal Turf,25.44
+2007,LTER 3,Backreef,Amansia rhodantha,1.12
+2007,LTER 3,Backreef,Coral,40.08
+2007,LTER 3,Backreef,Crustose Corallines,0.08
+2007,LTER 3,Backreef,Damselfish Turf,0
+2007,LTER 3,Backreef,Halimeda sp.,1.12
+2007,LTER 3,Backreef,Sand,32.16
+2007,LTER 3,Outer 10,Algal Turf,44.4
+2007,LTER 3,Outer 10,Asparagopsis taxiformis,0
+2007,LTER 3,Outer 10,Coral,33.52
+2007,LTER 3,Outer 10,Crustose Corallines,11.68
+2007,LTER 3,Outer 10,Halimeda sp.,3.44
+2007,LTER 3,Outer 10,Lobophora variegata,1.6
+2007,LTER 3,Outer 10,Millepora platyphylla,0.08
+2007,LTER 3,Outer 10,Peyssonnelia inamoena,0.16
+2007,LTER 3,Outer 10,Sand,0.24
+2007,LTER 3,Outer 10,Turbinaria ornata,4.88
+2007,LTER 3,Outer 17,Algal Turf,43.52
+2007,LTER 3,Outer 17,Amphiroa fragilissima,0.24
+2007,LTER 3,Outer 17,Coral,26.96
+2007,LTER 3,Outer 17,Crustose Corallines,13.2
+2007,LTER 3,Outer 17,Dictyota friabilis,0.56
+2007,LTER 3,Outer 17,Halimeda sp.,7.36
+2007,LTER 3,Outer 17,Lobophora variegata,5.6
+2007,LTER 3,Outer 17,Peyssonnelia inamoena,0.8
+2007,LTER 3,Outer 17,Sand,1.76
+2007,LTER 4,Fringing,Algal Turf,53.04
+2007,LTER 4,Fringing,Coral,23.6
+2007,LTER 4,Fringing,Corallimorpharia,0.24
+2007,LTER 4,Fringing,Crustose Corallines,0
+2007,LTER 4,Fringing,Damselfish Turf,0
+2007,LTER 4,Fringing,Halimeda sp.,0.72
+2007,LTER 4,Fringing,Sand,22.4
+2007,LTER 4,Fringing,Shell Debris,0
+2007,LTER 4,Backreef,Algal Turf,51.6
+2007,LTER 4,Backreef,Amansia rhodantha,0.56
+2007,LTER 4,Backreef,Coral,33.84
+2007,LTER 4,Backreef,Crustose Corallines,0
+2007,LTER 4,Backreef,Damselfish Turf,0
+2007,LTER 4,Backreef,Galaxaura sp.,0.08
+2007,LTER 4,Backreef,Halimeda sp.,0.48
+2007,LTER 4,Backreef,Sand,13.44
+2007,LTER 4,Backreef,Shell Debris,0
+2007,LTER 4,Outer 10,Algal Turf,50.24
+2007,LTER 4,Outer 10,Caulerpa serrulata,0.24
+2007,LTER 4,Outer 10,Coral,31.76
+2007,LTER 4,Outer 10,Crustose Corallines,11.2
+2007,LTER 4,Outer 10,Halimeda sp.,0.72
+2007,LTER 4,Outer 10,Millepora platyphylla,5.04
+2007,LTER 4,Outer 10,Peyssonnelia inamoena,0.4
+2007,LTER 4,Outer 10,Sand,0.32
+2007,LTER 4,Outer 10,Soft Coral,0.08
+2007,LTER 4,Outer 17,Algal Turf,38.08
+2007,LTER 4,Outer 17,Coral,38.72
+2007,LTER 4,Outer 17,Crustose Corallines,9.6
+2007,LTER 4,Outer 17,Halimeda sp.,0.32
+2007,LTER 4,Outer 17,Lobophora variegata,10.56
+2007,LTER 4,Outer 17,Millepora platyphylla,0.16
+2007,LTER 4,Outer 17,Peyssonnelia inamoena,0.16
+2007,LTER 4,Outer 17,Sand,2.16
+2007,LTER 4,Outer 17,Soft Coral,0.24
+2007,LTER 5,Fringing,Algal Turf,14.96
+2007,LTER 5,Fringing,Coral,63.68
+2007,LTER 5,Fringing,Corallimorpharia,0.64
+2007,LTER 5,Fringing,Crustose Corallines,0
+2007,LTER 5,Fringing,Cyanophyta,0.24
+2007,LTER 5,Fringing,Galaxaura sp.,0.08
+2007,LTER 5,Fringing,Halimeda sp.,1.36
+2007,LTER 5,Fringing,Sand,18.56
+2007,LTER 5,Fringing,Sponge,0.48
+2007,LTER 5,Backreef,Algal Turf,40.4
+2007,LTER 5,Backreef,Coral,27.68
+2007,LTER 5,Backreef,Crustose Corallines,0.56
+2007,LTER 5,Backreef,Halimeda sp.,0.48
+2007,LTER 5,Backreef,Sand,30.8
+2007,LTER 5,Backreef,Turbinaria ornata,0.08
+2007,LTER 5,Outer 10,Algal Turf,55.28
+2007,LTER 5,Outer 10,Coral,33.2
+2007,LTER 5,Outer 10,Crustose Corallines,6.08
+2007,LTER 5,Outer 10,Halimeda sp.,3.36
+2007,LTER 5,Outer 10,Peyssonnelia inamoena,1.6
+2007,LTER 5,Outer 10,Sand,0
+2007,LTER 5,Outer 10,Soft Coral,0.48
+2007,LTER 5,Outer 17,Algal Turf,42.24
+2007,LTER 5,Outer 17,Coral,33.92
+2007,LTER 5,Outer 17,Crustose Corallines,18.24
+2007,LTER 5,Outer 17,Dictyota sp.,0
+2007,LTER 5,Outer 17,Halimeda sp.,0
+2007,LTER 5,Outer 17,Lobophora variegata,0
+2007,LTER 5,Outer 17,Millepora platyphylla,1.52
+2007,LTER 5,Outer 17,Peyssonnelia inamoena,1.68
+2007,LTER 5,Outer 17,Ralfsia sp.,0.32
+2007,LTER 5,Outer 17,Sand,1.6
+2007,LTER 5,Outer 17,Soft Coral,0.48
+2007,LTER 6,Fringing,Algal Turf,39.84
+2007,LTER 6,Fringing,Amansia rhodantha,2.8
+2007,LTER 6,Fringing,Amphiroa fragilissima,0.16
+2007,LTER 6,Fringing,Coral,29.36
+2007,LTER 6,Fringing,Crustose Corallines,0.16
+2007,LTER 6,Fringing,Galaxaura sp.,1.92
+2007,LTER 6,Fringing,Halimeda sp.,16.88
+2007,LTER 6,Fringing,Sand,8.48
+2007,LTER 6,Fringing,Sponge,0.32
+2007,LTER 6,Fringing,Turbinaria ornata,0.08
+2007,LTER 6,Backreef,Algal Turf,45.28
+2007,LTER 6,Backreef,Coral,22
+2007,LTER 6,Backreef,Crustose Corallines,0
+2007,LTER 6,Backreef,Damselfish Turf,0
+2007,LTER 6,Backreef,Dictyota sp.,0
+2007,LTER 6,Backreef,Halimeda sp.,0.64
+2007,LTER 6,Backreef,Liagora ceranoides,0.08
+2007,LTER 6,Backreef,Lobophora variegata,0
+2007,LTER 6,Backreef,Sand,32
+2007,LTER 6,Outer 10,Algal Turf,43.92
+2007,LTER 6,Outer 10,Coral,36.72
+2007,LTER 6,Outer 10,Crustose Corallines,13.28
+2007,LTER 6,Outer 10,Dictyota sp.,0
+2007,LTER 6,Outer 10,Halimeda sp.,1.76
+2007,LTER 6,Outer 10,Lobophora variegata,0
+2007,LTER 6,Outer 10,Millepora platyphylla,1.2
+2007,LTER 6,Outer 10,Peyssonnelia inamoena,1.92
+2007,LTER 6,Outer 10,Ralfsia sp.,0.48
+2007,LTER 6,Outer 10,Sand,0.72
+2007,LTER 6,Outer 17,Algal Turf,36.08
+2007,LTER 6,Outer 17,Coral,31.36
+2007,LTER 6,Outer 17,Crustose Corallines,17.28
+2007,LTER 6,Outer 17,Halimeda sp.,1.12
+2007,LTER 6,Outer 17,Lobophora variegata,0
+2007,LTER 6,Outer 17,Millepora platyphylla,0
+2007,LTER 6,Outer 17,Peyssonnelia inamoena,7.84
+2007,LTER 6,Outer 17,Ralfsia sp.,1.12
+2007,LTER 6,Outer 17,Sand,5.2
+2008,LTER 1,Fringing,Algal Turf,35.12
+2008,LTER 1,Fringing,Caulerpa serrulata,0.16
+2008,LTER 1,Fringing,Coral,48.24
+2008,LTER 1,Fringing,Coral Rubble,2.08
+2008,LTER 1,Fringing,Corallimorpharia,0.16
+2008,LTER 1,Fringing,Crustose Corallines,0.56
+2008,LTER 1,Fringing,Cyanophyta,0.08
+2008,LTER 1,Fringing,Damselfish Turf,0.16
+2008,LTER 1,Fringing,Dictyota bartayresiana,0.24
+2008,LTER 1,Fringing,Galaxaura rugosa,0.08
+2008,LTER 1,Fringing,Halimeda minima,3.84
+2008,LTER 1,Fringing,Halimeda opuntia,0.24
+2008,LTER 1,Fringing,Sand,9.04
+2008,LTER 1,Backreef,Algal Turf,58.16
+2008,LTER 1,Backreef,Amansia rhodantha,0.16
+2008,LTER 1,Backreef,Coral,25.44
+2008,LTER 1,Backreef,Crustose Corallines,4.72
+2008,LTER 1,Backreef,Cyanophyta,0.56
+2008,LTER 1,Backreef,Halimeda minima,1.76
+2008,LTER 1,Backreef,Sand,8.32
+2008,LTER 1,Backreef,Turbinaria ornata,0.88
+2008,LTER 1,Outer 10,Algal Turf,45.28
+2008,LTER 1,Outer 10,Asparagopsis taxiformis,9.44
+2008,LTER 1,Outer 10,Caulerpa serrulata,0.24
+2008,LTER 1,Outer 10,Coral,27.2
+2008,LTER 1,Outer 10,Crustose Corallines,11.04
+2008,LTER 1,Outer 10,Dictyota friabilis,0.16
+2008,LTER 1,Outer 10,Halimeda discoidea,0.4
+2008,LTER 1,Outer 10,Halimeda minima,2.08
+2008,LTER 1,Outer 10,Lobophora variegata,0.24
+2008,LTER 1,Outer 10,Millepora platyphylla,2.24
+2008,LTER 1,Outer 10,Peyssonnelia inamoena,1.68
+2008,LTER 1,Outer 10,Sand,0
+2008,LTER 1,Outer 17,Algal Turf,50.64
+2008,LTER 1,Outer 17,Asparagopsis taxiformis,7.6
+2008,LTER 1,Outer 17,Coral,24.4
+2008,LTER 1,Outer 17,Crustose Corallines,6.16
+2008,LTER 1,Outer 17,Halimeda minima,1.28
+2008,LTER 1,Outer 17,Lobophora variegata,3.84
+2008,LTER 1,Outer 17,Millepora platyphylla,0.24
+2008,LTER 1,Outer 17,Peyssonnelia inamoena,3.6
+2008,LTER 1,Outer 17,Sand,2.24
+2008,LTER 2,Fringing,Algal Turf,70.64
+2008,LTER 2,Fringing,Amansia rhodantha,0.08
+2008,LTER 2,Fringing,Ascidian,0.4
+2008,LTER 2,Fringing,Caulerpa racemosa,0.08
+2008,LTER 2,Fringing,Coral,12.48
+2008,LTER 2,Fringing,Crustose Corallines,3.92
+2008,LTER 2,Fringing,Damselfish Turf,8.24
+2008,LTER 2,Fringing,Galaxaura filamentosa,1.12
+2008,LTER 2,Fringing,Halimeda minima,0.16
+2008,LTER 2,Fringing,Millepora platyphylla,1.76
+2008,LTER 2,Fringing,Sand,0.4
+2008,LTER 2,Fringing,Turbinaria ornata,0.64
+2008,LTER 2,Fringing,Valonia ventricosa,0.08
+2008,LTER 2,Backreef,Algal Turf,30.64
+2008,LTER 2,Backreef,Amphiroa fragilissima,1.2
+2008,LTER 2,Backreef,Ascidian,0.24
+2008,LTER 2,Backreef,Caulerpa serrulata,0.32
+2008,LTER 2,Backreef,Coral,35.84
+2008,LTER 2,Backreef,Coral Rubble,0.32
+2008,LTER 2,Backreef,Corallimorpharia,0.32
+2008,LTER 2,Backreef,Crustose Corallines,3.44
+2008,LTER 2,Backreef,Cyanophyta,0.88
+2008,LTER 2,Backreef,Damselfish Turf,2
+2008,LTER 2,Backreef,Dictyota friabilis,0.08
+2008,LTER 2,Backreef,Galaxaura rugosa,0.24
+2008,LTER 2,Backreef,Halimeda minima,1.28
+2008,LTER 2,Backreef,Sand,21.84
+2008,LTER 2,Backreef,Turbinaria ornata,1.36
+2008,LTER 2,Outer 10,Algal Turf,46.96
+2008,LTER 2,Outer 10,Asparagopsis taxiformis,13.76
+2008,LTER 2,Outer 10,Coral,14.48
+2008,LTER 2,Outer 10,Crustose Corallines,12.4
+2008,LTER 2,Outer 10,Halimeda discoidea,0.32
+2008,LTER 2,Outer 10,Halimeda minima,3.92
+2008,LTER 2,Outer 10,Lobophora variegata,1.68
+2008,LTER 2,Outer 10,Millepora platyphylla,3.12
+2008,LTER 2,Outer 10,Peyssonnelia inamoena,2.8
+2008,LTER 2,Outer 10,Sand,0.56
+2008,LTER 2,Outer 17,Algal Turf,66.36734693877551
+2008,LTER 2,Outer 17,Asparagopsis taxiformis,7.673469387755102
+2008,LTER 2,Outer 17,Coral,13.63265306122449
+2008,LTER 2,Outer 17,Crustose Corallines,3.4285714285714284
+2008,LTER 2,Outer 17,Dictyota friabilis,0.08163265306122448
+2008,LTER 2,Outer 17,Halimeda minima,2.938775510204082
+2008,LTER 2,Outer 17,Lobophora variegata,1.2244897959183674
+2008,LTER 2,Outer 17,Millepora platyphylla,0.16326530612244897
+2008,LTER 2,Outer 17,No data,-1
+2008,LTER 2,Outer 17,Peyssonnelia inamoena,1.1428571428571428
+2008,LTER 2,Outer 17,Sand,3.3469387755102042
+2008,LTER 3,Fringing,Algal Turf,44.24
+2008,LTER 3,Fringing,Coral,22.88
+2008,LTER 3,Fringing,Coral Rubble,6.16
+2008,LTER 3,Fringing,Corallimorpharia,0.32
+2008,LTER 3,Fringing,Crustose Corallines,1.04
+2008,LTER 3,Fringing,Cyanophyta,1.84
+2008,LTER 3,Fringing,Damselfish Turf,13.04
+2008,LTER 3,Fringing,Galaxaura filamentosa,0.16
+2008,LTER 3,Fringing,Halimeda minima,0.96
+2008,LTER 3,Fringing,Sand,9.36
+2008,LTER 3,Backreef,Algal Turf,34.72
+2008,LTER 3,Backreef,Amansia rhodantha,1.36
+2008,LTER 3,Backreef,Cladophoropsis membranacea,0.08
+2008,LTER 3,Backreef,Coral,36.96
+2008,LTER 3,Backreef,Coral Rubble,0.96
+2008,LTER 3,Backreef,Crustose Corallines,0.32
+2008,LTER 3,Backreef,Cyanophyta,0.8
+2008,LTER 3,Backreef,Galaxaura filamentosa,0.08
+2008,LTER 3,Backreef,Halimeda discoidea,0.16
+2008,LTER 3,Backreef,Halimeda minima,2.08
+2008,LTER 3,Backreef,Lobophora variegata,0.08
+2008,LTER 3,Backreef,Peyssonnelia inamoena,0.08
+2008,LTER 3,Backreef,Sand,22.24
+2008,LTER 3,Backreef,Turbinaria ornata,0.08
+2008,LTER 3,Outer 10,Algal Turf,41.12
+2008,LTER 3,Outer 10,Coral,26.08
+2008,LTER 3,Outer 10,Crustose Corallines,12.88
+2008,LTER 3,Outer 10,Cyanophyta,0.08
+2008,LTER 3,Outer 10,Halimeda discoidea,3.6
+2008,LTER 3,Outer 10,Halimeda minima,7.76
+2008,LTER 3,Outer 10,Lobophora variegata,0.24
+2008,LTER 3,Outer 10,Peyssonnelia inamoena,3.2
+2008,LTER 3,Outer 10,Sand,0.88
+2008,LTER 3,Outer 10,Turbinaria ornata,4.16
+2008,LTER 3,Outer 17,Algal Turf,47.28
+2008,LTER 3,Outer 17,Coral,2.48
+2008,LTER 3,Outer 17,Crustose Corallines,13.2
+2008,LTER 3,Outer 17,Cyanophyta,0.72
+2008,LTER 3,Outer 17,Dictyota friabilis,0.56
+2008,LTER 3,Outer 17,Halimeda minima,21.68
+2008,LTER 3,Outer 17,Lobophora variegata,9.12
+2008,LTER 3,Outer 17,Peyssonnelia inamoena,4.56
+2008,LTER 3,Outer 17,Sand,0.32
+2008,LTER 3,Outer 17,Soft Coral,0.08
+2008,LTER 4,Fringing,Algal Turf,41.92
+2008,LTER 4,Fringing,Coral,18.56
+2008,LTER 4,Fringing,Coral Rubble,12.521739130434783
+2008,LTER 4,Fringing,Crustose Corallines,0
+2008,LTER 4,Fringing,Cyanophyta,4.32
+2008,LTER 4,Fringing,Halimeda discoidea,0.08
+2008,LTER 4,Fringing,Halimeda minima,2.24
+2008,LTER 4,Fringing,Sand,22.48
+2008,LTER 4,Fringing,Shell Debris,9.565217391304348
+2008,LTER 4,Fringing,Soft Coral,0.5217391304347826
+2008,LTER 4,Backreef,Algal Turf,56.24
+2008,LTER 4,Backreef,Cladophoropsis membranacea,0.16
+2008,LTER 4,Backreef,Coral,26.72
+2008,LTER 4,Backreef,Coral Rubble,24.666666666666668
+2008,LTER 4,Backreef,Crustose Corallines,0.08
+2008,LTER 4,Backreef,Cyanophyta,0.16
+2008,LTER 4,Backreef,Halimeda discoidea,0.08
+2008,LTER 4,Backreef,Halimeda minima,0.4
+2008,LTER 4,Backreef,Sand,10.24
+2008,LTER 4,Outer 10,Algal Turf,44.12
+2008,LTER 4,Outer 10,Caulerpa serrulata,0.16
+2008,LTER 4,Outer 10,Cladophoropsis membranacea,0.56
+2008,LTER 4,Outer 10,Coral,31.32
+2008,LTER 4,Outer 10,Crustose Corallines,6.72
+2008,LTER 4,Outer 10,Cyanophyta,2.72
+2008,LTER 4,Outer 10,Dictyota friabilis,0.24
+2008,LTER 4,Outer 10,Halimeda discoidea,1.52
+2008,LTER 4,Outer 10,Halimeda minima,3.68
+2008,LTER 4,Outer 10,Lobophora variegata,0.32
+2008,LTER 4,Outer 10,Martensia elegans,0.08
+2008,LTER 4,Outer 10,Millepora platyphylla,54.666666666666664
+2008,LTER 4,Outer 10,Peyssonnelia inamoena,1.36
+2008,LTER 4,Outer 10,Sand,0.64
+2008,LTER 4,Outer 17,Algal Turf,33.84
+2008,LTER 4,Outer 17,Coral,35.12
+2008,LTER 4,Outer 17,Crustose Corallines,9.6
+2008,LTER 4,Outer 17,Halimeda discoidea,0.48
+2008,LTER 4,Outer 17,Halimeda minima,6.24
+2008,LTER 4,Outer 17,Lobophora variegata,1.04
+2008,LTER 4,Outer 17,Millepora platyphylla,6
+2008,LTER 4,Outer 17,Peyssonnelia inamoena,11.92
+2008,LTER 4,Outer 17,Sand,1.28
+2008,LTER 4,Outer 17,Soft Coral,6
+2008,LTER 5,Fringing,Algal Turf,14.16
+2008,LTER 5,Fringing,Coral,69.44
+2008,LTER 5,Fringing,Corallimorpharia,2.2857142857142856
+2008,LTER 5,Fringing,Crustose Corallines,0
+2008,LTER 5,Fringing,Halimeda minima,0.24
+2008,LTER 5,Fringing,Sand,13.68
+2008,LTER 5,Fringing,Shell Debris,1.1428571428571428
+2008,LTER 5,Fringing,Sponge,4.571428571428571
+2008,LTER 5,Fringing,Symploca hydnoides,1.36
+2008,LTER 5,Backreef,Algal Turf,40.96
+2008,LTER 5,Backreef,Amansia rhodantha,0.08
+2008,LTER 5,Backreef,Caulerpa racemosa,0.08
+2008,LTER 5,Backreef,Cladophoropsis membranacea,0.24
+2008,LTER 5,Backreef,Coral,28.24
+2008,LTER 5,Backreef,Coral Rubble,14.285714285714286
+2008,LTER 5,Backreef,Crustose Corallines,0.96
+2008,LTER 5,Backreef,Cyanophyta,1.2
+2008,LTER 5,Backreef,Halimeda minima,1.2
+2008,LTER 5,Backreef,Sand,24.96
+2008,LTER 5,Backreef,Valonia ventricosa,0.08
+2008,LTER 5,Outer 10,Algal Turf,36.08
+2008,LTER 5,Outer 10,Amphiroa fragilissima,0.16
+2008,LTER 5,Outer 10,Caulerpa serrulata,0.08
+2008,LTER 5,Outer 10,Coral,27.92
+2008,LTER 5,Outer 10,Crustose Corallines,7.44
+2008,LTER 5,Outer 10,Cyanophyta,1.36
+2008,LTER 5,Outer 10,Halimeda discoidea,6
+2008,LTER 5,Outer 10,Halimeda distorta,2.72
+2008,LTER 5,Outer 10,Halimeda minima,10.8
+2008,LTER 5,Outer 10,Millepora platyphylla,17.333333333333332
+2008,LTER 5,Outer 10,Peyssonnelia inamoena,3.68
+2008,LTER 5,Outer 10,Sand,0.64
+2008,LTER 5,Outer 10,Soft Coral,2.6666666666666665
+2008,LTER 5,Outer 10,Symploca hydnoides,1.92
+2008,LTER 5,Outer 17,Algal Turf,38.93877551020408
+2008,LTER 5,Outer 17,Amansia rhodantha,0.08163265306122448
+2008,LTER 5,Outer 17,Coral,19.755102040816325
+2008,LTER 5,Outer 17,Crustose Corallines,21.79591836734694
+2008,LTER 5,Outer 17,Cyanophyta,0.40816326530612246
+2008,LTER 5,Outer 17,Dictyota friabilis,0.16326530612244897
+2008,LTER 5,Outer 17,Halimeda discoidea,0.08163265306122448
+2008,LTER 5,Outer 17,Halimeda minima,3.020408163265306
+2008,LTER 5,Outer 17,Lobophora variegata,2.122448979591837
+2008,LTER 5,Outer 17,Millepora platyphylla,15.333333333333334
+2008,LTER 5,Outer 17,No data,-1
+2008,LTER 5,Outer 17,Peyssonnelia inamoena,6.612244897959184
+2008,LTER 5,Outer 17,Sand,4.489795918367347
+2008,LTER 5,Outer 17,Soft Coral,5.333333333333333
+2008,LTER 6,Fringing,Algal Turf,40.24
+2008,LTER 6,Fringing,Amansia rhodantha,10.16
+2008,LTER 6,Fringing,Amphiroa fragilissima,1.68
+2008,LTER 6,Fringing,Ascidian,0.7272727272727273
+2008,LTER 6,Fringing,Caulerpa racemosa,1.04
+2008,LTER 6,Fringing,Cladophoropsis membranacea,0.08
+2008,LTER 6,Fringing,Coral,22.48
+2008,LTER 6,Fringing,Coral Rubble,1.4545454545454546
+2008,LTER 6,Fringing,Corallimorpharia,2.5454545454545454
+2008,LTER 6,Fringing,Crustose Corallines,1.6
+2008,LTER 6,Fringing,Cyanophyta,0.4
+2008,LTER 6,Fringing,Dichotomaria marginata,2.96
+2008,LTER 6,Fringing,Dictyosphaeria versluysii,0.72
+2008,LTER 6,Fringing,Dictyota friabilis,0.32
+2008,LTER 6,Fringing,Galaxaura filamentosa,0.24
+2008,LTER 6,Fringing,Halimeda opuntia,8.8
+2008,LTER 6,Fringing,Sand,7.2
+2008,LTER 6,Fringing,Sponge,4
+2008,LTER 6,Fringing,Turbinaria ornata,0.08
+2008,LTER 6,Fringing,Valonia aegagropila,0.08
+2008,LTER 6,Backreef,Algal Turf,38.48
+2008,LTER 6,Backreef,Amansia rhodantha,0.08
+2008,LTER 6,Backreef,Caulerpa serrulata,0.16
+2008,LTER 6,Backreef,Coral,23.6
+2008,LTER 6,Backreef,Coral Rubble,14
+2008,LTER 6,Backreef,Crustose Corallines,1.28
+2008,LTER 6,Backreef,Cyanophyta,0.8
+2008,LTER 6,Backreef,Galaxaura rugosa,0.24
+2008,LTER 6,Backreef,Halimeda discoidea,0.08
+2008,LTER 6,Backreef,Halimeda minima,1.52
+2008,LTER 6,Backreef,Halimeda sp.,0.4
+2008,LTER 6,Backreef,Sand,32.72
+2008,LTER 6,Backreef,Valonia ventricosa,0.08
+2008,LTER 6,Outer 10,Algal Turf,45.6
+2008,LTER 6,Outer 10,Cladophoropsis membranacea,0.24
+2008,LTER 6,Outer 10,Coral,26.56
+2008,LTER 6,Outer 10,Crustose Corallines,10.16
+2008,LTER 6,Outer 10,Cyanophyta,0.32
+2008,LTER 6,Outer 10,Halimeda discoidea,0.16
+2008,LTER 6,Outer 10,Halimeda minima,13.28
+2008,LTER 6,Outer 10,Lobophora variegata,0.8
+2008,LTER 6,Outer 10,Millepora platyphylla,20
+2008,LTER 6,Outer 10,Peyssonnelia inamoena,1.44
+2008,LTER 6,Outer 10,Sand,0.64
+2008,LTER 6,Outer 17,Algal Turf,48.16
+2008,LTER 6,Outer 17,Coral,11.92
+2008,LTER 6,Outer 17,Crustose Corallines,13.52
+2008,LTER 6,Outer 17,Cyanophyta,0.64
+2008,LTER 6,Outer 17,Dictyota friabilis,0.16
+2008,LTER 6,Outer 17,Halimeda discoidea,0.08
+2008,LTER 6,Outer 17,Halimeda distorta,0.08
+2008,LTER 6,Outer 17,Halimeda minima,5.36
+2008,LTER 6,Outer 17,Halimeda sp.,0.16
+2008,LTER 6,Outer 17,Lobophora variegata,7.68
+2008,LTER 6,Outer 17,Peyssonnelia inamoena,5.12
+2008,LTER 6,Outer 17,Sand,7.12
+2009,LTER 1,Fringing,Algal Turf,41.52
+2009,LTER 1,Fringing,Cladophoropsis membranacea,0.08
+2009,LTER 1,Fringing,Coral,41.36
+2009,LTER 1,Fringing,Corallimorpharia,0.24
+2009,LTER 1,Fringing,Crustose Corallines,4.16
+2009,LTER 1,Fringing,Cyanophyta,0.24
+2009,LTER 1,Fringing,Dictyota bartayresiana,0.08
+2009,LTER 1,Fringing,Galaxaura rugosa,0.08
+2009,LTER 1,Fringing,Halimeda minima,4.72
+2009,LTER 1,Fringing,Halimeda opuntia,0.16
+2009,LTER 1,Fringing,Sand,7.28
+2009,LTER 1,Fringing,Turbinaria ornata,0.08
+2009,LTER 1,Backreef,Actinotrichia fragilis,0.08
+2009,LTER 1,Backreef,Algal Turf,53.68
+2009,LTER 1,Backreef,Amansia rhodantha,0.4
+2009,LTER 1,Backreef,Coral,22.4
+2009,LTER 1,Backreef,Crustose Corallines,10.72
+2009,LTER 1,Backreef,Cyanophyta,0.16
+2009,LTER 1,Backreef,Halimeda minima,1.76
+2009,LTER 1,Backreef,Sand,10.64
+2009,LTER 1,Backreef,Turbinaria ornata,0.16
+2009,LTER 1,Outer 10,Algal Turf,58.84
+2009,LTER 1,Outer 10,Asparagopsis taxiformis,9.36
+2009,LTER 1,Outer 10,Coral,2
+2009,LTER 1,Outer 10,Crustose Corallines,18.2
+2009,LTER 1,Outer 10,Cyanophyta,0.48
+2009,LTER 1,Outer 10,Halimeda discoidea,1.84
+2009,LTER 1,Outer 10,Halimeda minima,6.56
+2009,LTER 1,Outer 10,Millepora platyphylla,0.88
+2009,LTER 1,Outer 10,Peyssonnelia inamoena,0.8
+2009,LTER 1,Outer 10,Ralfsia sp.,0.56
+2009,LTER 1,Outer 10,Sand,0.48
+2009,LTER 1,Outer 17,Algal Turf,62.16
+2009,LTER 1,Outer 17,Asparagopsis taxiformis,6.48
+2009,LTER 1,Outer 17,Coral,6.48
+2009,LTER 1,Outer 17,Crustose Corallines,6.48
+2009,LTER 1,Outer 17,Halimeda minima,7.84
+2009,LTER 1,Outer 17,Lobophora variegata,7.36
+2009,LTER 1,Outer 17,Millepora platyphylla,0.32
+2009,LTER 1,Outer 17,Peyssonnelia inamoena,0.72
+2009,LTER 1,Outer 17,Sand,2.16
+2009,LTER 2,Fringing,Algal Turf,76.48
+2009,LTER 2,Fringing,Coral,9.6
+2009,LTER 2,Fringing,Corallimorpharia,0.32
+2009,LTER 2,Fringing,Crustose Corallines,9.44
+2009,LTER 2,Fringing,Galaxaura rugosa,0.8
+2009,LTER 2,Fringing,Halimeda minima,0.16
+2009,LTER 2,Fringing,Millepora platyphylla,1.6
+2009,LTER 2,Fringing,Sand,0.48
+2009,LTER 2,Fringing,Sponge,0.08
+2009,LTER 2,Fringing,Turbinaria ornata,1.04
+2009,LTER 2,Backreef,Actinotrichia fragilis,1.92
+2009,LTER 2,Backreef,Algal Turf,42.8
+2009,LTER 2,Backreef,Coral,24.8
+2009,LTER 2,Backreef,Corallimorpharia,0.08
+2009,LTER 2,Backreef,Crustose Corallines,3.04
+2009,LTER 2,Backreef,Cyanophyta,0.48
+2009,LTER 2,Backreef,Dictyota bartayresiana,7.44
+2009,LTER 2,Backreef,Dictyota friabilis,0.16
+2009,LTER 2,Backreef,Galaxaura filamentosa,0.08
+2009,LTER 2,Backreef,Halimeda minima,0.56
+2009,LTER 2,Backreef,Sand,16.4
+2009,LTER 2,Backreef,Sponge,0.08
+2009,LTER 2,Backreef,Turbinaria ornata,2.16
+2009,LTER 2,Outer 10,Algal Turf,52.64
+2009,LTER 2,Outer 10,Amansia rhodantha,0.24
+2009,LTER 2,Outer 10,Asparagopsis taxiformis,4.96
+2009,LTER 2,Outer 10,Coral,3.68
+2009,LTER 2,Outer 10,Crustose Corallines,17.04
+2009,LTER 2,Outer 10,Cyanophyta,0.48
+2009,LTER 2,Outer 10,Halimeda discoidea,1.12
+2009,LTER 2,Outer 10,Halimeda minima,10.56
+2009,LTER 2,Outer 10,Lobophora variegata,4.48
+2009,LTER 2,Outer 10,Millepora platyphylla,2.48
+2009,LTER 2,Outer 10,Peyssonnelia inamoena,0.8
+2009,LTER 2,Outer 10,Sand,1.52
+2009,LTER 2,Outer 17,Algal Turf,61.92
+2009,LTER 2,Outer 17,Asparagopsis taxiformis,7.36
+2009,LTER 2,Outer 17,Coral,1.36
+2009,LTER 2,Outer 17,Crustose Corallines,9.6
+2009,LTER 2,Outer 17,Cyanophyta,0.16
+2009,LTER 2,Outer 17,Dictyota bartayresiana,0.24
+2009,LTER 2,Outer 17,Halimeda minima,13.2
+2009,LTER 2,Outer 17,Lobophora variegata,3.36
+2009,LTER 2,Outer 17,Millepora platyphylla,0.24
+2009,LTER 2,Outer 17,Peyssonnelia inamoena,0.56
+2009,LTER 2,Outer 17,Sand,2
+2009,LTER 3,Fringing,Algal Turf,53.84
+2009,LTER 3,Fringing,Amphiroa fragilissima,0.08
+2009,LTER 3,Fringing,Coral,18.64
+2009,LTER 3,Fringing,Crustose Corallines,0.72
+2009,LTER 3,Fringing,Cyanophyta,0.32
+2009,LTER 3,Fringing,Damselfish Turf,15.92
+2009,LTER 3,Fringing,Halimeda minima,0.72
+2009,LTER 3,Fringing,Sand,9.76
+2009,LTER 3,Backreef,Algal Turf,41.28
+2009,LTER 3,Backreef,Amansia rhodantha,0.8
+2009,LTER 3,Backreef,Coral,26.4
+2009,LTER 3,Backreef,Crustose Corallines,1.28
+2009,LTER 3,Backreef,Damselfish Turf,0.96
+2009,LTER 3,Backreef,Halimeda discoidea,0.08
+2009,LTER 3,Backreef,Halimeda minima,1.6
+2009,LTER 3,Backreef,Sand,27.52
+2009,LTER 3,Backreef,Turbinaria ornata,0.08
+2009,LTER 3,Outer 10,Algal Turf,21.28
+2009,LTER 3,Outer 10,Asparagopsis taxiformis,0
+2009,LTER 3,Outer 10,Coral,4.08
+2009,LTER 3,Outer 10,Crustose Corallines,21.52
+2009,LTER 3,Outer 10,Cyanophyta,42.56
+2009,LTER 3,Outer 10,Halimeda minima,5.76
+2009,LTER 3,Outer 10,Lobophora variegata,2.48
+2009,LTER 3,Outer 10,Peyssonnelia inamoena,1.76
+2009,LTER 3,Outer 10,Sand,0.32
+2009,LTER 3,Outer 10,Turbinaria ornata,0.24
+2009,LTER 3,Outer 17,Algal Turf,18.96
+2009,LTER 3,Outer 17,Amansia rhodantha,0.88
+2009,LTER 3,Outer 17,Asparagopsis taxiformis,0
+2009,LTER 3,Outer 17,Coral,0
+2009,LTER 3,Outer 17,Crustose Corallines,17.12
+2009,LTER 3,Outer 17,Cyanophyta,35.6
+2009,LTER 3,Outer 17,Halimeda minima,13.68
+2009,LTER 3,Outer 17,Lobophora variegata,13.12
+2009,LTER 3,Outer 17,Sand,0.64
+2009,LTER 4,Fringing,Algal Turf,49.92
+2009,LTER 4,Fringing,Amansia rhodantha,0.24
+2009,LTER 4,Fringing,Coral,20.56
+2009,LTER 4,Fringing,Crustose Corallines,0
+2009,LTER 4,Fringing,Cyanophyta,0.32
+2009,LTER 4,Fringing,Galaxaura rugosa,0.08
+2009,LTER 4,Fringing,Halimeda discoidea,0.08
+2009,LTER 4,Fringing,Halimeda minima,5.52
+2009,LTER 4,Fringing,Sand,23.28
+2009,LTER 4,Backreef,Algal Turf,61.68
+2009,LTER 4,Backreef,Coral,25.44
+2009,LTER 4,Backreef,Crustose Corallines,0.8
+2009,LTER 4,Backreef,Cyanophyta,0.08
+2009,LTER 4,Backreef,Halimeda minima,0.56
+2009,LTER 4,Backreef,Microdictyon umbilicatum,0.16
+2009,LTER 4,Backreef,Sand,11.28
+2009,LTER 4,Outer 10,Algal Turf,49.04
+2009,LTER 4,Outer 10,Coral,19.12
+2009,LTER 4,Outer 10,Crustose Corallines,11.92
+2009,LTER 4,Outer 10,Cyanophyta,1.04
+2009,LTER 4,Outer 10,Halimeda discoidea,0.16
+2009,LTER 4,Outer 10,Halimeda minima,9.44
+2009,LTER 4,Outer 10,Lobophora variegata,1.28
+2009,LTER 4,Outer 10,Millepora platyphylla,6.08
+2009,LTER 4,Outer 10,Peyssonnelia inamoena,0.4
+2009,LTER 4,Outer 10,Sand,1.44
+2009,LTER 4,Outer 10,Turbinaria ornata,0.08
+2009,LTER 4,Outer 17,Algal Turf,42.26086956521739
+2009,LTER 4,Outer 17,Coral,2.9565217391304346
+2009,LTER 4,Outer 17,Crustose Corallines,16.26086956521739
+2009,LTER 4,Outer 17,Cyanophyta,3.391304347826087
+2009,LTER 4,Outer 17,Halimeda minima,13.478260869565217
+2009,LTER 4,Outer 17,Lobophora variegata,17.391304347826086
+2009,LTER 4,Outer 17,Millepora platyphylla,0.17391304347826086
+2009,LTER 4,Outer 17,No data,-1
+2009,LTER 4,Outer 17,Peyssonnelia inamoena,1.3043478260869565
+2009,LTER 4,Outer 17,Sand,2.608695652173913
+2009,LTER 4,Outer 17,Soft Coral,0.17391304347826086
+2009,LTER 5,Fringing,Algal Turf,16.355555555555554
+2009,LTER 5,Fringing,Amphiroa fragilissima,0.08888888888888889
+2009,LTER 5,Fringing,Coral,65.33333333333333
+2009,LTER 5,Fringing,Corallimorpharia,0.35555555555555557
+2009,LTER 5,Fringing,Crustose Corallines,0.6222222222222222
+2009,LTER 5,Fringing,Cyanophyta,2.311111111111111
+2009,LTER 5,Fringing,Halimeda minima,0.6222222222222222
+2009,LTER 5,Fringing,No data,-1
+2009,LTER 5,Fringing,Sand,14.133333333333333
+2009,LTER 5,Fringing,Sponge,0.17777777777777778
+2009,LTER 5,Backreef,Algal Turf,38.72
+2009,LTER 5,Backreef,Amansia rhodantha,0.32
+2009,LTER 5,Backreef,Coral,28.96
+2009,LTER 5,Backreef,Crustose Corallines,2.24
+2009,LTER 5,Backreef,Cyanophyta,0.88
+2009,LTER 5,Backreef,Halimeda distorta,0.96
+2009,LTER 5,Backreef,Halimeda incrassata,0.56
+2009,LTER 5,Backreef,Halimeda minima,1.52
+2009,LTER 5,Backreef,Sand,25.84
+2009,LTER 5,Outer 10,Algal Turf,43.28
+2009,LTER 5,Outer 10,Coral,22.08
+2009,LTER 5,Outer 10,Crustose Corallines,6.64
+2009,LTER 5,Outer 10,Cyanophyta,0.48
+2009,LTER 5,Outer 10,Halimeda discoidea,11.36
+2009,LTER 5,Outer 10,Halimeda distorta,0.88
+2009,LTER 5,Outer 10,Halimeda incrassata,3.68
+2009,LTER 5,Outer 10,Halimeda minima,8.32
+2009,LTER 5,Outer 10,Jania sp.,0.16
+2009,LTER 5,Outer 10,Millepora platyphylla,1.68
+2009,LTER 5,Outer 10,Peyssonnelia inamoena,0.88
+2009,LTER 5,Outer 10,Sand,0.4
+2009,LTER 5,Outer 10,Soft Coral,0.16
+2009,LTER 5,Outer 17,Algal Turf,52.64
+2009,LTER 5,Outer 17,Coral,6.08
+2009,LTER 5,Outer 17,Crustose Corallines,24.4
+2009,LTER 5,Outer 17,Cyanophyta,0.88
+2009,LTER 5,Outer 17,Halimeda minima,3.6
+2009,LTER 5,Outer 17,Lobophora variegata,3.92
+2009,LTER 5,Outer 17,Millepora platyphylla,1.36
+2009,LTER 5,Outer 17,Peyssonnelia inamoena,2.4
+2009,LTER 5,Outer 17,Sand,4.16
+2009,LTER 5,Outer 17,Soft Coral,0.56
+2009,LTER 6,Fringing,Algal Turf,49.28
+2009,LTER 6,Fringing,Amansia rhodantha,9.6
+2009,LTER 6,Fringing,Amphiroa fragilissima,0.4
+2009,LTER 6,Fringing,Caulerpa racemosa,0.32
+2009,LTER 6,Fringing,Coral,20.8
+2009,LTER 6,Fringing,Corallimorpharia,0.96
+2009,LTER 6,Fringing,Crustose Corallines,0.16
+2009,LTER 6,Fringing,Cyanophyta,0.4
+2009,LTER 6,Fringing,Dichotomaria marginata,0.56
+2009,LTER 6,Fringing,Dictyosphaeria cavernosa,0.08
+2009,LTER 6,Fringing,Dictyota bartayresiana,0.08
+2009,LTER 6,Fringing,Galaxaura filamentosa,0.08
+2009,LTER 6,Fringing,Galaxaura rugosa,1.76
+2009,LTER 6,Fringing,Halimeda incrassata,0.24
+2009,LTER 6,Fringing,Halimeda minima,9.36
+2009,LTER 6,Fringing,Sand,5.76
+2009,LTER 6,Fringing,Sponge,0.08
+2009,LTER 6,Fringing,Turbinaria ornata,0.08
+2009,LTER 6,Backreef,Algal Turf,47.6
+2009,LTER 6,Backreef,Coral,19.04
+2009,LTER 6,Backreef,Crustose Corallines,3.12
+2009,LTER 6,Backreef,Cyanophyta,0.4
+2009,LTER 6,Backreef,Galaxaura rugosa,0.16
+2009,LTER 6,Backreef,Halimeda discoidea,0.08
+2009,LTER 6,Backreef,Halimeda incrassata,0.32
+2009,LTER 6,Backreef,Halimeda minima,0.8
+2009,LTER 6,Backreef,Sand,28.48
+2009,LTER 6,Outer 10,Algal Turf,43.6
+2009,LTER 6,Outer 10,Coral,9.6
+2009,LTER 6,Outer 10,Crustose Corallines,17.76
+2009,LTER 6,Outer 10,Cyanophyta,10
+2009,LTER 6,Outer 10,Halimeda discoidea,4.48
+2009,LTER 6,Outer 10,Halimeda distorta,2.32
+2009,LTER 6,Outer 10,Halimeda incrassata,0.24
+2009,LTER 6,Outer 10,Halimeda minima,9.36
+2009,LTER 6,Outer 10,Lobophora variegata,0.16
+2009,LTER 6,Outer 10,Millepora platyphylla,0.56
+2009,LTER 6,Outer 10,Peyssonnelia inamoena,0.72
+2009,LTER 6,Outer 10,Sand,1.2
+2009,LTER 6,Outer 17,Algal Turf,52.48
+2009,LTER 6,Outer 17,Coral,0.4
+2009,LTER 6,Outer 17,Crustose Corallines,21.28
+2009,LTER 6,Outer 17,Cyanophyta,1.36
+2009,LTER 6,Outer 17,Dictyota bartayresiana,8
+2009,LTER 6,Outer 17,Halimeda minima,9.28
+2009,LTER 6,Outer 17,Lobophora variegata,7.68
+2009,LTER 6,Outer 17,Peyssonnelia inamoena,1.92
+2009,LTER 6,Outer 17,Sand,5.44
+2010,LTER 1,Fringing,Algal Turf,39.83673469387755
+2010,LTER 1,Fringing,Coral,46.53061224489796
+2010,LTER 1,Fringing,Crustose Corallines,1.3061224489795917
+2010,LTER 1,Fringing,Cyanophyta,0.08163265306122448
+2010,LTER 1,Fringing,Dictyota bartayresiana,0.08163265306122448
+2010,LTER 1,Fringing,Galaxaura rugosa,0.08163265306122448
+2010,LTER 1,Fringing,Halimeda incrassata,3.2653061224489797
+2010,LTER 1,Fringing,Halimeda macroloba,0.08163265306122448
+2010,LTER 1,Fringing,Halimeda minima,1.1428571428571428
+2010,LTER 1,Fringing,No data,-1
+2010,LTER 1,Fringing,Sand,7.591836734693878
+2010,LTER 1,Backreef,Algal Turf,54.96
+2010,LTER 1,Backreef,Amansia rhodantha,0.32
+2010,LTER 1,Backreef,Coral,21.6
+2010,LTER 1,Backreef,Crustose Corallines,12.88
+2010,LTER 1,Backreef,Halimeda minima,0.32
+2010,LTER 1,Backreef,Sand,8.56
+2010,LTER 1,Backreef,Turbinaria ornata,1.36
+2010,LTER 1,Outer 10,Algal Turf,60.48
+2010,LTER 1,Outer 10,Asparagopsis taxiformis,3.52
+2010,LTER 1,Outer 10,Coral,2.24
+2010,LTER 1,Outer 10,Crustose Corallines,30.08
+2010,LTER 1,Outer 10,Halimeda macroloba,1.68
+2010,LTER 1,Outer 10,Halimeda minima,1.44
+2010,LTER 1,Outer 10,Millepora platyphylla,0.56
+2010,LTER 1,Outer 10,Sand,0
+2010,LTER 1,Outer 17,Algal Turf,59.04
+2010,LTER 1,Outer 17,Asparagopsis taxiformis,0.96
+2010,LTER 1,Outer 17,Coral,5.28
+2010,LTER 1,Outer 17,Crustose Corallines,25.52
+2010,LTER 1,Outer 17,Halimeda minima,3.04
+2010,LTER 1,Outer 17,Lobophora variegata,0.8
+2010,LTER 1,Outer 17,Millepora platyphylla,0.24
+2010,LTER 1,Outer 17,Sand,5.12
+2010,LTER 2,Fringing,Algal Turf,71.84
+2010,LTER 2,Fringing,Ascidian,0.16
+2010,LTER 2,Fringing,Coral,13.76
+2010,LTER 2,Fringing,Crustose Corallines,7.6
+2010,LTER 2,Fringing,Galaxaura rugosa,1.04
+2010,LTER 2,Fringing,Halimeda minima,0.32
+2010,LTER 2,Fringing,Lithophyllum kotschyanum,1.36
+2010,LTER 2,Fringing,Millepora platyphylla,2
+2010,LTER 2,Fringing,Sand,0.32
+2010,LTER 2,Fringing,Turbinaria ornata,1.6
+2010,LTER 2,Backreef,Actinotrichia fragilis,1.52
+2010,LTER 2,Backreef,Algal Turf,43.92
+2010,LTER 2,Backreef,Amphiroa fragilissima,0.16
+2010,LTER 2,Backreef,Coral,20.08
+2010,LTER 2,Backreef,Crustose Corallines,4.72
+2010,LTER 2,Backreef,Dictyota bartayresiana,7.2
+2010,LTER 2,Backreef,Halimeda minima,0.8
+2010,LTER 2,Backreef,Sand,16.88
+2010,LTER 2,Backreef,Turbinaria ornata,4.72
+2010,LTER 2,Outer 10,Algal Turf,63.12
+2010,LTER 2,Outer 10,Asparagopsis taxiformis,2.24
+2010,LTER 2,Outer 10,Coral,3.04
+2010,LTER 2,Outer 10,Crustose Corallines,25.92
+2010,LTER 2,Outer 10,Halimeda macroloba,0.16
+2010,LTER 2,Outer 10,Halimeda minima,2.16
+2010,LTER 2,Outer 10,Lobophora variegata,0.16
+2010,LTER 2,Outer 10,Millepora platyphylla,2.64
+2010,LTER 2,Outer 10,Sand,0.56
+2010,LTER 2,Outer 17,Algal Turf,76.56
+2010,LTER 2,Outer 17,Asparagopsis taxiformis,0.16
+2010,LTER 2,Outer 17,Coral,1.2
+2010,LTER 2,Outer 17,Crustose Corallines,18.16
+2010,LTER 2,Outer 17,Halimeda minima,1.84
+2010,LTER 2,Outer 17,Sand,2.08
+2010,LTER 3,Fringing,Algal Turf,63.52
+2010,LTER 3,Fringing,Asparagopsis taxiformis,0.08
+2010,LTER 3,Fringing,Coral,25.92
+2010,LTER 3,Fringing,Corallimorpharia,0.08
+2010,LTER 3,Fringing,Crustose Corallines,1.52
+2010,LTER 3,Fringing,Halimeda minima,0.88
+2010,LTER 3,Fringing,Sand,8
+2010,LTER 3,Backreef,Algal Turf,44
+2010,LTER 3,Backreef,Amansia rhodantha,3.52
+2010,LTER 3,Backreef,Coral,34.4
+2010,LTER 3,Backreef,Crustose Corallines,1.76
+2010,LTER 3,Backreef,Cyanophyta,0.16
+2010,LTER 3,Backreef,Dictyota bartayresiana,0.08
+2010,LTER 3,Backreef,Halimeda minima,0.64
+2010,LTER 3,Backreef,Sand,15.28
+2010,LTER 3,Backreef,Turbinaria ornata,0.16
+2010,LTER 3,Outer 10,Algal Turf,56.16
+2010,LTER 3,Outer 10,Asparagopsis taxiformis,0
+2010,LTER 3,Outer 10,Coral,0.8
+2010,LTER 3,Outer 10,Crustose Corallines,28.88
+2010,LTER 3,Outer 10,Halimeda minima,0.64
+2010,LTER 3,Outer 10,Lobophora variegata,7.28
+2010,LTER 3,Outer 10,Peyssonnelia inamoena,4.32
+2010,LTER 3,Outer 10,Sand,1.04
+2010,LTER 3,Outer 10,Turbinaria ornata,0.88
+2010,LTER 3,Outer 17,Algal Turf,51.2
+2010,LTER 3,Outer 17,Amphiroa fragilissima,0.16
+2010,LTER 3,Outer 17,Asparagopsis taxiformis,0
+2010,LTER 3,Outer 17,Coral,0
+2010,LTER 3,Outer 17,Crustose Corallines,23.36
+2010,LTER 3,Outer 17,Dictyota bartayresiana,0.24
+2010,LTER 3,Outer 17,Dictyota hamifera,0.64
+2010,LTER 3,Outer 17,Halimeda minima,1.04
+2010,LTER 3,Outer 17,Heteractis sp.,0.4
+2010,LTER 3,Outer 17,Lobophora variegata,17.68
+2010,LTER 3,Outer 17,Peyssonnelia inamoena,4.56
+2010,LTER 3,Outer 17,Sand,0.72
+2010,LTER 3,Outer 17,Turbinaria ornata,0
+2010,LTER 4,Fringing,Actinotrichia fragilis,0.08
+2010,LTER 4,Fringing,Algal Turf,50.48
+2010,LTER 4,Fringing,Amansia rhodantha,0.08
+2010,LTER 4,Fringing,Amphiroa fragilissima,0.56
+2010,LTER 4,Fringing,Coral,16.08
+2010,LTER 4,Fringing,Crustose Corallines,0.16
+2010,LTER 4,Fringing,Cyanophyta,0.56
+2010,LTER 4,Fringing,Gelidiella acerosa,0.4
+2010,LTER 4,Fringing,Halimeda minima,1.76
+2010,LTER 4,Fringing,Sand,29.84
+2010,LTER 4,Backreef,Algal Turf,53.224489795918366
+2010,LTER 4,Backreef,Amansia rhodantha,0.16326530612244897
+2010,LTER 4,Backreef,Cladophoropsis membranacea,0.16326530612244897
+2010,LTER 4,Backreef,Coral,26.612244897959183
+2010,LTER 4,Backreef,Crustose Corallines,1.2244897959183674
+2010,LTER 4,Backreef,Halimeda macroloba,0.08163265306122448
+2010,LTER 4,Backreef,Halimeda minima,0.40816326530612246
+2010,LTER 4,Backreef,No data,-1
+2010,LTER 4,Backreef,Sand,17.959183673469386
+2010,LTER 4,Backreef,Tridacna sp.,0.16326530612244897
+2010,LTER 4,Outer 10,Algal Turf,61.84
+2010,LTER 4,Outer 10,Asparagopsis taxiformis,0
+2010,LTER 4,Outer 10,Coral,7.44
+2010,LTER 4,Outer 10,Crustose Corallines,18.56
+2010,LTER 4,Outer 10,Cyanophyta,0.32
+2010,LTER 4,Outer 10,Dictyota bartayresiana,0.48
+2010,LTER 4,Outer 10,Halimeda discoidea,0.16
+2010,LTER 4,Outer 10,Halimeda macroloba,0.64
+2010,LTER 4,Outer 10,Halimeda minima,1.44
+2010,LTER 4,Outer 10,Lobophora variegata,1.6
+2010,LTER 4,Outer 10,Millepora platyphylla,6.08
+2010,LTER 4,Outer 10,Sand,1.44
+2010,LTER 4,Outer 17,Algal Turf,56.16
+2010,LTER 4,Outer 17,Caulerpa peltata,0.16
+2010,LTER 4,Outer 17,Coral,0.72
+2010,LTER 4,Outer 17,Crustose Corallines,27.12
+2010,LTER 4,Outer 17,Cyanophyta,1.68
+2010,LTER 4,Outer 17,Halimeda discoidea,0.08
+2010,LTER 4,Outer 17,Halimeda macroloba,0.16
+2010,LTER 4,Outer 17,Halimeda minima,2.64
+2010,LTER 4,Outer 17,Lobophora variegata,7.76
+2010,LTER 4,Outer 17,Millepora platyphylla,0.08
+2010,LTER 4,Outer 17,Sand,3.2
+2010,LTER 4,Outer 17,Soft Coral,0.24
+2010,LTER 5,Fringing,Algal Turf,27.68
+2010,LTER 5,Fringing,Ascidian,0.16
+2010,LTER 5,Fringing,Coral,61.44
+2010,LTER 5,Fringing,Corallimorpharia,0.56
+2010,LTER 5,Fringing,Crustose Corallines,0
+2010,LTER 5,Fringing,Cyanophyta,1.2
+2010,LTER 5,Fringing,Halimeda minima,1.04
+2010,LTER 5,Fringing,Sand,7.92
+2010,LTER 5,Backreef,Algal Turf,41.92
+2010,LTER 5,Backreef,Cladophoropsis membranacea,0.4
+2010,LTER 5,Backreef,Coral,27.92
+2010,LTER 5,Backreef,Crustose Corallines,2.32
+2010,LTER 5,Backreef,Halimeda discoidea,0
+2010,LTER 5,Backreef,Halimeda distorta,0.32
+2010,LTER 5,Backreef,Halimeda incrassata,0.16
+2010,LTER 5,Backreef,Halimeda minima,2
+2010,LTER 5,Backreef,Sand,24.56
+2010,LTER 5,Backreef,Tridacna sp.,0.16
+2010,LTER 5,Backreef,Turbinaria ornata,0.24
+2010,LTER 5,Outer 10,Algal Turf,51.44
+2010,LTER 5,Outer 10,Cladophoropsis membranacea,0.08
+2010,LTER 5,Outer 10,Coral,13.52
+2010,LTER 5,Outer 10,Crustose Corallines,12.96
+2010,LTER 5,Outer 10,Cyanophyta,0.16
+2010,LTER 5,Outer 10,Halimeda discoidea,12.56
+2010,LTER 5,Outer 10,Halimeda distorta,0.32
+2010,LTER 5,Outer 10,Halimeda minima,0.88
+2010,LTER 5,Outer 10,Halimeda opuntia,4.48
+2010,LTER 5,Outer 10,Millepora platyphylla,1.6
+2010,LTER 5,Outer 10,Sand,1.92
+2010,LTER 5,Outer 10,Soft Coral,0.08
+2010,LTER 5,Outer 17,Algal Turf,48.16
+2010,LTER 5,Outer 17,Coral,4.72
+2010,LTER 5,Outer 17,Crustose Corallines,36.56
+2010,LTER 5,Outer 17,Halimeda discoidea,0.08
+2010,LTER 5,Outer 17,Halimeda minima,1.6
+2010,LTER 5,Outer 17,Lobophora variegata,1.68
+2010,LTER 5,Outer 17,Millepora platyphylla,1.44
+2010,LTER 5,Outer 17,Sand,4.88
+2010,LTER 5,Outer 17,Soft Coral,0.88
+2010,LTER 6,Fringing,Algal Turf,36.48
+2010,LTER 6,Fringing,Amansia rhodantha,8.96
+2010,LTER 6,Fringing,Amphiroa fragilissima,0.24
+2010,LTER 6,Fringing,Caulerpa racemosa,0.08
+2010,LTER 6,Fringing,Coral,30.16
+2010,LTER 6,Fringing,Corallimorpharia,0.32
+2010,LTER 6,Fringing,Crustose Corallines,4.56
+2010,LTER 6,Fringing,Cyanophyta,0.24
+2010,LTER 6,Fringing,Dichotomaria marginata,1.68
+2010,LTER 6,Fringing,Dichotomaria obtusata,0.48
+2010,LTER 6,Fringing,Galaxaura filamentosa,0.08
+2010,LTER 6,Fringing,Halimeda minima,12.24
+2010,LTER 6,Fringing,Sand,4.48
+2010,LTER 6,Backreef,Algal Turf,38.16
+2010,LTER 6,Backreef,Coral,24.32
+2010,LTER 6,Backreef,Crustose Corallines,5.84
+2010,LTER 6,Backreef,Cyanophyta,0.24
+2010,LTER 6,Backreef,Dictyota implexa,0.08
+2010,LTER 6,Backreef,Galaxaura rugosa,0.32
+2010,LTER 6,Backreef,Gelidiella acerosa,0.08
+2010,LTER 6,Backreef,Halimeda incrassata,0.16
+2010,LTER 6,Backreef,Halimeda minima,2.16
+2010,LTER 6,Backreef,Sand,28.48
+2010,LTER 6,Backreef,Tridacna sp.,0.16
+2010,LTER 6,Outer 10,Algal Turf,55.6
+2010,LTER 6,Outer 10,Coral,7.12
+2010,LTER 6,Outer 10,Crustose Corallines,26.24
+2010,LTER 6,Outer 10,Cyanophyta,0.32
+2010,LTER 6,Outer 10,Halimeda discoidea,3.52
+2010,LTER 6,Outer 10,Halimeda macroloba,0.24
+2010,LTER 6,Outer 10,Halimeda minima,4.56
+2010,LTER 6,Outer 10,Lobophora variegata,0.56
+2010,LTER 6,Outer 10,Millepora platyphylla,0.72
+2010,LTER 6,Outer 10,Sand,1.12
+2010,LTER 6,Outer 17,Algal Turf,52.48
+2010,LTER 6,Outer 17,Coral,0.08
+2010,LTER 6,Outer 17,Crustose Corallines,32.4
+2010,LTER 6,Outer 17,Halimeda discoidea,0.88
+2010,LTER 6,Outer 17,Halimeda macroloba,0.16
+2010,LTER 6,Outer 17,Halimeda minima,3.92
+2010,LTER 6,Outer 17,Lobophora variegata,4.32
+2010,LTER 6,Outer 17,Sand,5.76
+2011,LTER 1,Fringing,Algal Turf,46
+2011,LTER 1,Fringing,Cladophoropsis membranacea,0.08
+2011,LTER 1,Fringing,Coral,36.08
+2011,LTER 1,Fringing,Crustose Corallines,1.84
+2011,LTER 1,Fringing,Cyanophyta,0.88
+2011,LTER 1,Fringing,Dictyota friabilis,0.48
+2011,LTER 1,Fringing,Halimeda discoidea,0.08
+2011,LTER 1,Fringing,Halimeda minima,0.16
+2011,LTER 1,Fringing,Halimeda opuntia,7.52
+2011,LTER 1,Fringing,Sand,6.64
+2011,LTER 1,Fringing,Symploca hydnoides,0.16
+2011,LTER 1,Fringing,Valonia ventricosa,0.08
+2011,LTER 1,Backreef,Algal Turf,51.44
+2011,LTER 1,Backreef,Amansia rhodantha,1.52
+2011,LTER 1,Backreef,Caulerpa racemosa,0.08
+2011,LTER 1,Backreef,Caulerpa serrulata,0.08
+2011,LTER 1,Backreef,Cladophoropsis membranacea,0.24
+2011,LTER 1,Backreef,Coral,17.44
+2011,LTER 1,Backreef,Crustose Corallines,14.48
+2011,LTER 1,Backreef,Dictyosphaeria cavernosa,0.16
+2011,LTER 1,Backreef,Halimeda discoidea,0.16
+2011,LTER 1,Backreef,Halimeda minima,0.24
+2011,LTER 1,Backreef,Peyssonnelia bornetii,6
+2011,LTER 1,Backreef,Sand,9.36
+2011,LTER 1,Backreef,Turbinaria ornata,4.56
+2011,LTER 1,Outer 10,Algal Turf,83.68
+2011,LTER 1,Outer 10,Asparagopsis taxiformis,4.64
+2011,LTER 1,Outer 10,Coral,0.4
+2011,LTER 1,Outer 10,Crustose Corallines,5.36
+2011,LTER 1,Outer 10,Cyanophyta,2.8
+2011,LTER 1,Outer 10,Halimeda discoidea,0.56
+2011,LTER 1,Outer 10,Halimeda minima,0.08
+2011,LTER 1,Outer 10,Lobophora variegata,0
+2011,LTER 1,Outer 10,Millepora platyphylla,1.04
+2011,LTER 1,Outer 10,Peyssonnelia inamoena,0.72
+2011,LTER 1,Outer 10,Sand,0.72
+2011,LTER 1,Outer 17,Algal Turf,72.8
+2011,LTER 1,Outer 17,Asparagopsis taxiformis,0.08
+2011,LTER 1,Outer 17,Coral,2
+2011,LTER 1,Outer 17,Crustose Corallines,19.28
+2011,LTER 1,Outer 17,Halimeda discoidea,0
+2011,LTER 1,Outer 17,Halimeda minima,0.16
+2011,LTER 1,Outer 17,Lobophora variegata,2.24
+2011,LTER 1,Outer 17,Millepora platyphylla,0.08
+2011,LTER 1,Outer 17,Peyssonnelia inamoena,0.88
+2011,LTER 1,Outer 17,Sand,2.48
+2011,LTER 2,Fringing,Algal Turf,77.2
+2011,LTER 2,Fringing,Caulerpa peltata,0.08
+2011,LTER 2,Fringing,Cladophoropsis membranacea,0.16
+2011,LTER 2,Fringing,Coral,8.96
+2011,LTER 2,Fringing,Crustose Corallines,6.64
+2011,LTER 2,Fringing,Halimeda minima,0.16
+2011,LTER 2,Fringing,Lithophyllum kotschyanum,1.04
+2011,LTER 2,Fringing,Millepora platyphylla,1.84
+2011,LTER 2,Fringing,Sand,1.28
+2011,LTER 2,Fringing,Turbinaria ornata,2.64
+2011,LTER 2,Backreef,Actinotrichia fragilis,0.16
+2011,LTER 2,Backreef,Algal Turf,45.44
+2011,LTER 2,Backreef,Amphiroa fragilissima,1.36
+2011,LTER 2,Backreef,Cladophoropsis membranacea,0.48
+2011,LTER 2,Backreef,Coral,17.44
+2011,LTER 2,Backreef,Crustose Corallines,3.76
+2011,LTER 2,Backreef,Cyanophyta,0.4
+2011,LTER 2,Backreef,Dictyota bartayresiana,11.28
+2011,LTER 2,Backreef,Dictyota friabilis,0.16
+2011,LTER 2,Backreef,Halimeda minima,0.64
+2011,LTER 2,Backreef,Peyssonnelia inamoena,0.64
+2011,LTER 2,Backreef,Sand,14.32
+2011,LTER 2,Backreef,Turbinaria ornata,3.84
+2011,LTER 2,Backreef,Valonia aegagropila,0.08
+2011,LTER 2,Outer 10,Algal Turf,77.52
+2011,LTER 2,Outer 10,Asparagopsis taxiformis,1.92
+2011,LTER 2,Outer 10,Coral,2.72
+2011,LTER 2,Outer 10,Crustose Corallines,8.88
+2011,LTER 2,Outer 10,Cyanophyta,0.48
+2011,LTER 2,Outer 10,Lobophora variegata,1.04
+2011,LTER 2,Outer 10,Millepora platyphylla,2.24
+2011,LTER 2,Outer 10,Peyssonnelia inamoena,0.32
+2011,LTER 2,Outer 10,Sand,3.68
+2011,LTER 2,Outer 10,Symploca hydnoides,1.2
+2011,LTER 2,Outer 17,Algal Turf,76.8
+2011,LTER 2,Outer 17,Asparagopsis taxiformis,0.16
+2011,LTER 2,Outer 17,Bare Space,0.32
+2011,LTER 2,Outer 17,Coral,1.12
+2011,LTER 2,Outer 17,Crustose Corallines,18.16
+2011,LTER 2,Outer 17,Lobophora variegata,0.32
+2011,LTER 2,Outer 17,Peyssonnelia inamoena,0.88
+2011,LTER 2,Outer 17,Sand,2.16
+2011,LTER 2,Outer 17,Symploca hydnoides,0.08
+2011,LTER 3,Fringing,Algal Turf,58.4
+2011,LTER 3,Fringing,Amphiroa fragilissima,0.08
+2011,LTER 3,Fringing,Coral,27.12
+2011,LTER 3,Fringing,Crustose Corallines,3.04
+2011,LTER 3,Fringing,Cyanophyta,0.48
+2011,LTER 3,Fringing,Halimeda minima,0.16
+2011,LTER 3,Fringing,Halimeda opuntia,0.88
+2011,LTER 3,Fringing,Sand,9.84
+2011,LTER 3,Backreef,Algal Turf,31.28
+2011,LTER 3,Backreef,Amansia rhodantha,5.44
+2011,LTER 3,Backreef,Cladophoropsis membranacea,1.28
+2011,LTER 3,Backreef,Coral,33.28
+2011,LTER 3,Backreef,Crustose Corallines,1.84
+2011,LTER 3,Backreef,Cyanophyta,0.72
+2011,LTER 3,Backreef,Halimeda minima,2.08
+2011,LTER 3,Backreef,Sand,23.92
+2011,LTER 3,Backreef,Turbinaria ornata,0.16
+2011,LTER 3,Outer 10,Algal Turf,66.48
+2011,LTER 3,Outer 10,Asparagopsis taxiformis,0.08
+2011,LTER 3,Outer 10,Coral,1.52
+2011,LTER 3,Outer 10,Crustose Corallines,26
+2011,LTER 3,Outer 10,Halimeda discoidea,0.08
+2011,LTER 3,Outer 10,Halimeda minima,0.08
+2011,LTER 3,Outer 10,Lobophora variegata,0.88
+2011,LTER 3,Outer 10,Peyssonnelia inamoena,4.4
+2011,LTER 3,Outer 10,Sand,0.16
+2011,LTER 3,Outer 10,Turbinaria ornata,0.32
+2011,LTER 3,Outer 17,Algal Turf,64.32
+2011,LTER 3,Outer 17,Amphiroa fragilissima,0.24
+2011,LTER 3,Outer 17,Coral,0
+2011,LTER 3,Outer 17,Crustose Corallines,19.84
+2011,LTER 3,Outer 17,Halimeda minima,0.24
+2011,LTER 3,Outer 17,Heteractis sp.,0.64
+2011,LTER 3,Outer 17,Lobophora variegata,6.24
+2011,LTER 3,Outer 17,Peyssonnelia inamoena,7.6
+2011,LTER 3,Outer 17,Sand,0.88
+2011,LTER 4,Fringing,Algal Turf,45.28
+2011,LTER 4,Fringing,Amphiroa fragilissima,0.48
+2011,LTER 4,Fringing,Coral,20.16
+2011,LTER 4,Fringing,Crustose Corallines,9.6
+2011,LTER 4,Fringing,Cyanophyta,4.64
+2011,LTER 4,Fringing,Dictyota bartayresiana,0.4
+2011,LTER 4,Fringing,Galaxaura rugosa,0.08
+2011,LTER 4,Fringing,Halimeda opuntia,1.36
+2011,LTER 4,Fringing,Sand,17.36
+2011,LTER 4,Fringing,Symploca hydnoides,0.64
+2011,LTER 4,Backreef,Algal Turf,46.4
+2011,LTER 4,Backreef,Amansia rhodantha,1.12
+2011,LTER 4,Backreef,Coral,33.36
+2011,LTER 4,Backreef,Crustose Corallines,1.28
+2011,LTER 4,Backreef,Cyanophyta,0.24
+2011,LTER 4,Backreef,Halimeda minima,0.64
+2011,LTER 4,Backreef,Lobophora variegata,0.16
+2011,LTER 4,Backreef,Microdictyon okamurae,0.56
+2011,LTER 4,Backreef,Sand,16.24
+2011,LTER 4,Outer 10,Algal Turf,65.92
+2011,LTER 4,Outer 10,Coral,4.32
+2011,LTER 4,Outer 10,Crustose Corallines,10.08
+2011,LTER 4,Outer 10,Cyanophyta,0.64
+2011,LTER 4,Outer 10,Halimeda discoidea,0.24
+2011,LTER 4,Outer 10,Halimeda distorta,0.08
+2011,LTER 4,Outer 10,Halimeda minima,0.16
+2011,LTER 4,Outer 10,Halimeda taenicola,0.08
+2011,LTER 4,Outer 10,Lobophora variegata,0.08
+2011,LTER 4,Outer 10,Microdictyon okamurae,0.08
+2011,LTER 4,Outer 10,Millepora platyphylla,6.48
+2011,LTER 4,Outer 10,Peyssonnelia inamoena,0.88
+2011,LTER 4,Outer 10,Sand,1.44
+2011,LTER 4,Outer 10,Symploca hydnoides,9.52
+2011,LTER 4,Outer 17,Algal Turf,51.92
+2011,LTER 4,Outer 17,Coral,1.12
+2011,LTER 4,Outer 17,Crustose Corallines,26.72
+2011,LTER 4,Outer 17,Cyanophyta,0.16
+2011,LTER 4,Outer 17,Dictyota implexa,0.16
+2011,LTER 4,Outer 17,Halimeda minima,0.56
+2011,LTER 4,Outer 17,Lobophora variegata,7.92
+2011,LTER 4,Outer 17,Millepora platyphylla,0.16
+2011,LTER 4,Outer 17,Peyssonnelia inamoena,8.24
+2011,LTER 4,Outer 17,Sand,2.56
+2011,LTER 4,Outer 17,Soft Coral,0.48
+2011,LTER 5,Fringing,Algal Turf,25.52
+2011,LTER 5,Fringing,Amphiroa fragilissima,0.56
+2011,LTER 5,Fringing,Caulerpa peltata,0.08
+2011,LTER 5,Fringing,Coral,63.36
+2011,LTER 5,Fringing,Corallimorpharia,0.56
+2011,LTER 5,Fringing,Crustose Corallines,0.32
+2011,LTER 5,Fringing,Halimeda minima,0.64
+2011,LTER 5,Fringing,Sand,7.76
+2011,LTER 5,Fringing,Sponge,0.24
+2011,LTER 5,Fringing,Symploca hydnoides,0.88
+2011,LTER 5,Fringing,Valonia ventricosa,0.08
+2011,LTER 5,Backreef,Algal Turf,37.52
+2011,LTER 5,Backreef,Amansia rhodantha,0.16
+2011,LTER 5,Backreef,Caulerpa racemosa,0.24
+2011,LTER 5,Backreef,Coral,23.92
+2011,LTER 5,Backreef,Crustose Corallines,2.08
+2011,LTER 5,Backreef,Cyanophyta,0.24
+2011,LTER 5,Backreef,Halimeda distorta,0.32
+2011,LTER 5,Backreef,Halimeda incrassata,0.16
+2011,LTER 5,Backreef,Halimeda minima,0.24
+2011,LTER 5,Backreef,Halimeda opuntia,1.36
+2011,LTER 5,Backreef,Microdictyon okamurae,0.4
+2011,LTER 5,Backreef,Sand,33.28
+2011,LTER 5,Backreef,Valonia aegagropila,0.08
+2011,LTER 5,Outer 10,Algal Turf,52.16
+2011,LTER 5,Outer 10,Caulerpa serrulata,0.16
+2011,LTER 5,Outer 10,Coral,8.4
+2011,LTER 5,Outer 10,Crustose Corallines,10.96
+2011,LTER 5,Outer 10,Cyanophyta,6.24
+2011,LTER 5,Outer 10,Halimeda discoidea,8.48
+2011,LTER 5,Outer 10,Halimeda distorta,1.04
+2011,LTER 5,Outer 10,Halimeda minima,4
+2011,LTER 5,Outer 10,Millepora platyphylla,1.6
+2011,LTER 5,Outer 10,Peyssonnelia inamoena,3.76
+2011,LTER 5,Outer 10,Sand,1.68
+2011,LTER 5,Outer 10,Symploca hydnoides,1.52
+2011,LTER 5,Outer 17,Algal Turf,50.8
+2011,LTER 5,Outer 17,Coral,6
+2011,LTER 5,Outer 17,Crustose Corallines,27.76
+2011,LTER 5,Outer 17,Halimeda discoidea,0.08
+2011,LTER 5,Outer 17,Halimeda distorta,0.8
+2011,LTER 5,Outer 17,Lobophora variegata,5.84
+2011,LTER 5,Outer 17,Millepora platyphylla,1.28
+2011,LTER 5,Outer 17,Peyssonnelia inamoena,3.36
+2011,LTER 5,Outer 17,Sand,3.04
+2011,LTER 5,Outer 17,Soft Coral,1.04
+2011,LTER 6,Fringing,Algal Turf,37.44
+2011,LTER 6,Fringing,Amansia rhodantha,6.08
+2011,LTER 6,Fringing,Amphiroa fragilissima,1.04
+2011,LTER 6,Fringing,Caulerpa racemosa,0.64
+2011,LTER 6,Fringing,Coral,37.2
+2011,LTER 6,Fringing,Crustose Corallines,4.72
+2011,LTER 6,Fringing,Cyanophyta,1.2
+2011,LTER 6,Fringing,Dichotomaria marginata,0.96
+2011,LTER 6,Fringing,Dictyosphaeria cavernosa,0.4
+2011,LTER 6,Fringing,Dictyota bartayresiana,0.08
+2011,LTER 6,Fringing,Galaxaura rugosa,0.24
+2011,LTER 6,Fringing,Halimeda minima,0.4
+2011,LTER 6,Fringing,Halimeda opuntia,7.84
+2011,LTER 6,Fringing,Sand,1.6
+2011,LTER 6,Fringing,Valonia aegagropila,0.16
+2011,LTER 6,Backreef,Algal Turf,38.64
+2011,LTER 6,Backreef,Amansia rhodantha,0.08
+2011,LTER 6,Backreef,Caulerpa racemosa,0.56
+2011,LTER 6,Backreef,Cladophoropsis membranacea,0.08
+2011,LTER 6,Backreef,Coral,22.64
+2011,LTER 6,Backreef,Crustose Corallines,2.08
+2011,LTER 6,Backreef,Cyanophyta,0.32
+2011,LTER 6,Backreef,Dictyosphaeria cavernosa,0.08
+2011,LTER 6,Backreef,Galaxaura rugosa,0.56
+2011,LTER 6,Backreef,Halimeda minima,2.16
+2011,LTER 6,Backreef,Sand,32.8
+2011,LTER 6,Outer 10,Algal Turf,57.52
+2011,LTER 6,Outer 10,Amansia rhodantha,0.08
+2011,LTER 6,Outer 10,Asparagopsis taxiformis,0.24
+2011,LTER 6,Outer 10,Coral,7.36
+2011,LTER 6,Outer 10,Crustose Corallines,21.12
+2011,LTER 6,Outer 10,Cyanophyta,0.08
+2011,LTER 6,Outer 10,Halimeda discoidea,0.4
+2011,LTER 6,Outer 10,Halimeda distorta,0.24
+2011,LTER 6,Outer 10,Halimeda minima,1.76
+2011,LTER 6,Outer 10,Halimeda taenicola,3.52
+2011,LTER 6,Outer 10,Lobophora variegata,0.88
+2011,LTER 6,Outer 10,Millepora platyphylla,1.04
+2011,LTER 6,Outer 10,Peyssonnelia inamoena,2
+2011,LTER 6,Outer 10,Sand,3.44
+2011,LTER 6,Outer 10,Symploca hydnoides,0.32
+2011,LTER 6,Outer 17,Algal Turf,50.64
+2011,LTER 6,Outer 17,Caulerpa peltata,0.08
+2011,LTER 6,Outer 17,Coral,1.52
+2011,LTER 6,Outer 17,Crustose Corallines,33.92
+2011,LTER 6,Outer 17,Cyanophyta,0.64
+2011,LTER 6,Outer 17,Halimeda discoidea,0.72
+2011,LTER 6,Outer 17,Halimeda minima,0.56
+2011,LTER 6,Outer 17,Halimeda taenicola,0.08
+2011,LTER 6,Outer 17,Lobophora variegata,5.52
+2011,LTER 6,Outer 17,Peyssonnelia inamoena,2.4
+2011,LTER 6,Outer 17,Sand,3.92
+2012,LTER 1,Fringing,Algal Turf,56.24
+2012,LTER 1,Fringing,Coral,20.8
+2012,LTER 1,Fringing,Crustose Corallines,4.4
+2012,LTER 1,Fringing,Dictyota bartayresiana,7.36
+2012,LTER 1,Fringing,Galaxaura filamentosa,0.16
+2012,LTER 1,Fringing,Halimeda opuntia,2.96
+2012,LTER 1,Fringing,Lobophora variegata,0.64
+2012,LTER 1,Fringing,Peyssonnelia inamoena,0.08
+2012,LTER 1,Fringing,Sand,7.2
+2012,LTER 1,Fringing,Turbinaria ornata,0.16
+2012,LTER 1,Backreef,Algal Turf,49.84
+2012,LTER 1,Backreef,Amansia rhodantha,1.92
+2012,LTER 1,Backreef,Cladophoropsis membranacea,0.08
+2012,LTER 1,Backreef,Coral,12
+2012,LTER 1,Backreef,Crustose Corallines,14.48
+2012,LTER 1,Backreef,Halimeda discoidea,0.32
+2012,LTER 1,Backreef,Halimeda minima,0.8
+2012,LTER 1,Backreef,Sand,11.44
+2012,LTER 1,Backreef,Turbinaria ornata,9.12
+2012,LTER 1,Outer 10,Algal Turf,79.92
+2012,LTER 1,Outer 10,Asparagopsis taxiformis,1.28
+2012,LTER 1,Outer 10,Coral,2.24
+2012,LTER 1,Outer 10,Crustose Corallines,6.4
+2012,LTER 1,Outer 10,Halimeda discoidea,0.08
+2012,LTER 1,Outer 10,Halimeda minima,2.48
+2012,LTER 1,Outer 10,Halimeda taenicola,3.12
+2012,LTER 1,Outer 10,Lobophora variegata,2.24
+2012,LTER 1,Outer 10,Millepora platyphylla,1.68
+2012,LTER 1,Outer 10,Sand,0.56
+2012,LTER 1,Outer 17,Algal Turf,73.2
+2012,LTER 1,Outer 17,Asparagopsis taxiformis,0.72
+2012,LTER 1,Outer 17,Coral,2.88
+2012,LTER 1,Outer 17,Crustose Corallines,16.56
+2012,LTER 1,Outer 17,Halimeda minima,0.08
+2012,LTER 1,Outer 17,Lobophora variegata,2.96
+2012,LTER 1,Outer 17,Millepora platyphylla,0.08
+2012,LTER 1,Outer 17,Peyssonnelia inamoena,0.64
+2012,LTER 1,Outer 17,Sand,2.88
+2012,LTER 2,Fringing,Algal Turf,72.88
+2012,LTER 2,Fringing,Cladophoropsis membranacea,0.08
+2012,LTER 2,Fringing,Coral,5.36
+2012,LTER 2,Fringing,Corallimorpharia,0.64
+2012,LTER 2,Fringing,Crustose Corallines,10.4
+2012,LTER 2,Fringing,Galaxaura filamentosa,1.12
+2012,LTER 2,Fringing,Halimeda opuntia,0.64
+2012,LTER 2,Fringing,Lobophora variegata,2.56
+2012,LTER 2,Fringing,Millepora platyphylla,1.6
+2012,LTER 2,Fringing,Sand,0.48
+2012,LTER 2,Fringing,Turbinaria ornata,4.24
+2012,LTER 2,Backreef,Actinotrichia fragilis,0.56
+2012,LTER 2,Backreef,Algal Turf,48
+2012,LTER 2,Backreef,Coral,12.88
+2012,LTER 2,Backreef,Corallimorpharia,0.48
+2012,LTER 2,Backreef,Crustose Corallines,4.96
+2012,LTER 2,Backreef,Dichotomaria obtusata,0.08
+2012,LTER 2,Backreef,Dictyota bartayresiana,8.24
+2012,LTER 2,Backreef,Galaxaura filamentosa,0.16
+2012,LTER 2,Backreef,Halimeda opuntia,0.72
+2012,LTER 2,Backreef,Lobophora variegata,2.8
+2012,LTER 2,Backreef,Sand,13.12
+2012,LTER 2,Backreef,Turbinaria ornata,8
+2012,LTER 2,Outer 10,Algal Turf,76.32
+2012,LTER 2,Outer 10,Asparagopsis taxiformis,3.44
+2012,LTER 2,Outer 10,Coral,4.72
+2012,LTER 2,Outer 10,Crustose Corallines,7.12
+2012,LTER 2,Outer 10,Halimeda discoidea,0.08
+2012,LTER 2,Outer 10,Halimeda minima,0.48
+2012,LTER 2,Outer 10,Halimeda taenicola,0.56
+2012,LTER 2,Outer 10,Lobophora variegata,0.4
+2012,LTER 2,Outer 10,Millepora platyphylla,4.4
+2012,LTER 2,Outer 10,Sand,2.48
+2012,LTER 2,Outer 17,Algal Turf,75.2
+2012,LTER 2,Outer 17,Asparagopsis taxiformis,0.4
+2012,LTER 2,Outer 17,Coral,2.72
+2012,LTER 2,Outer 17,Crustose Corallines,15.84
+2012,LTER 2,Outer 17,Lobophora variegata,2.48
+2012,LTER 2,Outer 17,Sand,3.28
+2012,LTER 2,Outer 17,Sponge,0.08
+2012,LTER 3,Fringing,Algal Turf,53.92
+2012,LTER 3,Fringing,Amphiroa fragilissima,0.4
+2012,LTER 3,Fringing,Coral,31.84
+2012,LTER 3,Fringing,Crustose Corallines,4.16
+2012,LTER 3,Fringing,Halimeda opuntia,0.8
+2012,LTER 3,Fringing,Lobophora variegata,0.08
+2012,LTER 3,Fringing,Sand,8.72
+2012,LTER 3,Fringing,Turbinaria ornata,0.08
+2012,LTER 3,Backreef,Algal Turf,32
+2012,LTER 3,Backreef,Amansia rhodantha,6.24
+2012,LTER 3,Backreef,Caulerpa serrulata,0.08
+2012,LTER 3,Backreef,Cladophoropsis membranacea,0.16
+2012,LTER 3,Backreef,Coral,31.28
+2012,LTER 3,Backreef,Crustose Corallines,2.24
+2012,LTER 3,Backreef,Cyanophyta,0.48
+2012,LTER 3,Backreef,Dictyota bartayresiana,0.24
+2012,LTER 3,Backreef,Galaxaura filamentosa,0.08
+2012,LTER 3,Backreef,Halimeda discoidea,0.16
+2012,LTER 3,Backreef,Halimeda distorta,0.56
+2012,LTER 3,Backreef,Halimeda incrassata,0.24
+2012,LTER 3,Backreef,Halimeda minima,2.96
+2012,LTER 3,Backreef,Halimeda opuntia,0.16
+2012,LTER 3,Backreef,Sand,21.76
+2012,LTER 3,Backreef,Turbinaria ornata,1.36
+2012,LTER 3,Outer 10,Algal Turf,52.08
+2012,LTER 3,Outer 10,Coral,3.28
+2012,LTER 3,Outer 10,Crustose Corallines,34.88
+2012,LTER 3,Outer 10,Halimeda discoidea,0.4
+2012,LTER 3,Outer 10,Halimeda distorta,0.24
+2012,LTER 3,Outer 10,Halimeda minima,1.6
+2012,LTER 3,Outer 10,Halimeda taenicola,0.4
+2012,LTER 3,Outer 10,Lobophora variegata,4.48
+2012,LTER 3,Outer 10,Peyssonnelia inamoena,1.04
+2012,LTER 3,Outer 10,Sand,0.96
+2012,LTER 3,Outer 10,Sponge,0.08
+2012,LTER 3,Outer 10,Symploca hydnoides,0.08
+2012,LTER 3,Outer 10,Turbinaria ornata,0.48
+2012,LTER 3,Outer 17,Algal Turf,46.56
+2012,LTER 3,Outer 17,Amphiroa fragilissima,0.24
+2012,LTER 3,Outer 17,Coral,0.08
+2012,LTER 3,Outer 17,Crustose Corallines,27.6
+2012,LTER 3,Outer 17,Dictyota bartayresiana,0.08
+2012,LTER 3,Outer 17,Halimeda distorta,0.24
+2012,LTER 3,Outer 17,Halimeda minima,8.48
+2012,LTER 3,Outer 17,Heteractis sp.,1.36
+2012,LTER 3,Outer 17,Lobophora variegata,12.32
+2012,LTER 3,Outer 17,Peyssonnelia inamoena,1.76
+2012,LTER 3,Outer 17,Sand,1.2
+2012,LTER 3,Outer 17,Turbinaria ornata,0.08
+2012,LTER 4,Fringing,Algal Turf,44.72
+2012,LTER 4,Fringing,Chlorodesmis fastigiata,6.16
+2012,LTER 4,Fringing,Coral,15.2
+2012,LTER 4,Fringing,Crustose Corallines,0
+2012,LTER 4,Fringing,Cyanophyta,0.4
+2012,LTER 4,Fringing,Dictyota bartayresiana,2.16
+2012,LTER 4,Fringing,Galaxaura rugosa,0.08
+2012,LTER 4,Fringing,Halimeda opuntia,3.28
+2012,LTER 4,Fringing,Sand,28
+2012,LTER 4,Backreef,Algal Turf,53.76
+2012,LTER 4,Backreef,Amansia rhodantha,0.88
+2012,LTER 4,Backreef,Chlorodesmis fastigiata,0.08
+2012,LTER 4,Backreef,Cladophoropsis membranacea,0.24
+2012,LTER 4,Backreef,Coral,28.16
+2012,LTER 4,Backreef,Crustose Corallines,3.2
+2012,LTER 4,Backreef,Cyanophyta,0.24
+2012,LTER 4,Backreef,Halimeda discoidea,0.08
+2012,LTER 4,Backreef,Halimeda incrassata,0.08
+2012,LTER 4,Backreef,Halimeda minima,1.36
+2012,LTER 4,Backreef,Phyllodictyon anastomosans,0.32
+2012,LTER 4,Backreef,Sand,11.6
+2012,LTER 4,Outer 10,Algal Turf,73.28
+2012,LTER 4,Outer 10,Coral,6.08
+2012,LTER 4,Outer 10,Crustose Corallines,8.72
+2012,LTER 4,Outer 10,Halimeda minima,4.48
+2012,LTER 4,Outer 10,Lobophora variegata,0.96
+2012,LTER 4,Outer 10,Millepora platyphylla,6.24
+2012,LTER 4,Outer 10,Peyssonnelia inamoena,0.08
+2012,LTER 4,Outer 10,Sand,0.16
+2012,LTER 4,Outer 17,Algal Turf,49.6
+2012,LTER 4,Outer 17,Coral,1.76
+2012,LTER 4,Outer 17,Crustose Corallines,28.8
+2012,LTER 4,Outer 17,Halimeda distorta,0.16
+2012,LTER 4,Outer 17,Halimeda minima,7.12
+2012,LTER 4,Outer 17,Halimeda taenicola,0.16
+2012,LTER 4,Outer 17,Lobophora variegata,8.08
+2012,LTER 4,Outer 17,Peyssonnelia inamoena,2.32
+2012,LTER 4,Outer 17,Sand,1.76
+2012,LTER 4,Outer 17,Soft Coral,0.16
+2012,LTER 5,Fringing,Algal Turf,23.68
+2012,LTER 5,Fringing,Amphiroa fragilissima,1.2
+2012,LTER 5,Fringing,Chnoospora implexa,0.8
+2012,LTER 5,Fringing,Coral,62.48
+2012,LTER 5,Fringing,Crustose Corallines,0.16
+2012,LTER 5,Fringing,Cyanophyta,0.08
+2012,LTER 5,Fringing,Halimeda opuntia,2
+2012,LTER 5,Fringing,Sand,9.6
+2012,LTER 5,Backreef,Algal Turf,35.36
+2012,LTER 5,Backreef,Coral,22.96
+2012,LTER 5,Backreef,Crustose Corallines,3.12
+2012,LTER 5,Backreef,Halimeda discoidea,0.16
+2012,LTER 5,Backreef,Halimeda distorta,0.64
+2012,LTER 5,Backreef,Halimeda minima,0.24
+2012,LTER 5,Backreef,Halimeda opuntia,1.76
+2012,LTER 5,Backreef,Sand,35.76
+2012,LTER 5,Outer 10,Algal Turf,46.56
+2012,LTER 5,Outer 10,Codium geppiorum,0.08
+2012,LTER 5,Outer 10,Coral,9.04
+2012,LTER 5,Outer 10,Crustose Corallines,11.36
+2012,LTER 5,Outer 10,Halimeda discoidea,9.36
+2012,LTER 5,Outer 10,Halimeda distorta,0.08
+2012,LTER 5,Outer 10,Halimeda minima,0.08
+2012,LTER 5,Outer 10,Halimeda opuntia,16.32
+2012,LTER 5,Outer 10,Halimeda taenicola,0.96
+2012,LTER 5,Outer 10,Lobophora variegata,3.84
+2012,LTER 5,Outer 10,Millepora platyphylla,1.52
+2012,LTER 5,Outer 10,Peyssonnelia inamoena,0.08
+2012,LTER 5,Outer 10,Sand,0.72
+2012,LTER 5,Outer 17,Algal Turf,45.92
+2012,LTER 5,Outer 17,Coral,6.96
+2012,LTER 5,Outer 17,Crustose Corallines,31.2
+2012,LTER 5,Outer 17,Halimeda minima,1.28
+2012,LTER 5,Outer 17,Halimeda taenicola,0.08
+2012,LTER 5,Outer 17,Lobophora variegata,4.72
+2012,LTER 5,Outer 17,Millepora platyphylla,3.44
+2012,LTER 5,Outer 17,Peyssonnelia inamoena,2.16
+2012,LTER 5,Outer 17,Sand,3.76
+2012,LTER 5,Outer 17,Soft Coral,0.48
+2012,LTER 6,Fringing,Algal Turf,37.52
+2012,LTER 6,Fringing,Amansia rhodantha,6.16
+2012,LTER 6,Fringing,Amphiroa fragilissima,0.4
+2012,LTER 6,Fringing,Coral,37.92
+2012,LTER 6,Fringing,Corallimorpharia,0.8
+2012,LTER 6,Fringing,Crustose Corallines,2.56
+2012,LTER 6,Fringing,Dichotomaria marginata,0.8
+2012,LTER 6,Fringing,Dictyosphaeria cavernosa,0.08
+2012,LTER 6,Fringing,Dictyosphaeria versluysii,0.08
+2012,LTER 6,Fringing,Dictyota bartayresiana,1.52
+2012,LTER 6,Fringing,Galaxaura rugosa,0.96
+2012,LTER 6,Fringing,Halimeda opuntia,9.6
+2012,LTER 6,Fringing,Sand,1.6
+2012,LTER 6,Backreef,Algal Turf,39.28
+2012,LTER 6,Backreef,Caulerpa racemosa,0.08
+2012,LTER 6,Backreef,Coral,22.56
+2012,LTER 6,Backreef,Crustose Corallines,4.56
+2012,LTER 6,Backreef,Cyanophyta,0.08
+2012,LTER 6,Backreef,Dictyota friabilis,0.4
+2012,LTER 6,Backreef,Dictyota implexa,0.08
+2012,LTER 6,Backreef,Galaxaura rugosa,0.24
+2012,LTER 6,Backreef,Halimeda minima,0
+2012,LTER 6,Backreef,Halimeda opuntia,1.2
+2012,LTER 6,Backreef,Phormidium sp.,0.16
+2012,LTER 6,Backreef,Sand,31.36
+2012,LTER 6,Outer 10,Algal Turf,47.68
+2012,LTER 6,Outer 10,Asparagopsis taxiformis,0.08
+2012,LTER 6,Outer 10,Coral,11.6
+2012,LTER 6,Outer 10,Crustose Corallines,14.88
+2012,LTER 6,Outer 10,Halimeda discoidea,1.12
+2012,LTER 6,Outer 10,Halimeda distorta,0.4
+2012,LTER 6,Outer 10,Halimeda minima,8.88
+2012,LTER 6,Outer 10,Halimeda taenicola,8.32
+2012,LTER 6,Outer 10,Lobophora variegata,4.88
+2012,LTER 6,Outer 10,Millepora platyphylla,0.72
+2012,LTER 6,Outer 10,Sand,1.44
+2012,LTER 6,Outer 17,Algal Turf,42.96
+2012,LTER 6,Outer 17,Cladophoropsis membranacea,0.08
+2012,LTER 6,Outer 17,Coral,5.12
+2012,LTER 6,Outer 17,Crustose Corallines,32.32
+2012,LTER 6,Outer 17,Halimeda discoidea,0.08
+2012,LTER 6,Outer 17,Halimeda distorta,0.48
+2012,LTER 6,Outer 17,Halimeda minima,6.8
+2012,LTER 6,Outer 17,Halimeda taenicola,0.88
+2012,LTER 6,Outer 17,Lobophora variegata,8.48
+2012,LTER 6,Outer 17,Sand,2.8
+2013,LTER 1,Fringing,Algal Turf,77.04
+2013,LTER 1,Fringing,Bare Space,0.08
+2013,LTER 1,Fringing,Coral,6.64
+2013,LTER 1,Fringing,Corallimorpharia,0.08
+2013,LTER 1,Fringing,Crustose Corallines,2.88
+2013,LTER 1,Fringing,Dictyota bartayresiana,1.84
+2013,LTER 1,Fringing,Dictyota friabilis,0.08
+2013,LTER 1,Fringing,Halimeda opuntia,1.12
+2013,LTER 1,Fringing,Peyssonnelia inamoena,0.08
+2013,LTER 1,Fringing,Sand,10.08
+2013,LTER 1,Fringing,Turbinaria ornata,0.08
+2013,LTER 1,Backreef,Algal Turf,50.16
+2013,LTER 1,Backreef,Amansia rhodantha,3.6
+2013,LTER 1,Backreef,Amphiroa fragilissima,0.08
+2013,LTER 1,Backreef,Coral,10.56
+2013,LTER 1,Backreef,Crustose Corallines,11.6
+2013,LTER 1,Backreef,Galaxaura filamentosa,0.08
+2013,LTER 1,Backreef,Halimeda minima,0.64
+2013,LTER 1,Backreef,Peyssonnelia bornetii,0.32
+2013,LTER 1,Backreef,Sand,9.44
+2013,LTER 1,Backreef,Sponge,0.16
+2013,LTER 1,Backreef,Turbinaria ornata,13.36
+2013,LTER 1,Outer 10,Algal Turf,70.48
+2013,LTER 1,Outer 10,Asparagopsis taxiformis,4.72
+2013,LTER 1,Outer 10,Coral,10.32
+2013,LTER 1,Outer 10,Crustose Corallines,6.72
+2013,LTER 1,Outer 10,Halimeda minima,2.4
+2013,LTER 1,Outer 10,Halimeda opuntia,1.2
+2013,LTER 1,Outer 10,Lobophora variegata,0.08
+2013,LTER 1,Outer 10,Millepora platyphylla,2.4
+2013,LTER 1,Outer 10,Peyssonnelia inamoena,1.68
+2013,LTER 1,Outer 10,Sand,0
+2013,LTER 1,Outer 17,Algal Turf,63.12
+2013,LTER 1,Outer 17,Asparagopsis taxiformis,1.92
+2013,LTER 1,Outer 17,Coral,7.04
+2013,LTER 1,Outer 17,Crustose Corallines,21.28
+2013,LTER 1,Outer 17,Gibsmithia hawaiiensis,0.16
+2013,LTER 1,Outer 17,Halimeda minima,0.24
+2013,LTER 1,Outer 17,Millepora platyphylla,0.08
+2013,LTER 1,Outer 17,Peyssonnelia inamoena,4.4
+2013,LTER 1,Outer 17,Sand,1.76
+2013,LTER 2,Fringing,Algal Turf,75.68
+2013,LTER 2,Fringing,Amansia rhodantha,0.08
+2013,LTER 2,Fringing,Coral,4.64
+2013,LTER 2,Fringing,Corallimorpharia,0.64
+2013,LTER 2,Fringing,Crustose Corallines,10.88
+2013,LTER 2,Fringing,Cyanophyta,0.08
+2013,LTER 2,Fringing,Galaxaura filamentosa,0.72
+2013,LTER 2,Fringing,Halimeda minima,0.24
+2013,LTER 2,Fringing,Halimeda opuntia,0.16
+2013,LTER 2,Fringing,Lobophora variegata,0.56
+2013,LTER 2,Fringing,Millepora platyphylla,2.24
+2013,LTER 2,Fringing,Peyssonnelia inamoena,0.24
+2013,LTER 2,Fringing,Sand,0.56
+2013,LTER 2,Fringing,Turbinaria ornata,3.28
+2013,LTER 2,Backreef,Actinotrichia fragilis,0.4
+2013,LTER 2,Backreef,Algal Turf,46.88
+2013,LTER 2,Backreef,Coral,8.64
+2013,LTER 2,Backreef,Corallimorpharia,1.2
+2013,LTER 2,Backreef,Crustose Corallines,4.24
+2013,LTER 2,Backreef,Dictyota bartayresiana,11.52
+2013,LTER 2,Backreef,Dictyota friabilis,0.16
+2013,LTER 2,Backreef,Halimeda opuntia,1.2
+2013,LTER 2,Backreef,Lobophora variegata,2.96
+2013,LTER 2,Backreef,Sand,14.72
+2013,LTER 2,Backreef,Turbinaria ornata,8.08
+2013,LTER 2,Outer 10,Algal Turf,66.72
+2013,LTER 2,Outer 10,Asparagopsis taxiformis,2.72
+2013,LTER 2,Outer 10,Coral,11.2
+2013,LTER 2,Outer 10,Crustose Corallines,11.76
+2013,LTER 2,Outer 10,Halimeda minima,0.32
+2013,LTER 2,Outer 10,Millepora platyphylla,5.84
+2013,LTER 2,Outer 10,Peyssonnelia inamoena,0.64
+2013,LTER 2,Outer 10,Sand,0.8
+2013,LTER 2,Outer 17,Algal Turf,63.28
+2013,LTER 2,Outer 17,Asparagopsis taxiformis,0.4
+2013,LTER 2,Outer 17,Coral,7.36
+2013,LTER 2,Outer 17,Crustose Corallines,24.4
+2013,LTER 2,Outer 17,Halimeda minima,0.08
+2013,LTER 2,Outer 17,Lobophora variegata,0.16
+2013,LTER 2,Outer 17,Millepora platyphylla,0.16
+2013,LTER 2,Outer 17,Peyssonnelia inamoena,2.48
+2013,LTER 2,Outer 17,Sand,1.68
+2013,LTER 3,Fringing,Algal Turf,57.6
+2013,LTER 3,Fringing,Coral,23.04
+2013,LTER 3,Fringing,Corallimorpharia,0.16
+2013,LTER 3,Fringing,Crustose Corallines,5.12
+2013,LTER 3,Fringing,Halimeda opuntia,0.4
+2013,LTER 3,Fringing,Sand,13.68
+2013,LTER 3,Backreef,Algal Turf,38.72
+2013,LTER 3,Backreef,Amansia rhodantha,6.16
+2013,LTER 3,Backreef,Cladophoropsis membranacea,0.08
+2013,LTER 3,Backreef,Coral,22.72
+2013,LTER 3,Backreef,Crustose Corallines,4.4
+2013,LTER 3,Backreef,Dictyota bartayresiana,0.72
+2013,LTER 3,Backreef,Dictyota friabilis,0.08
+2013,LTER 3,Backreef,Halimeda minima,1.2
+2013,LTER 3,Backreef,Halimeda opuntia,0.96
+2013,LTER 3,Backreef,Lobophora variegata,0.08
+2013,LTER 3,Backreef,Sand,20.56
+2013,LTER 3,Backreef,Turbinaria ornata,4.32
+2013,LTER 3,Outer 10,Algal Turf,36.8
+2013,LTER 3,Outer 10,Coral,5.68
+2013,LTER 3,Outer 10,Crustose Corallines,45.36
+2013,LTER 3,Outer 10,Dictyota bartayresiana,0.16
+2013,LTER 3,Outer 10,Halimeda discoidea,0.72
+2013,LTER 3,Outer 10,Halimeda distorta,0.64
+2013,LTER 3,Outer 10,Halimeda minima,1.28
+2013,LTER 3,Outer 10,Halimeda opuntia,0.08
+2013,LTER 3,Outer 10,Lobophora variegata,2.16
+2013,LTER 3,Outer 10,Peyssonnelia sp.,4.48
+2013,LTER 3,Outer 10,Sand,1.92
+2013,LTER 3,Outer 10,Turbinaria ornata,0.72
+2013,LTER 3,Outer 17,Algal Turf,42.08
+2013,LTER 3,Outer 17,Coral,1.04
+2013,LTER 3,Outer 17,Crustose Corallines,28
+2013,LTER 3,Outer 17,Halimeda minima,10.88
+2013,LTER 3,Outer 17,Heteractis sp.,0.72
+2013,LTER 3,Outer 17,Peyssonnelia sp.,15.44
+2013,LTER 3,Outer 17,Sand,1.84
+2013,LTER 4,Fringing,Algal Turf,58.32
+2013,LTER 4,Fringing,Coral,15.68
+2013,LTER 4,Fringing,Crustose Corallines,0.32
+2013,LTER 4,Fringing,Cyanophyta,0.16
+2013,LTER 4,Fringing,Dictyota bartayresiana,1.76
+2013,LTER 4,Fringing,Galaxaura filamentosa,0.08
+2013,LTER 4,Fringing,Halimeda minima,0.8
+2013,LTER 4,Fringing,Halimeda opuntia,0.8
+2013,LTER 4,Fringing,Neogoniolithon frutescens,0.08
+2013,LTER 4,Fringing,Neomeris vanbosseae,0.08
+2013,LTER 4,Fringing,Sand,21.68
+2013,LTER 4,Fringing,Symploca hydnoides,0.24
+2013,LTER 4,Backreef,Algal Turf,51.28
+2013,LTER 4,Backreef,Amansia rhodantha,0.88
+2013,LTER 4,Backreef,Chlorodesmis fastigiata,0.08
+2013,LTER 4,Backreef,Cladophoropsis luxurians,0.24
+2013,LTER 4,Backreef,Coral,32.32
+2013,LTER 4,Backreef,Crustose Corallines,1.6
+2013,LTER 4,Backreef,Dictyota bartayresiana,0.08
+2013,LTER 4,Backreef,Dictyota friabilis,0.08
+2013,LTER 4,Backreef,Halimeda discoidea,0.08
+2013,LTER 4,Backreef,Halimeda minima,0.16
+2013,LTER 4,Backreef,Halimeda opuntia,0.32
+2013,LTER 4,Backreef,Lobophora variegata,0.08
+2013,LTER 4,Backreef,Sand,12.8
+2013,LTER 4,Outer 10,Algal Turf,69.84
+2013,LTER 4,Outer 10,Coral,7.44
+2013,LTER 4,Outer 10,Crustose Corallines,10.96
+2013,LTER 4,Outer 10,Dictyota bartayresiana,0.08
+2013,LTER 4,Outer 10,Halimeda discoidea,0.08
+2013,LTER 4,Outer 10,Halimeda distorta,0.4
+2013,LTER 4,Outer 10,Halimeda minima,2.16
+2013,LTER 4,Outer 10,Halimeda opuntia,0.08
+2013,LTER 4,Outer 10,Millepora platyphylla,6.72
+2013,LTER 4,Outer 10,Peyssonnelia inamoena,1.6
+2013,LTER 4,Outer 10,Sand,0.64
+2013,LTER 4,Outer 17,Algal Turf,45.12
+2013,LTER 4,Outer 17,Coral,4.72
+2013,LTER 4,Outer 17,Crustose Corallines,31.52
+2013,LTER 4,Outer 17,Cyanophyta,0.08
+2013,LTER 4,Outer 17,Dictyota bartayresiana,0.08
+2013,LTER 4,Outer 17,Halimeda discoidea,0.16
+2013,LTER 4,Outer 17,Halimeda distorta,0.08
+2013,LTER 4,Outer 17,Halimeda minima,4.4
+2013,LTER 4,Outer 17,Millepora platyphylla,0.32
+2013,LTER 4,Outer 17,Peyssonnelia bornetii,11.28
+2013,LTER 4,Outer 17,Sand,1.84
+2013,LTER 4,Outer 17,Soft Coral,0.4
+2013,LTER 5,Fringing,Algal Turf,24.64
+2013,LTER 5,Fringing,Amphiroa fragilissima,0.8
+2013,LTER 5,Fringing,Coral,65.44
+2013,LTER 5,Fringing,Corallimorpharia,0.32
+2013,LTER 5,Fringing,Crustose Corallines,0
+2013,LTER 5,Fringing,Halimeda opuntia,2.8
+2013,LTER 5,Fringing,Sand,5.84
+2013,LTER 5,Fringing,Sponge,0.16
+2013,LTER 5,Backreef,Algal Turf,34.88
+2013,LTER 5,Backreef,Amansia rhodantha,0.08
+2013,LTER 5,Backreef,Caulerpa racemosa,0.08
+2013,LTER 5,Backreef,Coral,23.2
+2013,LTER 5,Backreef,Corallimorpharia,0.32
+2013,LTER 5,Backreef,Crustose Corallines,2.64
+2013,LTER 5,Backreef,Dictyota bartayresiana,0.08
+2013,LTER 5,Backreef,Halimeda distorta,0.48
+2013,LTER 5,Backreef,Halimeda minima,0.48
+2013,LTER 5,Backreef,Halimeda opuntia,0.48
+2013,LTER 5,Backreef,Sand,36.96
+2013,LTER 5,Backreef,Turbinaria ornata,0.32
+2013,LTER 5,Outer 10,Algal Turf,49.6
+2013,LTER 5,Outer 10,Caulerpa pickeringii,0.72
+2013,LTER 5,Outer 10,Coral,10.88
+2013,LTER 5,Outer 10,Crustose Corallines,7.28
+2013,LTER 5,Outer 10,Cyanophyta,2.88
+2013,LTER 5,Outer 10,Halimeda discoidea,9.84
+2013,LTER 5,Outer 10,Halimeda distorta,0.32
+2013,LTER 5,Outer 10,Halimeda minima,0.32
+2013,LTER 5,Outer 10,Halimeda opuntia,7.52
+2013,LTER 5,Outer 10,Lobophora variegata,0.48
+2013,LTER 5,Outer 10,Millepora platyphylla,2.56
+2013,LTER 5,Outer 10,Peyssonnelia inamoena,7.28
+2013,LTER 5,Outer 10,Rhipidosiphon javensis,0.08
+2013,LTER 5,Outer 10,Sand,0.24
+2013,LTER 5,Outer 17,Algal Turf,40.48
+2013,LTER 5,Outer 17,Coral,11.6
+2013,LTER 5,Outer 17,Crustose Corallines,31.28
+2013,LTER 5,Outer 17,Halimeda discoidea,0.08
+2013,LTER 5,Outer 17,Halimeda distorta,0.08
+2013,LTER 5,Outer 17,Halimeda minima,0.88
+2013,LTER 5,Outer 17,Lobophora variegata,2.72
+2013,LTER 5,Outer 17,Millepora platyphylla,1.36
+2013,LTER 5,Outer 17,Peyssonnelia sp.,5.76
+2013,LTER 5,Outer 17,Sand,4.16
+2013,LTER 5,Outer 17,Soft Coral,1.6
+2013,LTER 6,Fringing,Algal Turf,43.52
+2013,LTER 6,Fringing,Amansia rhodantha,8
+2013,LTER 6,Fringing,Amphiroa fragilissima,0.16
+2013,LTER 6,Fringing,Caulerpa racemosa,0.08
+2013,LTER 6,Fringing,Coral,40.72
+2013,LTER 6,Fringing,Corallimorpharia,0.96
+2013,LTER 6,Fringing,Crustose Corallines,2.08
+2013,LTER 6,Fringing,Dichotomaria marginata,0.24
+2013,LTER 6,Fringing,Dictyota bartayresiana,0.08
+2013,LTER 6,Fringing,Galaxaura rugosa,0.08
+2013,LTER 6,Fringing,Halimeda opuntia,1.68
+2013,LTER 6,Fringing,Sand,2.32
+2013,LTER 6,Fringing,Valonia ventricosa,0.08
+2013,LTER 6,Backreef,Algal Turf,39.84
+2013,LTER 6,Backreef,Amansia rhodantha,0.08
+2013,LTER 6,Backreef,Coral,22.8
+2013,LTER 6,Backreef,Crustose Corallines,5.2
+2013,LTER 6,Backreef,Galaxaura filamentosa,0.08
+2013,LTER 6,Backreef,Halimeda opuntia,0.64
+2013,LTER 6,Backreef,Sand,31.28
+2013,LTER 6,Backreef,Turbinaria ornata,0.08
+2013,LTER 6,Outer 10,Algal Turf,47.68
+2013,LTER 6,Outer 10,Asparagopsis taxiformis,0.32
+2013,LTER 6,Outer 10,Coral,16.16
+2013,LTER 6,Outer 10,Crustose Corallines,14.72
+2013,LTER 6,Outer 10,Cyanophyta,0.64
+2013,LTER 6,Outer 10,Halimeda discoidea,8.96
+2013,LTER 6,Outer 10,Halimeda distorta,0.48
+2013,LTER 6,Outer 10,Halimeda minima,4.88
+2013,LTER 6,Outer 10,Halimeda opuntia,0.16
+2013,LTER 6,Outer 10,Millepora platyphylla,0.88
+2013,LTER 6,Outer 10,Peyssonnelia bornetii,3.12
+2013,LTER 6,Outer 10,Sand,2
+2013,LTER 6,Outer 17,Algal Turf,52.16
+2013,LTER 6,Outer 17,Coral,7.6
+2013,LTER 6,Outer 17,Crustose Corallines,22.08
+2013,LTER 6,Outer 17,Cyanophyta,0.16
+2013,LTER 6,Outer 17,Halimeda discoidea,1.12
+2013,LTER 6,Outer 17,Halimeda distorta,0.16
+2013,LTER 6,Outer 17,Halimeda macroloba,0.16
+2013,LTER 6,Outer 17,Halimeda minima,8.32
+2013,LTER 6,Outer 17,Halimeda opuntia,0.4
+2013,LTER 6,Outer 17,Peyssonnelia bornetii,4.64
+2013,LTER 6,Outer 17,Sand,3.2
+2014,LTER 1,Fringing,Algal Turf,61.224489795918366
+2014,LTER 1,Fringing,Chnoospora implexa,0.16326530612244897
+2014,LTER 1,Fringing,Coral,2.204081632653061
+2014,LTER 1,Fringing,Corallimorpharia,0.08163265306122448
+2014,LTER 1,Fringing,Crustose Corallines,7.918367346938775
+2014,LTER 1,Fringing,Cyanophyta,0.08163265306122448
+2014,LTER 1,Fringing,Dictyota bartayresiana,11.428571428571429
+2014,LTER 1,Fringing,Halimeda minima,0.08163265306122448
+2014,LTER 1,Fringing,Lobophora variegata,0.16326530612244897
+2014,LTER 1,Fringing,No data,-1
+2014,LTER 1,Fringing,Padina boryana,0.16326530612244897
+2014,LTER 1,Fringing,Sand,16.408163265306122
+2014,LTER 1,Fringing,Turbinaria ornata,0.08163265306122448
+2014,LTER 1,Backreef,Actinotrichia fragilis,0.08
+2014,LTER 1,Backreef,Algal Turf,49.68
+2014,LTER 1,Backreef,Amansia rhodantha,6.56
+2014,LTER 1,Backreef,Chlorodesmis fastigiata,0.08
+2014,LTER 1,Backreef,Coral,7.28
+2014,LTER 1,Backreef,Crustose Corallines,9.44
+2014,LTER 1,Backreef,Cyanophyta,1.2
+2014,LTER 1,Backreef,Halimeda minima,0.4
+2014,LTER 1,Backreef,Lobophora variegata,0.08
+2014,LTER 1,Backreef,Peyssonnelia bornetii,0.56
+2014,LTER 1,Backreef,Sand,11.04
+2014,LTER 1,Backreef,Sargassum pacificum,1.36
+2014,LTER 1,Backreef,Turbinaria ornata,12.24
+2014,LTER 1,Outer 10,Algal Turf,60.48
+2014,LTER 1,Outer 10,Asparagopsis taxiformis,2.48
+2014,LTER 1,Outer 10,Coral,25.28
+2014,LTER 1,Outer 10,Crustose Corallines,7.2
+2014,LTER 1,Outer 10,Cyanophyta,0.08
+2014,LTER 1,Outer 10,Halimeda discoidea,0.16
+2014,LTER 1,Outer 10,Halimeda minima,0.64
+2014,LTER 1,Outer 10,Lobophora variegata,0.64
+2014,LTER 1,Outer 10,Millepora platyphylla,2.32
+2014,LTER 1,Outer 10,Sand,0.72
+2014,LTER 1,Outer 17,Algal Turf,55.04
+2014,LTER 1,Outer 17,Asparagopsis taxiformis,1.76
+2014,LTER 1,Outer 17,Coral,14.16
+2014,LTER 1,Outer 17,Crustose Corallines,22.32
+2014,LTER 1,Outer 17,Halimeda minima,0.16
+2014,LTER 1,Outer 17,Lobophora variegata,1.6
+2014,LTER 1,Outer 17,Peyssonnelia bornetii,1.6
+2014,LTER 1,Outer 17,Sand,3.36
+2014,LTER 2,Fringing,Algal Turf,76.4
+2014,LTER 2,Fringing,Coral,3.36
+2014,LTER 2,Fringing,Corallimorpharia,0.16
+2014,LTER 2,Fringing,Crustose Corallines,6.96
+2014,LTER 2,Fringing,Cyanophyta,0.56
+2014,LTER 2,Fringing,Galaxaura rugosa,0.08
+2014,LTER 2,Fringing,Hypnea spinella,0.16
+2014,LTER 2,Fringing,Lithophyllum kotschyanum,0.56
+2014,LTER 2,Fringing,Lobophora variegata,0.08
+2014,LTER 2,Fringing,Millepora platyphylla,1.92
+2014,LTER 2,Fringing,Peyssonnelia bornetii,0.08
+2014,LTER 2,Fringing,Sand,1.68
+2014,LTER 2,Fringing,Turbinaria ornata,8
+2014,LTER 2,Backreef,Actinotrichia fragilis,0.08
+2014,LTER 2,Backreef,Algal Turf,32.48
+2014,LTER 2,Backreef,Chnoospora implexa,1.2
+2014,LTER 2,Backreef,Coral,5.52
+2014,LTER 2,Backreef,Corallimorpharia,1.28
+2014,LTER 2,Backreef,Crustose Corallines,5.84
+2014,LTER 2,Backreef,Cyanophyta,0.08
+2014,LTER 2,Backreef,Damselfish Turf,4.24
+2014,LTER 2,Backreef,Dictyota bartayresiana,16.24
+2014,LTER 2,Backreef,Halimeda incrassata,0.32
+2014,LTER 2,Backreef,Lobophora variegata,1.28
+2014,LTER 2,Backreef,Sand,23.92
+2014,LTER 2,Backreef,Turbinaria ornata,7.52
+2014,LTER 2,Outer 10,Algal Turf,58.72
+2014,LTER 2,Outer 10,Asparagopsis taxiformis,3.92
+2014,LTER 2,Outer 10,Coral,18.48
+2014,LTER 2,Outer 10,Crustose Corallines,8.56
+2014,LTER 2,Outer 10,Cyanophyta,0.56
+2014,LTER 2,Outer 10,Halimeda discoidea,0.08
+2014,LTER 2,Outer 10,Halimeda minima,0.56
+2014,LTER 2,Outer 10,Lobophora variegata,0.16
+2014,LTER 2,Outer 10,Millepora platyphylla,6.08
+2014,LTER 2,Outer 10,Sand,2.88
+2014,LTER 2,Outer 17,Algal Turf,67.68
+2014,LTER 2,Outer 17,Asparagopsis taxiformis,0.48
+2014,LTER 2,Outer 17,Coral,8.24
+2014,LTER 2,Outer 17,Crustose Corallines,16.8
+2014,LTER 2,Outer 17,Halimeda minima,0.16
+2014,LTER 2,Outer 17,Lobophora variegata,1.04
+2014,LTER 2,Outer 17,Millepora platyphylla,0.16
+2014,LTER 2,Outer 17,Peyssonnelia bornetii,1.2
+2014,LTER 2,Outer 17,Sand,4.24
+2014,LTER 3,Fringing,Actinotrichia fragilis,0.16
+2014,LTER 3,Fringing,Algal Turf,57.2
+2014,LTER 3,Fringing,Coral,28.08
+2014,LTER 3,Fringing,Crustose Corallines,0.48
+2014,LTER 3,Fringing,Cyanophyta,0.08
+2014,LTER 3,Fringing,Dictyota bartayresiana,0.32
+2014,LTER 3,Fringing,Halimeda opuntia,1.12
+2014,LTER 3,Fringing,Peyssonnelia bornetii,1.12
+2014,LTER 3,Fringing,Sand,11.36
+2014,LTER 3,Fringing,Turbinaria ornata,0.08
+2014,LTER 3,Backreef,Algal Turf,40.4
+2014,LTER 3,Backreef,Amansia rhodantha,10.48
+2014,LTER 3,Backreef,Chnoospora implexa,0.96
+2014,LTER 3,Backreef,Cladophoropsis membranacea,0.16
+2014,LTER 3,Backreef,Coral,14
+2014,LTER 3,Backreef,Crustose Corallines,1.76
+2014,LTER 3,Backreef,Cyanophyta,0.88
+2014,LTER 3,Backreef,Dictyota bartayresiana,2.64
+2014,LTER 3,Backreef,Galaxaura rugosa,0.08
+2014,LTER 3,Backreef,Halimeda minima,0.96
+2014,LTER 3,Backreef,Halimeda opuntia,1.92
+2014,LTER 3,Backreef,Halimeda taenicola,0.08
+2014,LTER 3,Backreef,Lobophora variegata,0.08
+2014,LTER 3,Backreef,Sand,19.52
+2014,LTER 3,Backreef,Tridacna sp.,0.08
+2014,LTER 3,Backreef,Turbinaria ornata,6
+2014,LTER 3,Outer 10,Algal Turf,47.68
+2014,LTER 3,Outer 10,Caulerpa serrulata,0.08
+2014,LTER 3,Outer 10,Coral,5.92
+2014,LTER 3,Outer 10,Crustose Corallines,27.36
+2014,LTER 3,Outer 10,Cyanophyta,0.16
+2014,LTER 3,Outer 10,Dictyota bartayresiana,0.08
+2014,LTER 3,Outer 10,Halimeda discoidea,0.08
+2014,LTER 3,Outer 10,Halimeda distorta,0.08
+2014,LTER 3,Outer 10,Halimeda minima,0.32
+2014,LTER 3,Outer 10,Halimeda taenicola,0.08
+2014,LTER 3,Outer 10,Lobophora variegata,6.56
+2014,LTER 3,Outer 10,Peyssonnelia bornetii,2.32
+2014,LTER 3,Outer 10,Sand,3.52
+2014,LTER 3,Outer 10,Turbinaria ornata,5.76
+2014,LTER 3,Outer 17,Actinotrichia fragilis,0.08
+2014,LTER 3,Outer 17,Algal Turf,46
+2014,LTER 3,Outer 17,Coral,2.96
+2014,LTER 3,Outer 17,Crustose Corallines,23.2
+2014,LTER 3,Outer 17,Dictyota bartayresiana,0.16
+2014,LTER 3,Outer 17,Halimeda minima,2.72
+2014,LTER 3,Outer 17,Heteractis sp.,0.56
+2014,LTER 3,Outer 17,Lobophora variegata,18.32
+2014,LTER 3,Outer 17,Peyssonnelia bornetii,4.32
+2014,LTER 3,Outer 17,Sand,1.68
+2014,LTER 4,Fringing,Algal Turf,25.76
+2014,LTER 4,Fringing,Caulerpa serrulata,0.08
+2014,LTER 4,Fringing,Chnoospora implexa,0.08
+2014,LTER 4,Fringing,Coral,10.8
+2014,LTER 4,Fringing,Crustose Corallines,1.76
+2014,LTER 4,Fringing,Cyanophyta,3.52
+2014,LTER 4,Fringing,Dictyota bartayresiana,0.56
+2014,LTER 4,Fringing,Halimeda minima,0.08
+2014,LTER 4,Fringing,Halimeda opuntia,0.48
+2014,LTER 4,Fringing,Padina boryana,0.08
+2014,LTER 4,Fringing,Sand,56.8
+2014,LTER 4,Backreef,Algal Turf,51.44
+2014,LTER 4,Backreef,Amansia rhodantha,1.6
+2014,LTER 4,Backreef,Caulerpa racemosa,0.16
+2014,LTER 4,Backreef,Caulerpa serrulata,0.16
+2014,LTER 4,Backreef,Cladophoropsis membranacea,0.08
+2014,LTER 4,Backreef,Coral,28
+2014,LTER 4,Backreef,Crustose Corallines,1.44
+2014,LTER 4,Backreef,Cyanophyta,0.32
+2014,LTER 4,Backreef,Dictyota bartayresiana,0.4
+2014,LTER 4,Backreef,Halimeda distorta,0.4
+2014,LTER 4,Backreef,Halimeda minima,0.8
+2014,LTER 4,Backreef,Halimeda taenicola,0.4
+2014,LTER 4,Backreef,Sand,13.84
+2014,LTER 4,Backreef,Tridacna sp.,0.16
+2014,LTER 4,Backreef,Turbinaria ornata,0.8
+2014,LTER 4,Outer 10,Algal Turf,59.92
+2014,LTER 4,Outer 10,Cladophoropsis membranacea,0.08
+2014,LTER 4,Outer 10,Coral,10.16
+2014,LTER 4,Outer 10,Crustose Corallines,16.8
+2014,LTER 4,Outer 10,Halimeda distorta,0.4
+2014,LTER 4,Outer 10,Halimeda incrassata,0.08
+2014,LTER 4,Outer 10,Halimeda minima,1.12
+2014,LTER 4,Outer 10,Halimeda taenicola,0.08
+2014,LTER 4,Outer 10,Lobophora variegata,0.16
+2014,LTER 4,Outer 10,Millepora platyphylla,7.28
+2014,LTER 4,Outer 10,Peyssonnelia bornetii,2.4
+2014,LTER 4,Outer 10,Sand,1.52
+2014,LTER 4,Outer 17,Algal Turf,50.48
+2014,LTER 4,Outer 17,Amphiroa fragilissima,0.32
+2014,LTER 4,Outer 17,Coral,8.64
+2014,LTER 4,Outer 17,Crustose Corallines,25.2
+2014,LTER 4,Outer 17,Dictyota bartayresiana,0.24
+2014,LTER 4,Outer 17,Halimeda distorta,0.08
+2014,LTER 4,Outer 17,Halimeda minima,1.68
+2014,LTER 4,Outer 17,Halimeda taenicola,0.16
+2014,LTER 4,Outer 17,Lobophora variegata,5.12
+2014,LTER 4,Outer 17,Millepora platyphylla,0.16
+2014,LTER 4,Outer 17,Peyssonnelia bornetii,6.16
+2014,LTER 4,Outer 17,Sand,1.44
+2014,LTER 4,Outer 17,Soft Coral,0.32
+2014,LTER 5,Fringing,Algal Turf,16.56
+2014,LTER 5,Fringing,Amphiroa fragilissima,1.2
+2014,LTER 5,Fringing,Chaetomorpha antennina,0.08
+2014,LTER 5,Fringing,Coral,62.48
+2014,LTER 5,Fringing,Corallimorpharia,1.04
+2014,LTER 5,Fringing,Crustose Corallines,0.8
+2014,LTER 5,Fringing,Cyanophyta,1.52
+2014,LTER 5,Fringing,Damselfish Turf,4.72
+2014,LTER 5,Fringing,Halimeda distorta,0.08
+2014,LTER 5,Fringing,Halimeda minima,0.64
+2014,LTER 5,Fringing,Halimeda opuntia,0.64
+2014,LTER 5,Fringing,Lobophora variegata,0.24
+2014,LTER 5,Fringing,Sand,9.76
+2014,LTER 5,Fringing,Sponge,0.24
+2014,LTER 5,Backreef,Algal Turf,27.76
+2014,LTER 5,Backreef,Amansia rhodantha,0.72
+2014,LTER 5,Backreef,Caulerpa racemosa,0.16
+2014,LTER 5,Backreef,Coral,23.04
+2014,LTER 5,Backreef,Crustose Corallines,3.6
+2014,LTER 5,Backreef,Cyanophyta,0.16
+2014,LTER 5,Backreef,Damselfish Turf,2.4
+2014,LTER 5,Backreef,Halimeda incrassata,0.32
+2014,LTER 5,Backreef,Halimeda minima,0.32
+2014,LTER 5,Backreef,Halimeda opuntia,0.08
+2014,LTER 5,Backreef,Halimeda taenicola,0.32
+2014,LTER 5,Backreef,Lobophora variegata,0.08
+2014,LTER 5,Backreef,Phyllodictyon anastomosans,0.08
+2014,LTER 5,Backreef,Sand,40.96
+2014,LTER 5,Outer 10,Algal Turf,55.2
+2014,LTER 5,Outer 10,Codium geppiorum,2.4
+2014,LTER 5,Outer 10,Coral,13.6
+2014,LTER 5,Outer 10,Crustose Corallines,12.72
+2014,LTER 5,Outer 10,Cyanophyta,0.16
+2014,LTER 5,Outer 10,Halimeda discoidea,1.2
+2014,LTER 5,Outer 10,Halimeda distorta,0.24
+2014,LTER 5,Outer 10,Halimeda incrassata,0.96
+2014,LTER 5,Outer 10,Halimeda minima,1.68
+2014,LTER 5,Outer 10,Halimeda taenicola,3.04
+2014,LTER 5,Outer 10,Lobophora variegata,0.4
+2014,LTER 5,Outer 10,Millepora platyphylla,2.88
+2014,LTER 5,Outer 10,Peyssonnelia bornetii,3.68
+2014,LTER 5,Outer 10,Sand,1.84
+2014,LTER 5,Outer 17,Algal Turf,46.72
+2014,LTER 5,Outer 17,Coral,10.32
+2014,LTER 5,Outer 17,Crustose Corallines,29.52
+2014,LTER 5,Outer 17,Cyanophyta,0.08
+2014,LTER 5,Outer 17,Halimeda minima,0.4
+2014,LTER 5,Outer 17,Lobophora variegata,1.44
+2014,LTER 5,Outer 17,Millepora platyphylla,3.2
+2014,LTER 5,Outer 17,Peyssonnelia bornetii,4
+2014,LTER 5,Outer 17,Sand,3.84
+2014,LTER 5,Outer 17,Soft Coral,0.48
+2014,LTER 6,Fringing,Algal Turf,39.52
+2014,LTER 6,Fringing,Amansia rhodantha,7.36
+2014,LTER 6,Fringing,Amphiroa fragilissima,0.08
+2014,LTER 6,Fringing,Boodlea kaeneana,0.08
+2014,LTER 6,Fringing,Caulerpa racemosa,0.16
+2014,LTER 6,Fringing,Caulerpa serrulata,0.32
+2014,LTER 6,Fringing,Chlorodesmis fastigiata,0.08
+2014,LTER 6,Fringing,Coral,36.96
+2014,LTER 6,Fringing,Corallimorpharia,0.72
+2014,LTER 6,Fringing,Crustose Corallines,0.72
+2014,LTER 6,Fringing,Cyanophyta,0.08
+2014,LTER 6,Fringing,Damselfish Turf,4.32
+2014,LTER 6,Fringing,Dictyota bartayresiana,2.4
+2014,LTER 6,Fringing,Gelidiella acerosa,0.08
+2014,LTER 6,Fringing,Halimeda minima,1.6
+2014,LTER 6,Fringing,Halimeda opuntia,0.16
+2014,LTER 6,Fringing,Sand,5.36
+2014,LTER 6,Backreef,Algal Turf,30.72
+2014,LTER 6,Backreef,Caulerpa racemosa,0.08
+2014,LTER 6,Backreef,Coral,22.4
+2014,LTER 6,Backreef,Crustose Corallines,4.8
+2014,LTER 6,Backreef,Cyanophyta,0.48
+2014,LTER 6,Backreef,Damselfish Turf,2.16
+2014,LTER 6,Backreef,Halimeda distorta,0.16
+2014,LTER 6,Backreef,Halimeda minima,0.08
+2014,LTER 6,Backreef,Sand,38.88
+2014,LTER 6,Backreef,Tridacna sp.,0.24
+2014,LTER 6,Outer 10,Algal Turf,52.24
+2014,LTER 6,Outer 10,Asparagopsis taxiformis,1.68
+2014,LTER 6,Outer 10,Cladophoropsis membranacea,0.16
+2014,LTER 6,Outer 10,Coral,18.32
+2014,LTER 6,Outer 10,Crustose Corallines,15.52
+2014,LTER 6,Outer 10,Halimeda discoidea,0.16
+2014,LTER 6,Outer 10,Halimeda distorta,0.56
+2014,LTER 6,Outer 10,Halimeda incrassata,0.08
+2014,LTER 6,Outer 10,Halimeda minima,3.04
+2014,LTER 6,Outer 10,Halimeda taenicola,2.88
+2014,LTER 6,Outer 10,Millepora platyphylla,1.2
+2014,LTER 6,Outer 10,Peyssonnelia bornetii,2.48
+2014,LTER 6,Outer 10,Sand,1.68
+2014,LTER 6,Outer 17,Algal Turf,57.68
+2014,LTER 6,Outer 17,Coral,9.04
+2014,LTER 6,Outer 17,Crustose Corallines,24.64
+2014,LTER 6,Outer 17,Cyanophyta,0.08
+2014,LTER 6,Outer 17,Halimeda minima,0.48
+2014,LTER 6,Outer 17,Lobophora variegata,0.4
+2014,LTER 6,Outer 17,Millepora platyphylla,0.24
+2014,LTER 6,Outer 17,Peyssonnelia bornetii,4.48
+2014,LTER 6,Outer 17,Sand,2.96
+2015,LTER 1,Fringing,Algal Turf,39.04
+2015,LTER 1,Fringing,Coral,2.72
+2015,LTER 1,Fringing,Crustose Corallines,5.92
+2015,LTER 1,Fringing,Damselfish Turf,2.4
+2015,LTER 1,Fringing,Dictyota bartayresiana,24.56
+2015,LTER 1,Fringing,Sand,25.36
+2015,LTER 1,Backreef,Algal Turf,22.32
+2015,LTER 1,Backreef,Amansia rhodantha,8.88
+2015,LTER 1,Backreef,Boodlea kaeneana,0.08
+2015,LTER 1,Backreef,Coral,4.48
+2015,LTER 1,Backreef,Crustose Corallines,7.68
+2015,LTER 1,Backreef,Damselfish Turf,7.52
+2015,LTER 1,Backreef,Dictyota bartayresiana,1.2
+2015,LTER 1,Backreef,Halimeda distorta,0.08
+2015,LTER 1,Backreef,Lobophora variegata,1.44
+2015,LTER 1,Backreef,Peyssonnelia bornetii,0.24
+2015,LTER 1,Backreef,Sand,25.2
+2015,LTER 1,Backreef,Sargassum pacificum,5.28
+2015,LTER 1,Backreef,Turbinaria ornata,15.6
+2015,LTER 1,Outer 10,Algal Turf,41.2
+2015,LTER 1,Outer 10,Asparagopsis taxiformis,2
+2015,LTER 1,Outer 10,Boodlea kaeneana,0.08
+2015,LTER 1,Outer 10,Coral,44.48
+2015,LTER 1,Outer 10,Crustose Corallines,7.92
+2015,LTER 1,Outer 10,Halimeda distorta,0.16
+2015,LTER 1,Outer 10,Halimeda minima,0.88
+2015,LTER 1,Outer 10,Lobophora variegata,0.56
+2015,LTER 1,Outer 10,Millepora platyphylla,2.64
+2015,LTER 1,Outer 10,Peyssonnelia sp.,0.08
+2015,LTER 1,Outer 10,Sand,0
+2015,LTER 1,Outer 17,Algal Turf,52.4
+2015,LTER 1,Outer 17,Asparagopsis taxiformis,2.72
+2015,LTER 1,Outer 17,Coral,19.84
+2015,LTER 1,Outer 17,Crustose Corallines,19.68
+2015,LTER 1,Outer 17,Halimeda discoidea,0.08
+2015,LTER 1,Outer 17,Halimeda minima,0.24
+2015,LTER 1,Outer 17,Lobophora variegata,1.52
+2015,LTER 1,Outer 17,Peyssonnelia sp.,1.04
+2015,LTER 1,Outer 17,Sand,2.48
+2015,LTER 2,Fringing,Acanthophora spicifera,0.08
+2015,LTER 2,Fringing,Algal Turf,23.84
+2015,LTER 2,Fringing,Amansia rhodantha,0.24
+2015,LTER 2,Fringing,Coral,2.48
+2015,LTER 2,Fringing,Corallimorpharia,0.32
+2015,LTER 2,Fringing,Crustose Corallines,4.32
+2015,LTER 2,Fringing,Damselfish Turf,53.04
+2015,LTER 2,Fringing,Galaxaura filamentosa,0.24
+2015,LTER 2,Fringing,Lobophora variegata,2.48
+2015,LTER 2,Fringing,Millepora platyphylla,1.84
+2015,LTER 2,Fringing,Sand,0.96
+2015,LTER 2,Fringing,Turbinaria ornata,10.16
+2015,LTER 2,Backreef,Algal Turf,40.32
+2015,LTER 2,Backreef,Amansia rhodantha,0
+2015,LTER 2,Backreef,Amphiroa fragilissima,0.16
+2015,LTER 2,Backreef,Chnoospora implexa,0.48
+2015,LTER 2,Backreef,Coral,2.32
+2015,LTER 2,Backreef,Corallimorpharia,0.32
+2015,LTER 2,Backreef,Crustose Corallines,0.8
+2015,LTER 2,Backreef,Cyanophyta,0.24
+2015,LTER 2,Backreef,Damselfish Turf,2.96
+2015,LTER 2,Backreef,Dictyota bartayresiana,16.88
+2015,LTER 2,Backreef,Halimeda opuntia,0.16
+2015,LTER 2,Backreef,Lobophora variegata,3.84
+2015,LTER 2,Backreef,Padina boryana,0.08
+2015,LTER 2,Backreef,Sand,24.4
+2015,LTER 2,Backreef,Sargassum pacificum,0.08
+2015,LTER 2,Backreef,Turbinaria ornata,6.96
+2015,LTER 2,Outer 10,Algal Turf,43.44
+2015,LTER 2,Outer 10,Asparagopsis taxiformis,4.72
+2015,LTER 2,Outer 10,Coral,29.68
+2015,LTER 2,Outer 10,Crustose Corallines,12.16
+2015,LTER 2,Outer 10,Halimeda discoidea,0.08
+2015,LTER 2,Outer 10,Halimeda minima,0.64
+2015,LTER 2,Outer 10,Lobophora variegata,0.24
+2015,LTER 2,Outer 10,Millepora platyphylla,7.28
+2015,LTER 2,Outer 10,Peyssonnelia sp.,0.08
+2015,LTER 2,Outer 10,Sand,1.68
+2015,LTER 2,Outer 17,Algal Turf,61.04
+2015,LTER 2,Outer 17,Asparagopsis taxiformis,2.64
+2015,LTER 2,Outer 17,Coral,16.16
+2015,LTER 2,Outer 17,Crustose Corallines,14.64
+2015,LTER 2,Outer 17,Lobophora variegata,0.96
+2015,LTER 2,Outer 17,Millepora platyphylla,0.24
+2015,LTER 2,Outer 17,Peyssonnelia sp.,0.32
+2015,LTER 2,Outer 17,Sand,4
+2015,LTER 3,Fringing,Algal Turf,44
+2015,LTER 3,Fringing,Coral,16.56
+2015,LTER 3,Fringing,Crustose Corallines,0
+2015,LTER 3,Fringing,Cyanophyta,0.16
+2015,LTER 3,Fringing,Damselfish Turf,19.6
+2015,LTER 3,Fringing,Dictyota bartayresiana,1.44
+2015,LTER 3,Fringing,Lobophora variegata,2.8
+2015,LTER 3,Fringing,Sand,15.28
+2015,LTER 3,Fringing,Turbinaria ornata,0.16
+2015,LTER 3,Backreef,Algal Turf,31.52
+2015,LTER 3,Backreef,Amansia rhodantha,11.92
+2015,LTER 3,Backreef,Boodlea kaeneana,0.08
+2015,LTER 3,Backreef,Caulerpa racemosa,0.08
+2015,LTER 3,Backreef,Chnoospora implexa,1.04
+2015,LTER 3,Backreef,Coelothrix irregularis,0.4
+2015,LTER 3,Backreef,Coral,12.56
+2015,LTER 3,Backreef,Crustose Corallines,1.68
+2015,LTER 3,Backreef,Cyanophyta,0.24
+2015,LTER 3,Backreef,Damselfish Turf,3.68
+2015,LTER 3,Backreef,Dictyota bartayresiana,5.04
+2015,LTER 3,Backreef,Galaxaura filamentosa,0.16
+2015,LTER 3,Backreef,Gelidiella sp.,0.24
+2015,LTER 3,Backreef,Halimeda distorta,0.72
+2015,LTER 3,Backreef,Halimeda minima,0.16
+2015,LTER 3,Backreef,Hydroclathrus clathratus,0.08
+2015,LTER 3,Backreef,Lobophora variegata,0.4
+2015,LTER 3,Backreef,Sand,24.88
+2015,LTER 3,Backreef,Sargassum pacificum,0.08
+2015,LTER 3,Backreef,Turbinaria ornata,5.04
+2015,LTER 3,Outer 10,Algal Turf,37.44
+2015,LTER 3,Outer 10,Coral,9.6
+2015,LTER 3,Outer 10,Crustose Corallines,22.32
+2015,LTER 3,Outer 10,Halimeda distorta,0.08
+2015,LTER 3,Outer 10,Halimeda minima,0.16
+2015,LTER 3,Outer 10,Lobophora variegata,7.92
+2015,LTER 3,Outer 10,Millepora platyphylla,0.08
+2015,LTER 3,Outer 10,Peyssonnelia sp.,2.88
+2015,LTER 3,Outer 10,Sand,5.68
+2015,LTER 3,Outer 10,Turbinaria ornata,13.84
+2015,LTER 3,Outer 17,Algal Turf,41.68
+2015,LTER 3,Outer 17,Amphiroa fragilissima,0.24
+2015,LTER 3,Outer 17,Coral,5.84
+2015,LTER 3,Outer 17,Crustose Corallines,24.64
+2015,LTER 3,Outer 17,Dictyota bartayresiana,0.16
+2015,LTER 3,Outer 17,Halimeda minima,2.08
+2015,LTER 3,Outer 17,Halimeda opuntia,0.08
+2015,LTER 3,Outer 17,Heteractis sp.,0.88
+2015,LTER 3,Outer 17,Lobophora variegata,20.72
+2015,LTER 3,Outer 17,Peyssonnelia sp.,2
+2015,LTER 3,Outer 17,Sand,1.68
+2015,LTER 4,Fringing,Algal Turf,31.68
+2015,LTER 4,Fringing,Chnoospora implexa,0.16
+2015,LTER 4,Fringing,Coral,14.16
+2015,LTER 4,Fringing,Corallimorpharia,0.16
+2015,LTER 4,Fringing,Crustose Corallines,0.24
+2015,LTER 4,Fringing,Cyanophyta,1.6
+2015,LTER 4,Fringing,Dictyota bartayresiana,4.88
+2015,LTER 4,Fringing,Halimeda distorta,0.08
+2015,LTER 4,Fringing,Halimeda opuntia,0.08
+2015,LTER 4,Fringing,Halimeda sp.,0.08
+2015,LTER 4,Fringing,Lobophora variegata,0.32
+2015,LTER 4,Fringing,Sand,46.56
+2015,LTER 4,Backreef,Algal Turf,39.28
+2015,LTER 4,Backreef,Amansia rhodantha,2.96
+2015,LTER 4,Backreef,Boodlea kaeneana,0.24
+2015,LTER 4,Backreef,Coral,25.6
+2015,LTER 4,Backreef,Crustose Corallines,0.24
+2015,LTER 4,Backreef,Cyanophyta,0.08
+2015,LTER 4,Backreef,Dictyota bartayresiana,1.76
+2015,LTER 4,Backreef,Halimeda distorta,0.32
+2015,LTER 4,Backreef,Halimeda minima,0.16
+2015,LTER 4,Backreef,Halimeda opuntia,0.4
+2015,LTER 4,Backreef,Lobophora variegata,0.32
+2015,LTER 4,Backreef,Sand,27.2
+2015,LTER 4,Backreef,Sargassum pacificum,0.08
+2015,LTER 4,Backreef,Turbinaria ornata,1.36
+2015,LTER 4,Outer 10,Algal Turf,46.4
+2015,LTER 4,Outer 10,Coral,18.8
+2015,LTER 4,Outer 10,Crustose Corallines,18.72
+2015,LTER 4,Outer 10,Cyanophyta,6.4
+2015,LTER 4,Outer 10,Halimeda discoidea,0.24
+2015,LTER 4,Outer 10,Halimeda minima,0.16
+2015,LTER 4,Outer 10,Lobophora variegata,1.2
+2015,LTER 4,Outer 10,Millepora platyphylla,6.64
+2015,LTER 4,Outer 10,Peyssonnelia sp.,0.8
+2015,LTER 4,Outer 10,Sand,0.64
+2015,LTER 4,Outer 17,Algal Turf,43.68
+2015,LTER 4,Outer 17,Coral,14.96
+2015,LTER 4,Outer 17,Crustose Corallines,27.04
+2015,LTER 4,Outer 17,Cyanophyta,0.24
+2015,LTER 4,Outer 17,Halimeda minima,0.96
+2015,LTER 4,Outer 17,Lobophora variegata,8.24
+2015,LTER 4,Outer 17,Millepora platyphylla,0.48
+2015,LTER 4,Outer 17,Peyssonnelia sp.,2.72
+2015,LTER 4,Outer 17,Sand,1.36
+2015,LTER 4,Outer 17,Soft Coral,0.32
+2015,LTER 5,Fringing,Actinotrichia fragilis,0.16
+2015,LTER 5,Fringing,Algal Turf,17.76
+2015,LTER 5,Fringing,Amphiroa fragilissima,2.4
+2015,LTER 5,Fringing,Boodlea kaeneana,0.08
+2015,LTER 5,Fringing,Coral,64.08
+2015,LTER 5,Fringing,Corallimorpharia,2
+2015,LTER 5,Fringing,Crustose Corallines,0.08
+2015,LTER 5,Fringing,Cyanophyta,0.08
+2015,LTER 5,Fringing,Damselfish Turf,5.52
+2015,LTER 5,Fringing,Dictyosphaeria versluysii,0.08
+2015,LTER 5,Fringing,Dictyota bartayresiana,0.08
+2015,LTER 5,Fringing,Halimeda minima,0.56
+2015,LTER 5,Fringing,Halimeda opuntia,0.88
+2015,LTER 5,Fringing,Halimeda sp.,0.08
+2015,LTER 5,Fringing,Lobophora variegata,0.16
+2015,LTER 5,Fringing,Sand,5.04
+2015,LTER 5,Fringing,Sponge,0.56
+2015,LTER 5,Fringing,Symploca hydnoides,0.32
+2015,LTER 5,Fringing,Valonia ventricosa,0.08
+2015,LTER 5,Backreef,Algal Turf,27.52
+2015,LTER 5,Backreef,Amansia rhodantha,1.68
+2015,LTER 5,Backreef,Amphiroa fragilissima,0.16
+2015,LTER 5,Backreef,Boodlea kaeneana,0.16
+2015,LTER 5,Backreef,Coelothrix irregularis,0.24
+2015,LTER 5,Backreef,Coral,20.72
+2015,LTER 5,Backreef,Crustose Corallines,1.6
+2015,LTER 5,Backreef,Cyanophyta,0.08
+2015,LTER 5,Backreef,Damselfish Turf,6.48
+2015,LTER 5,Backreef,Dictyota bartayresiana,0.72
+2015,LTER 5,Backreef,Galaxaura filamentosa,0.16
+2015,LTER 5,Backreef,Halimeda distorta,0.56
+2015,LTER 5,Backreef,Halimeda minima,0.48
+2015,LTER 5,Backreef,Halimeda opuntia,0.24
+2015,LTER 5,Backreef,Halimeda sp.,0.08
+2015,LTER 5,Backreef,Lobophora variegata,0.08
+2015,LTER 5,Backreef,Sand,37.36
+2015,LTER 5,Backreef,Sargassum pacificum,0.32
+2015,LTER 5,Backreef,Turbinaria ornata,1.36
+2015,LTER 5,Outer 10,Algal Turf,46
+2015,LTER 5,Outer 10,Coral,18.4
+2015,LTER 5,Outer 10,Crustose Corallines,15.92
+2015,LTER 5,Outer 10,Cyanophyta,7.6
+2015,LTER 5,Outer 10,Halimeda discoidea,0.08
+2015,LTER 5,Outer 10,Halimeda distorta,0.16
+2015,LTER 5,Outer 10,Halimeda incrassata,0.08
+2015,LTER 5,Outer 10,Halimeda macroloba,0.08
+2015,LTER 5,Outer 10,Halimeda minima,1.12
+2015,LTER 5,Outer 10,Lobophora variegata,0.64
+2015,LTER 5,Outer 10,Millepora platyphylla,2.88
+2015,LTER 5,Outer 10,Peyssonnelia sp.,6.24
+2015,LTER 5,Outer 10,Sand,0.8
+2015,LTER 5,Outer 17,Algal Turf,37.84
+2015,LTER 5,Outer 17,Coral,16.96
+2015,LTER 5,Outer 17,Crustose Corallines,28.88
+2015,LTER 5,Outer 17,Halimeda minima,0.48
+2015,LTER 5,Outer 17,Lobophora variegata,1.6
+2015,LTER 5,Outer 17,Millepora platyphylla,3.6
+2015,LTER 5,Outer 17,Peyssonnelia sp.,5.12
+2015,LTER 5,Outer 17,Sand,3.36
+2015,LTER 5,Outer 17,Soft Coral,2.16
+2015,LTER 6,Fringing,Algal Turf,39.52
+2015,LTER 6,Fringing,Amansia rhodantha,10.24
+2015,LTER 6,Fringing,Caulerpa racemosa,0.32
+2015,LTER 6,Fringing,Caulerpa serrulata,0.08
+2015,LTER 6,Fringing,Coral,32.88
+2015,LTER 6,Fringing,Crustose Corallines,4
+2015,LTER 6,Fringing,Cyanophyta,1.04
+2015,LTER 6,Fringing,Dichotomaria marginata,0.08
+2015,LTER 6,Fringing,Dictyosphaeria cavernosa,0
+2015,LTER 6,Fringing,Dictyota bartayresiana,6.24
+2015,LTER 6,Fringing,Halimeda opuntia,2.8
+2015,LTER 6,Fringing,Lobophora variegata,0.16
+2015,LTER 6,Fringing,Sand,2.48
+2015,LTER 6,Fringing,Turbinaria ornata,0.16
+2015,LTER 6,Backreef,Algal Turf,42.08
+2015,LTER 6,Backreef,Cladophoropsis membranacea,0.08
+2015,LTER 6,Backreef,Coral,23.36
+2015,LTER 6,Backreef,Crustose Corallines,0.88
+2015,LTER 6,Backreef,Dictyota friabilis,0.08
+2015,LTER 6,Backreef,Galaxaura rugosa,0.16
+2015,LTER 6,Backreef,Halimeda distorta,0.08
+2015,LTER 6,Backreef,Halimeda incrassata,0.32
+2015,LTER 6,Backreef,Halimeda minima,0.48
+2015,LTER 6,Backreef,Halimeda opuntia,0.16
+2015,LTER 6,Backreef,Sand,32.32
+2015,LTER 6,Outer 10,Algal Turf,44
+2015,LTER 6,Outer 10,Asparagopsis taxiformis,2.96
+2015,LTER 6,Outer 10,Coral,25.04
+2015,LTER 6,Outer 10,Crustose Corallines,17.28
+2015,LTER 6,Outer 10,Cyanophyta,2.64
+2015,LTER 6,Outer 10,Halimeda discoidea,0.16
+2015,LTER 6,Outer 10,Halimeda distorta,0.4
+2015,LTER 6,Outer 10,Halimeda macroloba,0.08
+2015,LTER 6,Outer 10,Halimeda minima,1.6
+2015,LTER 6,Outer 10,Halimeda taenicola,0.96
+2015,LTER 6,Outer 10,Lobophora variegata,1.84
+2015,LTER 6,Outer 10,Millepora platyphylla,1.28
+2015,LTER 6,Outer 10,Peyssonnelia sp.,0.8
+2015,LTER 6,Outer 10,Sand,0.96
+2015,LTER 6,Outer 17,Algal Turf,51.84
+2015,LTER 6,Outer 17,Coral,14.8
+2015,LTER 6,Outer 17,Crustose Corallines,25.28
+2015,LTER 6,Outer 17,Cyanophyta,0.16
+2015,LTER 6,Outer 17,Halimeda minima,0.32
+2015,LTER 6,Outer 17,Lobophora variegata,3.12
+2015,LTER 6,Outer 17,Millepora platyphylla,0.08
+2015,LTER 6,Outer 17,Peyssonnelia sp.,1.44
+2015,LTER 6,Outer 17,Sand,2.96
+2016,LTER 1,Fringing,Algal Turf,37.12
+2016,LTER 1,Fringing,Coral,3.2
+2016,LTER 1,Fringing,Corallimorpharia,0.08
+2016,LTER 1,Fringing,Crustose Corallines,2.56
+2016,LTER 1,Fringing,Cyanophyta,3.92
+2016,LTER 1,Fringing,Damselfish Turf,3.28
+2016,LTER 1,Fringing,Dictyota bartayresiana,18.16
+2016,LTER 1,Fringing,Halimeda opuntia,0.16
+2016,LTER 1,Fringing,Lobophora variegata,1.6
+2016,LTER 1,Fringing,Sand,29.84
+2016,LTER 1,Fringing,Tridacna sp.,0.08
+2016,LTER 1,Backreef,Algal Turf,18.96
+2016,LTER 1,Backreef,Amansia rhodantha,14.48
+2016,LTER 1,Backreef,Boodlea kaeneana,0.08
+2016,LTER 1,Backreef,Coral,4.64
+2016,LTER 1,Backreef,Crustose Corallines,6.72
+2016,LTER 1,Backreef,Cyanophyta,0.16
+2016,LTER 1,Backreef,Damselfish Turf,4.56
+2016,LTER 1,Backreef,Dictyota bartayresiana,2
+2016,LTER 1,Backreef,Halimeda discoidea,0.08
+2016,LTER 1,Backreef,Halimeda distorta,0.4
+2016,LTER 1,Backreef,Halimeda sp.,0.16
+2016,LTER 1,Backreef,Lobophora variegata,1.6
+2016,LTER 1,Backreef,Peyssonnelia sp.,0.24
+2016,LTER 1,Backreef,Sand,24.16
+2016,LTER 1,Backreef,Sargassum pacificum,6.88
+2016,LTER 1,Backreef,Turbinaria ornata,14.88
+2016,LTER 1,Outer 10,Algal Turf,30.56
+2016,LTER 1,Outer 10,Asparagopsis taxiformis,1.36
+2016,LTER 1,Outer 10,Cladophoropsis membranacea,0.16
+2016,LTER 1,Outer 10,Coral,56.32
+2016,LTER 1,Outer 10,Crustose Corallines,6.56
+2016,LTER 1,Outer 10,Cyanophyta,0.24
+2016,LTER 1,Outer 10,Dictyota friabilis,0.08
+2016,LTER 1,Outer 10,Halimeda discoidea,0.4
+2016,LTER 1,Outer 10,Halimeda minima,1.04
+2016,LTER 1,Outer 10,Halimeda taenicola,0.24
+2016,LTER 1,Outer 10,Lobophora variegata,0.16
+2016,LTER 1,Outer 10,Millepora platyphylla,2.64
+2016,LTER 1,Outer 10,Peyssonnelia sp.,0.24
+2016,LTER 1,Outer 10,Sand,0
+2016,LTER 1,Outer 17,Algal Turf,44
+2016,LTER 1,Outer 17,Asparagopsis taxiformis,4.96
+2016,LTER 1,Outer 17,Coral,22.88
+2016,LTER 1,Outer 17,Crustose Corallines,20.88
+2016,LTER 1,Outer 17,Halimeda minima,0.72
+2016,LTER 1,Outer 17,Lobophora variegata,0.8
+2016,LTER 1,Outer 17,Peyssonnelia sp.,3.52
+2016,LTER 1,Outer 17,Sand,2.24
+2016,LTER 2,Fringing,Algal Turf,70.24
+2016,LTER 2,Fringing,Amansia rhodantha,0.08
+2016,LTER 2,Fringing,Coral,2.88
+2016,LTER 2,Fringing,Corallimorpharia,0.56
+2016,LTER 2,Fringing,Crustose Corallines,3.28
+2016,LTER 2,Fringing,Cyanophyta,0.16
+2016,LTER 2,Fringing,Damselfish Turf,5.04
+2016,LTER 2,Fringing,Dictyota bartayresiana,0.4
+2016,LTER 2,Fringing,Galaxaura filamentosa,0.4
+2016,LTER 2,Fringing,Hydroclathrus clathratus,0.08
+2016,LTER 2,Fringing,Hypnea spinella,0.08
+2016,LTER 2,Fringing,Lobophora variegata,0.16
+2016,LTER 2,Fringing,Millepora platyphylla,2.88
+2016,LTER 2,Fringing,Padina boryana,0.16
+2016,LTER 2,Fringing,Sand,0.88
+2016,LTER 2,Fringing,Sponge,0.08
+2016,LTER 2,Fringing,Turbinaria ornata,12.64
+2016,LTER 2,Backreef,Algal Turf,30.96
+2016,LTER 2,Backreef,Amphiroa fragilissima,0.32
+2016,LTER 2,Backreef,Chnoospora implexa,1.76
+2016,LTER 2,Backreef,Coral,1.2
+2016,LTER 2,Backreef,Crustose Corallines,0.8
+2016,LTER 2,Backreef,Cyanophyta,2.32
+2016,LTER 2,Backreef,Dictyota bartayresiana,27.84
+2016,LTER 2,Backreef,Halimeda distorta,0.08
+2016,LTER 2,Backreef,Halimeda opuntia,0.24
+2016,LTER 2,Backreef,Hydroclathrus clathratus,0.24
+2016,LTER 2,Backreef,Lobophora variegata,1.44
+2016,LTER 2,Backreef,Padina boryana,1.6
+2016,LTER 2,Backreef,Sand,27.92
+2016,LTER 2,Backreef,Sargassum pacificum,0.08
+2016,LTER 2,Backreef,Sponge,0.08
+2016,LTER 2,Backreef,Turbinaria ornata,3.12
+2016,LTER 2,Outer 10,Algal Turf,37.04
+2016,LTER 2,Outer 10,Asparagopsis taxiformis,2.72
+2016,LTER 2,Outer 10,Coral,36.88
+2016,LTER 2,Outer 10,Crustose Corallines,12.72
+2016,LTER 2,Outer 10,Cyanophyta,0.4
+2016,LTER 2,Outer 10,Halimeda discoidea,0.32
+2016,LTER 2,Outer 10,Halimeda minima,0.56
+2016,LTER 2,Outer 10,Lobophora variegata,0.08
+2016,LTER 2,Outer 10,Millepora platyphylla,7.76
+2016,LTER 2,Outer 10,Peyssonnelia sp.,1.04
+2016,LTER 2,Outer 10,Sand,0.48
+2016,LTER 2,Outer 17,Algal Turf,57.6
+2016,LTER 2,Outer 17,Asparagopsis taxiformis,3.84
+2016,LTER 2,Outer 17,Coral,18.08
+2016,LTER 2,Outer 17,Crustose Corallines,13.76
+2016,LTER 2,Outer 17,Halimeda minima,0.16
+2016,LTER 2,Outer 17,Lobophora variegata,1.12
+2016,LTER 2,Outer 17,Peyssonnelia sp.,1.68
+2016,LTER 2,Outer 17,Sand,3.76
+2016,LTER 3,Fringing,Algal Turf,32.32
+2016,LTER 3,Fringing,Coral,23.6
+2016,LTER 3,Fringing,Crustose Corallines,0.24
+2016,LTER 3,Fringing,Cyanophyta,1.84
+2016,LTER 3,Fringing,Damselfish Turf,14.24
+2016,LTER 3,Fringing,Dictyota bartayresiana,5.04
+2016,LTER 3,Fringing,Halimeda distorta,0.08
+2016,LTER 3,Fringing,Halimeda minima,0.08
+2016,LTER 3,Fringing,Lobophora variegata,1.84
+2016,LTER 3,Fringing,Sand,20.56
+2016,LTER 3,Fringing,Turbinaria ornata,0.16
+2016,LTER 3,Backreef,Algal Turf,29.2
+2016,LTER 3,Backreef,Amansia rhodantha,8.64
+2016,LTER 3,Backreef,Caulerpa serrulata,0.16
+2016,LTER 3,Backreef,Chnoospora implexa,3.44
+2016,LTER 3,Backreef,Coral,11.84
+2016,LTER 3,Backreef,Crustose Corallines,2.32
+2016,LTER 3,Backreef,Cyanophyta,1.68
+2016,LTER 3,Backreef,Damselfish Turf,3.76
+2016,LTER 3,Backreef,Dictyota bartayresiana,3.92
+2016,LTER 3,Backreef,Dictyota divaricata,0.16
+2016,LTER 3,Backreef,Galaxaura filamentosa,0.08
+2016,LTER 3,Backreef,Halimeda discoidea,0.08
+2016,LTER 3,Backreef,Halimeda distorta,1.2
+2016,LTER 3,Backreef,Halimeda minima,0.24
+2016,LTER 3,Backreef,Halimeda opuntia,0.08
+2016,LTER 3,Backreef,Hypnea spinella,0.32
+2016,LTER 3,Backreef,Lobophora variegata,0.48
+2016,LTER 3,Backreef,Sand,25.28
+2016,LTER 3,Backreef,Sargassum pacificum,0.24
+2016,LTER 3,Backreef,Tridacna sp.,0.32
+2016,LTER 3,Backreef,Turbinaria ornata,6.56
+2016,LTER 3,Outer 10,Algal Turf,37.76
+2016,LTER 3,Outer 10,Coral,12.96
+2016,LTER 3,Outer 10,Crustose Corallines,18.72
+2016,LTER 3,Outer 10,Halimeda distorta,0.32
+2016,LTER 3,Outer 10,Halimeda minima,0.48
+2016,LTER 3,Outer 10,Halimeda taenicola,0.08
+2016,LTER 3,Outer 10,Lobophora variegata,0.32
+2016,LTER 3,Outer 10,Peyssonnelia sp.,8.72
+2016,LTER 3,Outer 10,Sand,4.72
+2016,LTER 3,Outer 10,Turbinaria ornata,15.92
+2016,LTER 3,Outer 17,Actinotrichia fragilis,0.08
+2016,LTER 3,Outer 17,Algal Turf,34.8
+2016,LTER 3,Outer 17,Coral,8.08
+2016,LTER 3,Outer 17,Crustose Corallines,21.84
+2016,LTER 3,Outer 17,Dictyota friabilis,0.4
+2016,LTER 3,Outer 17,Halimeda minima,5.6
+2016,LTER 3,Outer 17,Lobophora variegata,4.48
+2016,LTER 3,Outer 17,Peyssonnelia sp.,22.88
+2016,LTER 3,Outer 17,Sand,1.84
+2016,LTER 4,Fringing,Actinotrichia fragilis,0.08
+2016,LTER 4,Fringing,Algal Turf,31.92
+2016,LTER 4,Fringing,Amansia rhodantha,0.32
+2016,LTER 4,Fringing,Chnoospora implexa,0.24
+2016,LTER 4,Fringing,Coral,18.64
+2016,LTER 4,Fringing,Corallimorpharia,0.08
+2016,LTER 4,Fringing,Crustose Corallines,0.72
+2016,LTER 4,Fringing,Cyanophyta,1.76
+2016,LTER 4,Fringing,Dictyota bartayresiana,2.16
+2016,LTER 4,Fringing,Galaxaura filamentosa,0.32
+2016,LTER 4,Fringing,Halimeda opuntia,0.64
+2016,LTER 4,Fringing,Peyssonnelia sp.,0.16
+2016,LTER 4,Fringing,Sand,42.96
+2016,LTER 4,Backreef,Algal Turf,39.2
+2016,LTER 4,Backreef,Amansia rhodantha,4.64
+2016,LTER 4,Backreef,Caulerpa serrulata,0.16
+2016,LTER 4,Backreef,Coral,23.76
+2016,LTER 4,Backreef,Crustose Corallines,1.28
+2016,LTER 4,Backreef,Cyanophyta,2.72
+2016,LTER 4,Backreef,Damselfish Turf,0.08
+2016,LTER 4,Backreef,Dictyota bartayresiana,4.4
+2016,LTER 4,Backreef,Dictyota friabilis,0.08
+2016,LTER 4,Backreef,Halimeda discoidea,0.96
+2016,LTER 4,Backreef,Halimeda distorta,0.08
+2016,LTER 4,Backreef,Halimeda incrassata,0.08
+2016,LTER 4,Backreef,Halimeda opuntia,1.04
+2016,LTER 4,Backreef,Halimeda taenicola,0.16
+2016,LTER 4,Backreef,Lobophora variegata,0.88
+2016,LTER 4,Backreef,Sand,15.28
+2016,LTER 4,Backreef,Sargassum pacificum,0.08
+2016,LTER 4,Backreef,Tridacna sp.,0.32
+2016,LTER 4,Backreef,Turbinaria ornata,4.8
+2016,LTER 4,Outer 10,Algal Turf,42.4
+2016,LTER 4,Outer 10,Coral,25.12
+2016,LTER 4,Outer 10,Crustose Corallines,22.8
+2016,LTER 4,Outer 10,Cyanophyta,0.16
+2016,LTER 4,Outer 10,Halimeda distorta,0.08
+2016,LTER 4,Outer 10,Halimeda minima,0.08
+2016,LTER 4,Outer 10,Millepora platyphylla,5.68
+2016,LTER 4,Outer 10,Peyssonnelia sp.,3.68
+2016,LTER 4,Outer 10,Sand,0
+2016,LTER 4,Outer 17,Algal Turf,36.96
+2016,LTER 4,Outer 17,Coral,17.68
+2016,LTER 4,Outer 17,Crustose Corallines,30.8
+2016,LTER 4,Outer 17,Halimeda minima,0.96
+2016,LTER 4,Outer 17,Millepora platyphylla,0.24
+2016,LTER 4,Outer 17,Peyssonnelia sp.,12.4
+2016,LTER 4,Outer 17,Sand,0.8
+2016,LTER 4,Outer 17,Soft Coral,0.16
+2016,LTER 5,Fringing,Actinotrichia fragilis,2.56
+2016,LTER 5,Fringing,Algal Turf,15.12
+2016,LTER 5,Fringing,Coral,71.04
+2016,LTER 5,Fringing,Corallimorpharia,0.72
+2016,LTER 5,Fringing,Crustose Corallines,0
+2016,LTER 5,Fringing,Cyanophyta,1.36
+2016,LTER 5,Fringing,Damselfish Turf,1.28
+2016,LTER 5,Fringing,Dictyota bartayresiana,0.72
+2016,LTER 5,Fringing,Halimeda distorta,0.4
+2016,LTER 5,Fringing,Halimeda minima,0.32
+2016,LTER 5,Fringing,Sand,6.24
+2016,LTER 5,Fringing,Sponge,0.24
+2016,LTER 5,Backreef,Algal Turf,24.4
+2016,LTER 5,Backreef,Amansia rhodantha,0.4
+2016,LTER 5,Backreef,Coral,21.84
+2016,LTER 5,Backreef,Crustose Corallines,0.88
+2016,LTER 5,Backreef,Cyanophyta,1.04
+2016,LTER 5,Backreef,Damselfish Turf,5.44
+2016,LTER 5,Backreef,Dictyota bartayresiana,0.24
+2016,LTER 5,Backreef,Halimeda distorta,0.64
+2016,LTER 5,Backreef,Halimeda minima,0.32
+2016,LTER 5,Backreef,Sand,42.88
+2016,LTER 5,Backreef,Turbinaria ornata,1.92
+2016,LTER 5,Outer 10,Algal Turf,41.44
+2016,LTER 5,Outer 10,Coral,22.4
+2016,LTER 5,Outer 10,Crustose Corallines,16.48
+2016,LTER 5,Outer 10,Cyanophyta,4.72
+2016,LTER 5,Outer 10,Halimeda discoidea,0.16
+2016,LTER 5,Outer 10,Halimeda distorta,0.32
+2016,LTER 5,Outer 10,Halimeda minima,0.32
+2016,LTER 5,Outer 10,Halimeda taenicola,0.56
+2016,LTER 5,Outer 10,Millepora platyphylla,2.96
+2016,LTER 5,Outer 10,Peyssonnelia sp.,10.56
+2016,LTER 5,Outer 10,Sand,0.08
+2016,LTER 5,Outer 17,Algal Turf,35.04
+2016,LTER 5,Outer 17,Coral,21.76
+2016,LTER 5,Outer 17,Crustose Corallines,24.16
+2016,LTER 5,Outer 17,Halimeda minima,0.32
+2016,LTER 5,Outer 17,Lobophora variegata,0.08
+2016,LTER 5,Outer 17,Millepora platyphylla,3.12
+2016,LTER 5,Outer 17,Peyssonnelia sp.,9.12
+2016,LTER 5,Outer 17,Sand,3.68
+2016,LTER 5,Outer 17,Soft Coral,2.72
+2016,LTER 6,Fringing,Algal Turf,40.72
+2016,LTER 6,Fringing,Amansia rhodantha,21.04
+2016,LTER 6,Fringing,Caulerpa racemosa,0.16
+2016,LTER 6,Fringing,Coral,4.48
+2016,LTER 6,Fringing,Corallimorpharia,0.72
+2016,LTER 6,Fringing,Crustose Corallines,0.08
+2016,LTER 6,Fringing,Cyanophyta,9.12
+2016,LTER 6,Fringing,Damselfish Turf,5.92
+2016,LTER 6,Fringing,Dictyota bartayresiana,14.88
+2016,LTER 6,Fringing,Halimeda distorta,0.32
+2016,LTER 6,Fringing,Halimeda opuntia,0.08
+2016,LTER 6,Fringing,Sand,0.88
+2016,LTER 6,Fringing,Turbinaria ornata,1.6
+2016,LTER 6,Backreef,Algal Turf,22.64
+2016,LTER 6,Backreef,Caulerpa racemosa,0.08
+2016,LTER 6,Backreef,Coral,21.12
+2016,LTER 6,Backreef,Crustose Corallines,0.88
+2016,LTER 6,Backreef,Cyanophyta,0.56
+2016,LTER 6,Backreef,Damselfish Turf,8.56
+2016,LTER 6,Backreef,Dictyota bartayresiana,0.16
+2016,LTER 6,Backreef,Galaxaura filamentosa,0.08
+2016,LTER 6,Backreef,Halimeda distorta,0.88
+2016,LTER 6,Backreef,Halimeda minima,0.08
+2016,LTER 6,Backreef,Sand,44.96
+2016,LTER 6,Outer 10,Algal Turf,38
+2016,LTER 6,Outer 10,Asparagopsis taxiformis,6
+2016,LTER 6,Outer 10,Coral,34.24
+2016,LTER 6,Outer 10,Crustose Corallines,16.88
+2016,LTER 6,Outer 10,Cyanophyta,1.44
+2016,LTER 6,Outer 10,Halimeda discoidea,0.24
+2016,LTER 6,Outer 10,Halimeda minima,0.72
+2016,LTER 6,Outer 10,Halimeda taenicola,0.24
+2016,LTER 6,Outer 10,Millepora platyphylla,1.04
+2016,LTER 6,Outer 10,Peyssonnelia sp.,0.8
+2016,LTER 6,Outer 10,Sand,0.4
+2016,LTER 6,Outer 17,Algal Turf,40.32
+2016,LTER 6,Outer 17,Asparagopsis taxiformis,4.96
+2016,LTER 6,Outer 17,Coral,18.96
+2016,LTER 6,Outer 17,Crustose Corallines,26.32
+2016,LTER 6,Outer 17,Halimeda minima,0.08
+2016,LTER 6,Outer 17,Millepora platyphylla,0.24
+2016,LTER 6,Outer 17,Peyssonnelia sp.,4.72
+2016,LTER 6,Outer 17,Sand,4.4
+2017,LTER 1,Fringing,Algal Turf,13.36
+2017,LTER 1,Fringing,Amphiroa fragilissima,0.08
+2017,LTER 1,Fringing,Boodlea kaeneana,0.08
+2017,LTER 1,Fringing,Coral,2.56
+2017,LTER 1,Fringing,Coral Rubble,31.84
+2017,LTER 1,Fringing,Crustose Corallines,11.44
+2017,LTER 1,Fringing,Damselfish Turf,1.2
+2017,LTER 1,Fringing,Dictyota bartayresiana,13.36
+2017,LTER 1,Fringing,Halimeda distorta,0.16
+2017,LTER 1,Fringing,Sand,24.96
+2017,LTER 1,Fringing,Sponge,0.96
+2017,LTER 1,Backreef,Algal Turf,23.44
+2017,LTER 1,Backreef,Amansia rhodantha,0.08
+2017,LTER 1,Backreef,Amphiroa fragilissima,0.08
+2017,LTER 1,Backreef,Cladophoropsis membranacea,0.24
+2017,LTER 1,Backreef,Coral,5.04
+2017,LTER 1,Backreef,Coral Rubble,1.28
+2017,LTER 1,Backreef,Crustose Corallines,17.36
+2017,LTER 1,Backreef,Damselfish Turf,3.183673469387755
+2017,LTER 1,Backreef,Dictyota bartayresiana,2.16
+2017,LTER 1,Backreef,Halimeda discoidea,0.24
+2017,LTER 1,Backreef,Halimeda distorta,0.16
+2017,LTER 1,Backreef,Sand,29.04
+2017,LTER 1,Backreef,Sargassum pacificum,4.32
+2017,LTER 1,Backreef,Turbinaria ornata,13.44
+2017,LTER 1,Outer 10,Algal Turf,17.6
+2017,LTER 1,Outer 10,Asparagopsis taxiformis,0.72
+2017,LTER 1,Outer 10,Coral,72.48
+2017,LTER 1,Outer 10,Crustose Corallines,4.56
+2017,LTER 1,Outer 10,Dictyota friabilis,0.08
+2017,LTER 1,Outer 10,Halimeda discoidea,0.24
+2017,LTER 1,Outer 10,Halimeda minima,0.48
+2017,LTER 1,Outer 10,Lobophora variegata,0.16
+2017,LTER 1,Outer 10,Millepora platyphylla,2.96
+2017,LTER 1,Outer 10,Peyssonnelia sp.,0.48
+2017,LTER 1,Outer 10,Sand,0.24
+2017,LTER 1,Outer 17,Algal Turf,51.44
+2017,LTER 1,Outer 17,Asparagopsis taxiformis,3.44
+2017,LTER 1,Outer 17,Coral,24.72
+2017,LTER 1,Outer 17,Crustose Corallines,14.4
+2017,LTER 1,Outer 17,Halimeda minima,0.16
+2017,LTER 1,Outer 17,Lobophora variegata,1.68
+2017,LTER 1,Outer 17,Peyssonnelia sp.,1.12
+2017,LTER 1,Outer 17,Sand,3.2
+2017,LTER 2,Fringing,Algal Turf,15.92
+2017,LTER 2,Fringing,Bare Space,5.92
+2017,LTER 2,Fringing,Coral,4.56
+2017,LTER 2,Fringing,Coral Rubble,5.92
+2017,LTER 2,Fringing,Crustose Corallines,5.52
+2017,LTER 2,Fringing,Cyanophyta,0.24
+2017,LTER 2,Fringing,Damselfish Turf,40.16
+2017,LTER 2,Fringing,Dictyota bartayresiana,1.44
+2017,LTER 2,Fringing,Halimeda distorta,0.24
+2017,LTER 2,Fringing,Padina boryana,0.16
+2017,LTER 2,Fringing,Peyssonnelia sp.,0.16
+2017,LTER 2,Fringing,Sand,4.4
+2017,LTER 2,Fringing,Sponge,0.24
+2017,LTER 2,Fringing,Turbinaria ornata,15.12
+2017,LTER 2,Backreef,Algal Turf,0.72
+2017,LTER 2,Backreef,Bare Space,17.68
+2017,LTER 2,Backreef,Coral,0.48
+2017,LTER 2,Backreef,Coral Rubble,11.44
+2017,LTER 2,Backreef,Crustose Corallines,3.52
+2017,LTER 2,Backreef,Damselfish Turf,12.16
+2017,LTER 2,Backreef,Dichotomaria marginata,1.84
+2017,LTER 2,Backreef,Dictyota bartayresiana,21.04
+2017,LTER 2,Backreef,Dictyota divaricata,0.8
+2017,LTER 2,Backreef,Galaxaura sp.,0.32
+2017,LTER 2,Backreef,Halimeda distorta,0.56
+2017,LTER 2,Backreef,Padina boryana,0.08
+2017,LTER 2,Backreef,Peyssonnelia sp.,0.16
+2017,LTER 2,Backreef,Sand,20.4
+2017,LTER 2,Backreef,Sporolithon sp.,0.8
+2017,LTER 2,Backreef,Turbinaria ornata,8
+2017,LTER 2,Outer 10,Algal Turf,38.16
+2017,LTER 2,Outer 10,Asparagopsis taxiformis,3.2
+2017,LTER 2,Outer 10,Coral,40.32
+2017,LTER 2,Outer 10,Crustose Corallines,8.96
+2017,LTER 2,Outer 10,Cyanophyta,0.88
+2017,LTER 2,Outer 10,Halimeda discoidea,0.16
+2017,LTER 2,Outer 10,Halimeda minima,0.24
+2017,LTER 2,Outer 10,Lobophora variegata,0.48
+2017,LTER 2,Outer 10,Millepora platyphylla,6
+2017,LTER 2,Outer 10,Peyssonnelia sp.,0.24
+2017,LTER 2,Outer 10,Sand,1.36
+2017,LTER 2,Outer 17,Algal Turf,62.48
+2017,LTER 2,Outer 17,Asparagopsis taxiformis,1.84
+2017,LTER 2,Outer 17,Coral,20.64
+2017,LTER 2,Outer 17,Crustose Corallines,10.48
+2017,LTER 2,Outer 17,Lobophora variegata,0.4
+2017,LTER 2,Outer 17,Millepora platyphylla,0.16
+2017,LTER 2,Outer 17,Peyssonnelia sp.,2.08
+2017,LTER 2,Outer 17,Sand,1.92
+2017,LTER 3,Fringing,Algal Turf,41.68
+2017,LTER 3,Fringing,Asparagopsis taxiformis,0.4
+2017,LTER 3,Fringing,Bare Space,1.44
+2017,LTER 3,Fringing,Coral,11.76
+2017,LTER 3,Fringing,Coral Rubble,10.24
+2017,LTER 3,Fringing,Crustose Corallines,3.12
+2017,LTER 3,Fringing,Cyanophyta,1.76
+2017,LTER 3,Fringing,Damselfish Turf,7.04
+2017,LTER 3,Fringing,Dictyota bartayresiana,3.68
+2017,LTER 3,Fringing,Sand,18.88
+2017,LTER 3,Backreef,Algal Turf,47.44
+2017,LTER 3,Backreef,Amansia rhodantha,0.24
+2017,LTER 3,Backreef,Bare Space,0.4
+2017,LTER 3,Backreef,Coral,10.8
+2017,LTER 3,Backreef,Coral Rubble,7.2
+2017,LTER 3,Backreef,Crustose Corallines,1.68
+2017,LTER 3,Backreef,Cyanophyta,0.4
+2017,LTER 3,Backreef,Damselfish Turf,6.88
+2017,LTER 3,Backreef,Dictyota bartayresiana,1.68
+2017,LTER 3,Backreef,Halimeda discoidea,0.72
+2017,LTER 3,Backreef,Halimeda minima,0.16
+2017,LTER 3,Backreef,Halimeda sp.,0.16
+2017,LTER 3,Backreef,Halimeda taenicola,0.16
+2017,LTER 3,Backreef,Sand,16.08
+2017,LTER 3,Backreef,Sargassum pacificum,0.32
+2017,LTER 3,Backreef,Tridacna sp.,0.08
+2017,LTER 3,Backreef,Turbinaria ornata,5.6
+2017,LTER 3,Outer 10,Algal Turf,34.4
+2017,LTER 3,Outer 10,Coral,17.04
+2017,LTER 3,Outer 10,Crustose Corallines,19.92
+2017,LTER 3,Outer 10,Halimeda discoidea,0.24
+2017,LTER 3,Outer 10,Halimeda distorta,0.64
+2017,LTER 3,Outer 10,Halimeda minima,0.56
+2017,LTER 3,Outer 10,Halimeda taenicola,0.08
+2017,LTER 3,Outer 10,Peyssonnelia sp.,5.92
+2017,LTER 3,Outer 10,Sand,4.16
+2017,LTER 3,Outer 10,Turbinaria ornata,17.04
+2017,LTER 3,Outer 17,Algal Turf,43.92
+2017,LTER 3,Outer 17,Coral,9.84
+2017,LTER 3,Outer 17,Crustose Corallines,20.48
+2017,LTER 3,Outer 17,Halimeda distorta,3.44
+2017,LTER 3,Outer 17,Halimeda minima,8.32
+2017,LTER 3,Outer 17,Microdictyon okamurae,0.1
+2017,LTER 3,Outer 17,Peyssonnelia sp.,15.8
+2017,LTER 3,Outer 17,Sand,1.28
+2017,LTER 4,Fringing,Algal Turf,8.96
+2017,LTER 4,Fringing,Amansia rhodantha,0.08
+2017,LTER 4,Fringing,Bare Space,0.88
+2017,LTER 4,Fringing,Coral,19.04
+2017,LTER 4,Fringing,Coral Rubble,27.52
+2017,LTER 4,Fringing,Crustose Corallines,0.4
+2017,LTER 4,Fringing,Cyanophyta,2.08
+2017,LTER 4,Fringing,Damselfish Turf,3.04
+2017,LTER 4,Fringing,Dictyota bartayresiana,0.24
+2017,LTER 4,Fringing,Halimeda distorta,0.24
+2017,LTER 4,Fringing,Sand,38.285714285714285
+2017,LTER 4,Backreef,Algal Turf,34.48
+2017,LTER 4,Backreef,Amansia rhodantha,1.76
+2017,LTER 4,Backreef,Bare Space,2.16
+2017,LTER 4,Backreef,Coral,24.08
+2017,LTER 4,Backreef,Coral Rubble,18.53061224489796
+2017,LTER 4,Backreef,Crustose Corallines,4.16
+2017,LTER 4,Backreef,Cyanophyta,0.48
+2017,LTER 4,Backreef,Damselfish Turf,3.04
+2017,LTER 4,Backreef,Dictyota bartayresiana,1.12
+2017,LTER 4,Backreef,Halimeda opuntia,0.08
+2017,LTER 4,Backreef,Sand,8.4
+2017,LTER 4,Backreef,Tridacna sp.,0.16
+2017,LTER 4,Backreef,Turbinaria ornata,1.92
+2017,LTER 4,Outer 10,Algal Turf,40.88
+2017,LTER 4,Outer 10,Coral,29.2
+2017,LTER 4,Outer 10,Crustose Corallines,22.8
+2017,LTER 4,Outer 10,Cyanophyta,0.32
+2017,LTER 4,Outer 10,Millepora platyphylla,4.08
+2017,LTER 4,Outer 10,Peyssonnelia sp.,2.16
+2017,LTER 4,Outer 10,Sand,0.56
+2017,LTER 4,Outer 17,Algal Turf,37.6
+2017,LTER 4,Outer 17,Coral,22.96
+2017,LTER 4,Outer 17,Crustose Corallines,26.16
+2017,LTER 4,Outer 17,Cyanophyta,0.32
+2017,LTER 4,Outer 17,Millepora platyphylla,0.4
+2017,LTER 4,Outer 17,Peyssonnelia sp.,10.72
+2017,LTER 4,Outer 17,Sand,1.68
+2017,LTER 4,Outer 17,Soft Coral,0.16
+2017,LTER 5,Fringing,Algal Turf,0
+2017,LTER 5,Fringing,Bare Space,5.92
+2017,LTER 5,Fringing,Coral,67.92
+2017,LTER 5,Fringing,Coral Rubble,7.04
+2017,LTER 5,Fringing,Crustose Corallines,0
+2017,LTER 5,Fringing,Damselfish Turf,7.04
+2017,LTER 5,Fringing,Halimeda distorta,1.04
+2017,LTER 5,Fringing,Sand,11.04
+2017,LTER 5,Backreef,Algal Turf,16.24
+2017,LTER 5,Backreef,Amansia rhodantha,1.04
+2017,LTER 5,Backreef,Bare Space,2.64
+2017,LTER 5,Backreef,Coral,24.16
+2017,LTER 5,Backreef,Coral Rubble,6.4
+2017,LTER 5,Backreef,Crustose Corallines,0.56
+2017,LTER 5,Backreef,Cyanophyta,0.16
+2017,LTER 5,Backreef,Damselfish Turf,10.24
+2017,LTER 5,Backreef,Halimeda distorta,0.24
+2017,LTER 5,Backreef,Halimeda opuntia,0.16
+2017,LTER 5,Backreef,Sand,37.44
+2017,LTER 5,Backreef,Shell Debris,0.08
+2017,LTER 5,Backreef,Sporolithon sp.,0.64
+2017,LTER 5,Outer 10,Algal Turf,38.32
+2017,LTER 5,Outer 10,Coral,30
+2017,LTER 5,Outer 10,Crustose Corallines,13.76
+2017,LTER 5,Outer 10,Cyanophyta,6
+2017,LTER 5,Outer 10,Halimeda discoidea,0.08
+2017,LTER 5,Outer 10,Halimeda distorta,0.32
+2017,LTER 5,Outer 10,Halimeda macroloba,0.16
+2017,LTER 5,Outer 10,Halimeda minima,0.4
+2017,LTER 5,Outer 10,Halimeda taenicola,0.4
+2017,LTER 5,Outer 10,Millepora platyphylla,2.64
+2017,LTER 5,Outer 10,Peyssonnelia sp.,8.32
+2017,LTER 5,Outer 10,Sand,0.4
+2017,LTER 5,Outer 17,Algal Turf,35.2
+2017,LTER 5,Outer 17,Coral,28.4
+2017,LTER 5,Outer 17,Crustose Corallines,19.36
+2017,LTER 5,Outer 17,Cyanophyta,0.1
+2017,LTER 5,Outer 17,Halimeda minima,0.32
+2017,LTER 5,Outer 17,Halimeda taenicola,0.1
+2017,LTER 5,Outer 17,Millepora platyphylla,3.52
+2017,LTER 5,Outer 17,Peyssonnelia sp.,7.6
+2017,LTER 5,Outer 17,Sand,3.2
+2017,LTER 5,Outer 17,Soft Coral,2.24
+2017,LTER 6,Fringing,Algal Turf,41.92
+2017,LTER 6,Fringing,Amansia rhodantha,3.76
+2017,LTER 6,Fringing,Bare Space,3.44
+2017,LTER 6,Fringing,Coral,2.8
+2017,LTER 6,Fringing,Coral Rubble,3.04
+2017,LTER 6,Fringing,Crustose Corallines,12.8
+2017,LTER 6,Fringing,Damselfish Turf,14.24
+2017,LTER 6,Fringing,Dictyota bartayresiana,9.28
+2017,LTER 6,Fringing,Galaxaura sp.,0.08
+2017,LTER 6,Fringing,Halimeda distorta,0.4
+2017,LTER 6,Fringing,No data,-1
+2017,LTER 6,Fringing,Sand,2.72
+2017,LTER 6,Fringing,Shell Debris,0.56
+2017,LTER 6,Fringing,Sporolithon sp.,0.16
+2017,LTER 6,Fringing,Turbinaria ornata,3.84
+2017,LTER 6,Backreef,Algal Turf,7.52
+2017,LTER 6,Backreef,Bare Space,8.8
+2017,LTER 6,Backreef,Coral,28.4
+2017,LTER 6,Backreef,Coral Rubble,12.88
+2017,LTER 6,Backreef,Crustose Corallines,0.32
+2017,LTER 6,Backreef,Damselfish Turf,15.44
+2017,LTER 6,Backreef,Halimeda discoidea,0.16
+2017,LTER 6,Backreef,Halimeda distorta,0.56
+2017,LTER 6,Backreef,Sand,25.68
+2017,LTER 6,Backreef,Tridacna sp.,0.16
+2017,LTER 6,Backreef,Turbinaria ornata,0.08
+2017,LTER 6,Outer 10,Algal Turf,35.12
+2017,LTER 6,Outer 10,Asparagopsis taxiformis,2.08
+2017,LTER 6,Outer 10,Coral,40.08
+2017,LTER 6,Outer 10,Crustose Corallines,14.08
+2017,LTER 6,Outer 10,Cyanophyta,4.4
+2017,LTER 6,Outer 10,Halimeda minima,0.32
+2017,LTER 6,Outer 10,Halimeda taenicola,0.08
+2017,LTER 6,Outer 10,Millepora platyphylla,1.04
+2017,LTER 6,Outer 10,Peyssonnelia sp.,1.52
+2017,LTER 6,Outer 10,Sand,1.28
+2017,LTER 6,Outer 17,Algal Turf,41.68
+2017,LTER 6,Outer 17,Asparagopsis taxiformis,2.48
+2017,LTER 6,Outer 17,Coral,22.24
+2017,LTER 6,Outer 17,Crustose Corallines,21.92
+2017,LTER 6,Outer 17,Cyanophyta,1.52
+2017,LTER 6,Outer 17,Halimeda discoidea,0.08
+2017,LTER 6,Outer 17,Halimeda minima,0.32
+2017,LTER 6,Outer 17,Halimeda taenicola,0.08
+2017,LTER 6,Outer 17,Millepora platyphylla,0.08
+2017,LTER 6,Outer 17,Peyssonnelia sp.,3.36
+2017,LTER 6,Outer 17,Sand,6.24
+2018,LTER 1,Fringing,Algal Turf,14
+2018,LTER 1,Fringing,Coral,1.68
+2018,LTER 1,Fringing,Coral Rubble,58.8
+2018,LTER 1,Fringing,Crustose Corallines,1.44
+2018,LTER 1,Fringing,Cyanophyta,0.88
+2018,LTER 1,Fringing,Damselfish Turf,1.92
+2018,LTER 1,Fringing,Dictyota bartayresiana,1.52
+2018,LTER 1,Fringing,Halimeda minima,0.08
+2018,LTER 1,Fringing,Sand,19.68
+2018,LTER 1,Backreef,Algal Turf,42.32
+2018,LTER 1,Backreef,Amansia rhodantha,1.2
+2018,LTER 1,Backreef,Coral,5.68
+2018,LTER 1,Backreef,Coral Rubble,10.56
+2018,LTER 1,Backreef,Crustose Corallines,10.72
+2018,LTER 1,Backreef,Damselfish Turf,2.32
+2018,LTER 1,Backreef,Dictyota bartayresiana,1.12
+2018,LTER 1,Backreef,Halimeda discoidea,0.08
+2018,LTER 1,Backreef,Halimeda minima,0.08
+2018,LTER 1,Backreef,Sand,10.16
+2018,LTER 1,Backreef,Sargassum pacificum,5.52
+2018,LTER 1,Backreef,Turbinaria ornata,10.24
+2018,LTER 1,Outer 10,Algal Turf,8.48
+2018,LTER 1,Outer 10,Asparagopsis taxiformis,0.24
+2018,LTER 1,Outer 10,Coral,83.36
+2018,LTER 1,Outer 10,Crustose Corallines,4.96
+2018,LTER 1,Outer 10,Halimeda minima,0.56
+2018,LTER 1,Outer 10,Millepora platyphylla,2.16
+2018,LTER 1,Outer 10,Peyssonnelia sp.,0.24
+2018,LTER 1,Outer 17,Algal Turf,43.28
+2018,LTER 1,Outer 17,Asparagopsis taxiformis,3.44
+2018,LTER 1,Outer 17,Coral,30.64
+2018,LTER 1,Outer 17,Crustose Corallines,16.96
+2018,LTER 1,Outer 17,Halimeda minima,0.16
+2018,LTER 1,Outer 17,Lobophora variegata,1.12
+2018,LTER 1,Outer 17,Millepora platyphylla,0.16
+2018,LTER 1,Outer 17,Peyssonnelia sp.,2.16
+2018,LTER 1,Outer 17,Sand,2.08
+2018,LTER 2,Fringing,Algal Turf,21.44
+2018,LTER 2,Fringing,Amansia rhodantha,0.08
+2018,LTER 2,Fringing,Coral,1.68
+2018,LTER 2,Fringing,Coral Rubble,10.56
+2018,LTER 2,Fringing,Crustose Corallines,2.72
+2018,LTER 2,Fringing,Damselfish Turf,43.6
+2018,LTER 2,Fringing,Dictyota bartayresiana,0.08
+2018,LTER 2,Fringing,Halimeda minima,0.16
+2018,LTER 2,Fringing,Millepora platyphylla,2.48
+2018,LTER 2,Fringing,Peyssonnelia sp.,2.56
+2018,LTER 2,Fringing,Sand,2.56
+2018,LTER 2,Fringing,Turbinaria ornata,12.08
+2018,LTER 2,Backreef,Algal Turf,23.92
+2018,LTER 2,Backreef,Coral,0.24
+2018,LTER 2,Backreef,Coral Rubble,4.8
+2018,LTER 2,Backreef,Crustose Corallines,1.28
+2018,LTER 2,Backreef,Cyanophyta,0.72
+2018,LTER 2,Backreef,Damselfish Turf,4.64
+2018,LTER 2,Backreef,Dictyota bartayresiana,30
+2018,LTER 2,Backreef,Galaxaura sp.,0.16
+2018,LTER 2,Backreef,Halimeda minima,0.56
+2018,LTER 2,Backreef,Padina boryana,0.08
+2018,LTER 2,Backreef,Peyssonnelia sp.,0.24
+2018,LTER 2,Backreef,Sand,24.24
+2018,LTER 2,Backreef,Turbinaria ornata,9.12
+2018,LTER 2,Outer 10,Algal Turf,16
+2018,LTER 2,Outer 10,Asparagopsis taxiformis,2.56
+2018,LTER 2,Outer 10,Coral,63.04
+2018,LTER 2,Outer 10,Crustose Corallines,10.32
+2018,LTER 2,Outer 10,Halimeda discoidea,0.08
+2018,LTER 2,Outer 10,Halimeda minima,0.64
+2018,LTER 2,Outer 10,Halimeda taenicola,0.08
+2018,LTER 2,Outer 10,Millepora platyphylla,5.6
+2018,LTER 2,Outer 10,Peyssonnelia sp.,1.04
+2018,LTER 2,Outer 10,Sand,0.64
+2018,LTER 2,Outer 17,Algal Turf,49.6
+2018,LTER 2,Outer 17,Asparagopsis taxiformis,1.6
+2018,LTER 2,Outer 17,Coral,30.56
+2018,LTER 2,Outer 17,Crustose Corallines,12.16
+2018,LTER 2,Outer 17,Halimeda minima,0.08
+2018,LTER 2,Outer 17,Halimeda sp.,0.08
+2018,LTER 2,Outer 17,Millepora platyphylla,0.24
+2018,LTER 2,Outer 17,Peyssonnelia sp.,2.64
+2018,LTER 2,Outer 17,Sand,3.04
+2018,LTER 3,Fringing,Algal Turf,32.72
+2018,LTER 3,Fringing,Coral,8.48
+2018,LTER 3,Fringing,Coral Rubble,34.8
+2018,LTER 3,Fringing,Crustose Corallines,0
+2018,LTER 3,Fringing,Cyanophyta,0.48
+2018,LTER 3,Fringing,Damselfish Turf,11.28
+2018,LTER 3,Fringing,Dictyota bartayresiana,3.36
+2018,LTER 3,Fringing,Peyssonnelia sp.,0.48
+2018,LTER 3,Fringing,Sand,8.32
+2018,LTER 3,Fringing,Turbinaria ornata,0.08
+2018,LTER 3,Backreef,Algal Turf,43.52
+2018,LTER 3,Backreef,Amansia rhodantha,1.04
+2018,LTER 3,Backreef,Coral,8.4
+2018,LTER 3,Backreef,Coral Rubble,1.52
+2018,LTER 3,Backreef,Crustose Corallines,0
+2018,LTER 3,Backreef,Cyanophyta,0.08
+2018,LTER 3,Backreef,Damselfish Turf,6.16
+2018,LTER 3,Backreef,Dictyota bartayresiana,2.96
+2018,LTER 3,Backreef,Halimeda discoidea,0.24
+2018,LTER 3,Backreef,Halimeda minima,0.4
+2018,LTER 3,Backreef,Sand,29.52
+2018,LTER 3,Backreef,Turbinaria ornata,6.16
+2018,LTER 3,Outer 10,Algal Turf,35.12
+2018,LTER 3,Outer 10,Coral,22.64
+2018,LTER 3,Outer 10,Crustose Corallines,11.52
+2018,LTER 3,Outer 10,Halimeda discoidea,0.16
+2018,LTER 3,Outer 10,Halimeda distorta,0.88
+2018,LTER 3,Outer 10,Halimeda minima,0.32
+2018,LTER 3,Outer 10,Halimeda taenicola,0.24
+2018,LTER 3,Outer 10,Lobophora variegata,0.08
+2018,LTER 3,Outer 10,Peyssonnelia sp.,6.96
+2018,LTER 3,Outer 10,Sand,2.24
+2018,LTER 3,Outer 10,Turbinaria ornata,19.84
+2018,LTER 3,Outer 17,Algal Turf,36.72
+2018,LTER 3,Outer 17,Amphiroa fragilissima,0.56
+2018,LTER 3,Outer 17,Coral,13.2
+2018,LTER 3,Outer 17,Crustose Corallines,22.8
+2018,LTER 3,Outer 17,Halimeda minima,9.68
+2018,LTER 3,Outer 17,Peyssonnelia sp.,15.36
+2018,LTER 3,Outer 17,Sand,1.68
+2018,LTER 4,Fringing,Algal Turf,8.16
+2018,LTER 4,Fringing,Coral,13.12
+2018,LTER 4,Fringing,Coral Rubble,34.32
+2018,LTER 4,Fringing,Crustose Corallines,0
+2018,LTER 4,Fringing,Cyanophyta,2.4
+2018,LTER 4,Fringing,Dictyota bartayresiana,0.08
+2018,LTER 4,Fringing,Sand,41.92
+2018,LTER 4,Backreef,Algal Turf,41.92
+2018,LTER 4,Backreef,Amansia rhodantha,1.52
+2018,LTER 4,Backreef,Coral,24.4
+2018,LTER 4,Backreef,Coral Rubble,15.6
+2018,LTER 4,Backreef,Crustose Corallines,3.04
+2018,LTER 4,Backreef,Cyanophyta,0.08
+2018,LTER 4,Backreef,Damselfish Turf,2.96
+2018,LTER 4,Backreef,Dictyota bartayresiana,0.64
+2018,LTER 4,Backreef,Halimeda discoidea,0.08
+2018,LTER 4,Backreef,Halimeda distorta,0.16
+2018,LTER 4,Backreef,Halimeda minima,0.16
+2018,LTER 4,Backreef,Sand,7.84
+2018,LTER 4,Backreef,Tridacna sp.,0.24
+2018,LTER 4,Backreef,Turbinaria ornata,1.36
+2018,LTER 4,Outer 10,Algal Turf,45.12
+2018,LTER 4,Outer 10,Coral,34.32
+2018,LTER 4,Outer 10,Crustose Corallines,14.96
+2018,LTER 4,Outer 10,Halimeda discoidea,0.16
+2018,LTER 4,Outer 10,Millepora platyphylla,3.44
+2018,LTER 4,Outer 10,Peyssonnelia sp.,1.68
+2018,LTER 4,Outer 10,Sand,0.32
+2018,LTER 4,Outer 17,Algal Turf,43.04
+2018,LTER 4,Outer 17,Coral,25.6
+2018,LTER 4,Outer 17,Crustose Corallines,18.48
+2018,LTER 4,Outer 17,Halimeda minima,0.16
+2018,LTER 4,Outer 17,Lobophora variegata,0.08
+2018,LTER 4,Outer 17,Millepora platyphylla,0.24
+2018,LTER 4,Outer 17,Peyssonnelia sp.,10.8
+2018,LTER 4,Outer 17,Sand,1.6
+2018,LTER 5,Fringing,Algal Turf,6.96
+2018,LTER 5,Fringing,Coral,75.76
+2018,LTER 5,Fringing,Coral Rubble,2.8
+2018,LTER 5,Fringing,Crustose Corallines,0
+2018,LTER 5,Fringing,Damselfish Turf,3.36
+2018,LTER 5,Fringing,Sand,7.76
+2018,LTER 5,Fringing,Sponge,3.36
+2018,LTER 5,Backreef,Algal Turf,20.72
+2018,LTER 5,Backreef,Amansia rhodantha,1.36
+2018,LTER 5,Backreef,Coral,24.16
+2018,LTER 5,Backreef,Coral Rubble,6.96
+2018,LTER 5,Backreef,Crustose Corallines,1.84
+2018,LTER 5,Backreef,Cyanophyta,0.24
+2018,LTER 5,Backreef,Damselfish Turf,6.88
+2018,LTER 5,Backreef,Halimeda minima,0.4
+2018,LTER 5,Backreef,Peyssonnelia sp.,0.08
+2018,LTER 5,Backreef,Sand,36.4
+2018,LTER 5,Backreef,Turbinaria ornata,0.96
+2018,LTER 5,Outer 10,Algal Turf,33.84
+2018,LTER 5,Outer 10,Coral,33.76
+2018,LTER 5,Outer 10,Crustose Corallines,20.4
+2018,LTER 5,Outer 10,Halimeda discoidea,0.08
+2018,LTER 5,Outer 10,Halimeda distorta,0.4
+2018,LTER 5,Outer 10,Halimeda minima,0.4
+2018,LTER 5,Outer 10,Halimeda opuntia,0.16
+2018,LTER 5,Outer 10,Halimeda taenicola,1.36
+2018,LTER 5,Outer 10,Millepora platyphylla,2.48
+2018,LTER 5,Outer 10,Peyssonnelia sp.,6.56
+2018,LTER 5,Outer 10,Sand,0.32
+2018,LTER 5,Outer 10,Sarcophyton sp.,0.24
+2018,LTER 5,Outer 17,Algal Turf,36.96
+2018,LTER 5,Outer 17,Coral,33.68
+2018,LTER 5,Outer 17,Crustose Corallines,16.24
+2018,LTER 5,Outer 17,Halimeda discoidea,0.08
+2018,LTER 5,Outer 17,Halimeda minima,0.32
+2018,LTER 5,Outer 17,Lobophora variegata,0.4
+2018,LTER 5,Outer 17,Millepora platyphylla,3.04
+2018,LTER 5,Outer 17,Peyssonnelia sp.,5.28
+2018,LTER 5,Outer 17,Sand,1.92
+2018,LTER 5,Outer 17,Sarcophyton sp.,2.08
+2018,LTER 6,Fringing,Algal Turf,40
+2018,LTER 6,Fringing,Amansia rhodantha,0.32
+2018,LTER 6,Fringing,Coral,4.8
+2018,LTER 6,Fringing,Coral Rubble,17.76
+2018,LTER 6,Fringing,Crustose Corallines,1.84
+2018,LTER 6,Fringing,Cyanophyta,0.4
+2018,LTER 6,Fringing,Damselfish Turf,25.12
+2018,LTER 6,Fringing,Dictyota bartayresiana,4.08
+2018,LTER 6,Fringing,Halimeda minima,1.12
+2018,LTER 6,Fringing,Sand,1.04
+2018,LTER 6,Fringing,Turbinaria ornata,3.52
+2018,LTER 6,Backreef,Algal Turf,18.56
+2018,LTER 6,Backreef,Amansia rhodantha,0.16
+2018,LTER 6,Backreef,Coral,26.08
+2018,LTER 6,Backreef,Coral Rubble,10.32
+2018,LTER 6,Backreef,Crustose Corallines,0.64
+2018,LTER 6,Backreef,Cyanophyta,0.4
+2018,LTER 6,Backreef,Damselfish Turf,14
+2018,LTER 6,Backreef,Dictyota bartayresiana,0.4
+2018,LTER 6,Backreef,Halimeda minima,0.4
+2018,LTER 6,Backreef,Sand,28.96
+2018,LTER 6,Backreef,Turbinaria ornata,0.08
+2018,LTER 6,Outer 10,Algal Turf,36.16
+2018,LTER 6,Outer 10,Asparagopsis taxiformis,2.8
+2018,LTER 6,Outer 10,Coral,44.72
+2018,LTER 6,Outer 10,Crustose Corallines,12.48
+2018,LTER 6,Outer 10,Cyanophyta,0.4
+2018,LTER 6,Outer 10,Halimeda discoidea,0.08
+2018,LTER 6,Outer 10,Halimeda minima,0.24
+2018,LTER 6,Outer 10,Millepora platyphylla,0.72
+2018,LTER 6,Outer 10,Peyssonnelia sp.,0.88
+2018,LTER 6,Outer 10,Sand,1.52
+2018,LTER 6,Outer 17,Algal Turf,41.6
+2018,LTER 6,Outer 17,Asparagopsis taxiformis,1.52
+2018,LTER 6,Outer 17,Coral,25.44
+2018,LTER 6,Outer 17,Crustose Corallines,16.96
+2018,LTER 6,Outer 17,Halimeda discoidea,5.84
+2018,LTER 6,Outer 17,Halimeda minima,0.64
+2018,LTER 6,Outer 17,Millepora platyphylla,0.16
+2018,LTER 6,Outer 17,Sand,7.76
+2018,LTER 6,Outer 17,Sargassum pacificum,0.08
+2019,LTER 1,Fringing,Algal Turf,33.04
+2019,LTER 1,Fringing,Coral,4.16
+2019,LTER 1,Fringing,Crustose Corallines,1.04
+2019,LTER 1,Fringing,Dictyota bartayresiana,6.48
+2019,LTER 1,Fringing,Sand,55.28
+2019,LTER 1,Backreef,Algal Turf,39.44
+2019,LTER 1,Backreef,Amansia rhodantha,3.6
+2019,LTER 1,Backreef,Coral,5.68
+2019,LTER 1,Backreef,Crustose Corallines,0.4
+2019,LTER 1,Backreef,Cyanophyta,0.72
+2019,LTER 1,Backreef,Damselfish Turf,2.88
+2019,LTER 1,Backreef,Dictyota bartayresiana,1.44
+2019,LTER 1,Backreef,Sand,25.12
+2019,LTER 1,Backreef,Sargassum pacificum,5.76
+2019,LTER 1,Backreef,Turbinaria ornata,14.72
+2019,LTER 1,Outer 10,Algal Turf,10.32
+2019,LTER 1,Outer 10,Asparagopsis taxiformis,0.56
+2019,LTER 1,Outer 10,Coral,84.08
+2019,LTER 1,Outer 10,Crustose Corallines,2.48
+2019,LTER 1,Outer 10,Dictyota friabilis,0.08
+2019,LTER 1,Outer 10,Halimeda distorta,0.16
+2019,LTER 1,Outer 10,Halimeda minima,0.32
+2019,LTER 1,Outer 10,Halimeda taenicola,0.16
+2019,LTER 1,Outer 10,Lobophora variegata,0.08
+2019,LTER 1,Outer 10,Millepora platyphylla,1.68
+2019,LTER 1,Outer 10,Peyssonnelia sp.,0.08
+2019,LTER 1,Outer 10,Sand,0
+2019,LTER 1,Outer 17,Algal Turf,44.24
+2019,LTER 1,Outer 17,Asparagopsis taxiformis,4.8
+2019,LTER 1,Outer 17,Coral,33.28
+2019,LTER 1,Outer 17,Crustose Corallines,11.28
+2019,LTER 1,Outer 17,Halimeda minima,0.4
+2019,LTER 1,Outer 17,Lobophora variegata,0.08
+2019,LTER 1,Outer 17,Peyssonnelia sp.,2.24
+2019,LTER 1,Outer 17,Sand,3.68
+2019,LTER 2,Fringing,Algal Turf,58.64
+2019,LTER 2,Fringing,Amansia rhodantha,0.08
+2019,LTER 2,Fringing,Coral,2.16
+2019,LTER 2,Fringing,Crustose Corallines,1.44
+2019,LTER 2,Fringing,Damselfish Turf,20.88
+2019,LTER 2,Fringing,Dictyota bartayresiana,2.32
+2019,LTER 2,Fringing,Halimeda minima,0.08
+2019,LTER 2,Fringing,Millepora platyphylla,2.16
+2019,LTER 2,Fringing,Peyssonnelia sp.,0.4
+2019,LTER 2,Fringing,Sand,0.56
+2019,LTER 2,Fringing,Turbinaria ornata,11.28
+2019,LTER 2,Backreef,Algal Turf,31.68
+2019,LTER 2,Backreef,Amansia rhodantha,0.08
+2019,LTER 2,Backreef,Coral,0.48
+2019,LTER 2,Backreef,Crustose Corallines,0.64
+2019,LTER 2,Backreef,Cyanophyta,3.76
+2019,LTER 2,Backreef,Damselfish Turf,1.92
+2019,LTER 2,Backreef,Dictyota bartayresiana,21.76
+2019,LTER 2,Backreef,Halimeda minima,1.52
+2019,LTER 2,Backreef,Padina boryana,0.48
+2019,LTER 2,Backreef,Peyssonnelia sp.,0.08
+2019,LTER 2,Backreef,Sand,34.72
+2019,LTER 2,Backreef,Sargassum pacificum,0.4
+2019,LTER 2,Backreef,Turbinaria ornata,2.48
+2019,LTER 2,Outer 10,Algal Turf,17.44
+2019,LTER 2,Outer 10,Asparagopsis taxiformis,4.72
+2019,LTER 2,Outer 10,Coral,62.48
+2019,LTER 2,Outer 10,Crustose Corallines,7.2
+2019,LTER 2,Outer 10,Cyanophyta,0.4
+2019,LTER 2,Outer 10,Halimeda discoidea,0.08
+2019,LTER 2,Outer 10,Halimeda distorta,0.4
+2019,LTER 2,Outer 10,Halimeda minima,0.16
+2019,LTER 2,Outer 10,Lobophora variegata,0.4
+2019,LTER 2,Outer 10,Millepora platyphylla,5.04
+2019,LTER 2,Outer 10,Peyssonnelia sp.,0.72
+2019,LTER 2,Outer 10,Sand,0.96
+2019,LTER 2,Outer 17,Algal Turf,49.44
+2019,LTER 2,Outer 17,Asparagopsis taxiformis,1.28
+2019,LTER 2,Outer 17,Coral,30.4
+2019,LTER 2,Outer 17,Crustose Corallines,12.56
+2019,LTER 2,Outer 17,Millepora platyphylla,0.24
+2019,LTER 2,Outer 17,Peyssonnelia sp.,0.72
+2019,LTER 2,Outer 17,Sand,5.36
+2019,LTER 3,Fringing,Algal Turf,45.2
+2019,LTER 3,Fringing,Coral,7.2
+2019,LTER 3,Fringing,Crustose Corallines,0
+2019,LTER 3,Fringing,Cyanophyta,1.6
+2019,LTER 3,Fringing,Damselfish Turf,5.36
+2019,LTER 3,Fringing,Dictyota bartayresiana,12.88
+2019,LTER 3,Fringing,Sand,27.68
+2019,LTER 3,Fringing,Turbinaria ornata,0.08
+2019,LTER 3,Backreef,Algal Turf,50.16
+2019,LTER 3,Backreef,Amansia rhodantha,1.12
+2019,LTER 3,Backreef,Coral,9.84
+2019,LTER 3,Backreef,Crustose Corallines,0.72
+2019,LTER 3,Backreef,Cyanophyta,0.16
+2019,LTER 3,Backreef,Damselfish Turf,6
+2019,LTER 3,Backreef,Dictyota bartayresiana,1.28
+2019,LTER 3,Backreef,Halimeda discoidea,0.56
+2019,LTER 3,Backreef,Halimeda minima,1.28
+2019,LTER 3,Backreef,Sand,20.32
+2019,LTER 3,Backreef,Sargassum pacificum,0.16
+2019,LTER 3,Backreef,Shell Debris,0.08
+2019,LTER 3,Backreef,Turbinaria ornata,8.32
+2019,LTER 3,Outer 10,Algal Turf,35.76
+2019,LTER 3,Outer 10,Coral,24.08
+2019,LTER 3,Outer 10,Crustose Corallines,10.56
+2019,LTER 3,Outer 10,Cyanophyta,0.24
+2019,LTER 3,Outer 10,Halimeda discoidea,0.56
+2019,LTER 3,Outer 10,Halimeda distorta,0.24
+2019,LTER 3,Outer 10,Halimeda minima,0.16
+2019,LTER 3,Outer 10,Halimeda taenicola,0.16
+2019,LTER 3,Outer 10,Lobophora variegata,0.08
+2019,LTER 3,Outer 10,Peyssonnelia sp.,3.04
+2019,LTER 3,Outer 10,Sand,2.72
+2019,LTER 3,Outer 10,Turbinaria ornata,22.4
+2019,LTER 3,Outer 17,Algal Turf,35.68
+2019,LTER 3,Outer 17,Coral,20.16
+2019,LTER 3,Outer 17,Crustose Corallines,19.52
+2019,LTER 3,Outer 17,Dictyota bartayresiana,0.08
+2019,LTER 3,Outer 17,Dictyota implexa,0.08
+2019,LTER 3,Outer 17,Halimeda discoidea,0.24
+2019,LTER 3,Outer 17,Halimeda minima,8.24
+2019,LTER 3,Outer 17,Peyssonnelia sp.,15.44
+2019,LTER 3,Outer 17,Sand,0.48
+2019,LTER 3,Outer 17,Turbinaria ornata,0.08
+2019,LTER 4,Fringing,Algal Turf,20.8
+2019,LTER 4,Fringing,Coral,12
+2019,LTER 4,Fringing,Crustose Corallines,0
+2019,LTER 4,Fringing,Damselfish Turf,4.4
+2019,LTER 4,Fringing,Dictyota bartayresiana,0.72
+2019,LTER 4,Fringing,Sand,62.08
+2019,LTER 4,Backreef,Algal Turf,47.92
+2019,LTER 4,Backreef,Amansia rhodantha,1.92
+2019,LTER 4,Backreef,Coral,26.72
+2019,LTER 4,Backreef,Crustose Corallines,0.24
+2019,LTER 4,Backreef,Cyanophyta,0.16
+2019,LTER 4,Backreef,Damselfish Turf,7.6
+2019,LTER 4,Backreef,Dictyota bartayresiana,0.48
+2019,LTER 4,Backreef,Halimeda discoidea,1.2
+2019,LTER 4,Backreef,Halimeda minima,0.24
+2019,LTER 4,Backreef,Sand,10.72
+2019,LTER 4,Backreef,Turbinaria ornata,2.8
+2019,LTER 4,Outer 10,Algal Turf,36.72
+2019,LTER 4,Outer 10,Ascidian,0.08
+2019,LTER 4,Outer 10,Coral,36.32
+2019,LTER 4,Outer 10,Crustose Corallines,11.6
+2019,LTER 4,Outer 10,Cyanophyta,9.2
+2019,LTER 4,Outer 10,Halimeda distorta,0.08
+2019,LTER 4,Outer 10,Millepora platyphylla,4.24
+2019,LTER 4,Outer 10,Peyssonnelia sp.,0.56
+2019,LTER 4,Outer 10,Sand,1.2
+2019,LTER 4,Outer 17,Algal Turf,37.28
+2019,LTER 4,Outer 17,Coral,29.44
+2019,LTER 4,Outer 17,Crustose Corallines,19.04
+2019,LTER 4,Outer 17,Cyanophyta,0.8
+2019,LTER 4,Outer 17,Halimeda discoidea,0.24
+2019,LTER 4,Outer 17,Halimeda minima,0.16
+2019,LTER 4,Outer 17,Lobophora variegata,0.16
+2019,LTER 4,Outer 17,Millepora platyphylla,0.4
+2019,LTER 4,Outer 17,Peyssonnelia sp.,9.44
+2019,LTER 4,Outer 17,Sand,2.88
+2019,LTER 4,Outer 17,Soft Coral,0.16
+2019,LTER 5,Fringing,Actinotrichia fragilis,0.08
+2019,LTER 5,Fringing,Algal Turf,17.6
+2019,LTER 5,Fringing,Coral,67.2
+2019,LTER 5,Fringing,Crustose Corallines,0
+2019,LTER 5,Fringing,Cyanophyta,0.16
+2019,LTER 5,Fringing,Damselfish Turf,4.56
+2019,LTER 5,Fringing,Halimeda minima,0.16
+2019,LTER 5,Fringing,Sand,9.84
+2019,LTER 5,Fringing,Sponge,0.4
+2019,LTER 5,Backreef,Algal Turf,24.8
+2019,LTER 5,Backreef,Amansia rhodantha,1.28
+2019,LTER 5,Backreef,Coral,25.12
+2019,LTER 5,Backreef,Crustose Corallines,0.08
+2019,LTER 5,Backreef,Cyanophyta,0.48
+2019,LTER 5,Backreef,Damselfish Turf,8.24
+2019,LTER 5,Backreef,Halimeda discoidea,0.24
+2019,LTER 5,Backreef,Sand,39.44
+2019,LTER 5,Backreef,Turbinaria ornata,0.32
+2019,LTER 5,Outer 10,Algal Turf,24.96
+2019,LTER 5,Outer 10,Coral,42.48
+2019,LTER 5,Outer 10,Crustose Corallines,21.84
+2019,LTER 5,Outer 10,Cyanophyta,0.16
+2019,LTER 5,Outer 10,Halimeda discoidea,0.08
+2019,LTER 5,Outer 10,Halimeda distorta,0.72
+2019,LTER 5,Outer 10,Halimeda minima,0.32
+2019,LTER 5,Outer 10,Halimeda taenicola,1.92
+2019,LTER 5,Outer 10,Peyssonnelia sp.,6.96
+2019,LTER 5,Outer 10,Sand,0.56
+2019,LTER 5,Outer 17,Algal Turf,27.92
+2019,LTER 5,Outer 17,Coral,37.36
+2019,LTER 5,Outer 17,Crustose Corallines,19.92
+2019,LTER 5,Outer 17,Halimeda minima,0.48
+2019,LTER 5,Outer 17,Lobophora variegata,0.24
+2019,LTER 5,Outer 17,Millepora platyphylla,2.8
+2019,LTER 5,Outer 17,Peyssonnelia sp.,5.68
+2019,LTER 5,Outer 17,Sand,4.16
+2019,LTER 5,Outer 17,Soft Coral,1.44
+2019,LTER 6,Fringing,Actinotrichia fragilis,0.56
+2019,LTER 6,Fringing,Algal Turf,50.64
+2019,LTER 6,Fringing,Colpomenia sinuosa,0.08
+2019,LTER 6,Fringing,Coral,9.52
+2019,LTER 6,Fringing,Crustose Corallines,0
+2019,LTER 6,Fringing,Cyanophyta,0.24
+2019,LTER 6,Fringing,Damselfish Turf,31.12
+2019,LTER 6,Fringing,Dictyota bartayresiana,0.32
+2019,LTER 6,Fringing,Halimeda minima,1.52
+2019,LTER 6,Fringing,Sand,2.24
+2019,LTER 6,Fringing,Turbinaria ornata,3.76
+2019,LTER 6,Backreef,Algal Turf,26.16
+2019,LTER 6,Backreef,Coral,20.96
+2019,LTER 6,Backreef,Crustose Corallines,0.08
+2019,LTER 6,Backreef,Cyanophyta,0.4
+2019,LTER 6,Backreef,Damselfish Turf,13.68
+2019,LTER 6,Backreef,Halimeda minima,0.16
+2019,LTER 6,Backreef,Sand,38.4
+2019,LTER 6,Backreef,Tridacna sp.,0.08
+2019,LTER 6,Backreef,Turbinaria ornata,0.08
+2019,LTER 6,Outer 10,Algal Turf,34.8
+2019,LTER 6,Outer 10,Asparagopsis taxiformis,0.48
+2019,LTER 6,Outer 10,Coral,44.32
+2019,LTER 6,Outer 10,Crustose Corallines,16.08
+2019,LTER 6,Outer 10,Cyanophyta,0.56
+2019,LTER 6,Outer 10,Halimeda minima,0.08
+2019,LTER 6,Outer 10,Halimeda taenicola,0.24
+2019,LTER 6,Outer 10,Lobophora variegata,0.32
+2019,LTER 6,Outer 10,Millepora platyphylla,1.28
+2019,LTER 6,Outer 10,Peyssonnelia sp.,1.36
+2019,LTER 6,Outer 10,Sand,0.32
+2019,LTER 6,Outer 10,Soft Coral,0.16
+2019,LTER 6,Outer 17,Algal Turf,33.52
+2019,LTER 6,Outer 17,Asparagopsis taxiformis,3.84
+2019,LTER 6,Outer 17,Coral,30.32
+2019,LTER 6,Outer 17,Crustose Corallines,20.24
+2019,LTER 6,Outer 17,Cyanophyta,0.32
+2019,LTER 6,Outer 17,Halimeda discoidea,0.08
+2019,LTER 6,Outer 17,Halimeda minima,0.16
+2019,LTER 6,Outer 17,Lobophora variegata,0.08
+2019,LTER 6,Outer 17,Millepora platyphylla,0.24
+2019,LTER 6,Outer 17,Peyssonnelia sp.,5.44
+2019,LTER 6,Outer 17,Sand,5.76
+2020,LTER 1,Fringing,Algal Turf,49.4
+2020,LTER 1,Fringing,Coral,4.28
+2020,LTER 1,Fringing,Crustose Corallines,0.72
+2020,LTER 1,Fringing,Cyanophyta,0.24
+2020,LTER 1,Fringing,Dictyota bartayresiana,6.72
+2020,LTER 1,Fringing,Halimeda minima,0.24
+2020,LTER 1,Fringing,Sand,38.4
+2020,LTER 1,Backreef,Algal Turf,48.12
+2020,LTER 1,Backreef,Amansia rhodantha,4.24
+2020,LTER 1,Backreef,Coral,5.08
+2020,LTER 1,Backreef,Crustose Corallines,1.48
+2020,LTER 1,Backreef,Cyanophyta,0.36
+2020,LTER 1,Backreef,Dictyota bartayresiana,2.48
+2020,LTER 1,Backreef,Halimeda sp.,0.32
+2020,LTER 1,Backreef,Sand,19.76
+2020,LTER 1,Backreef,Sargassum pacificum,5.92
+2020,LTER 1,Backreef,Turbinaria ornata,12.12
+2020,LTER 1,Outer 10,Algal Turf,20.88
+2020,LTER 1,Outer 10,Asparagopsis taxiformis,6.48
+2020,LTER 1,Outer 10,Coral,20.16
+2020,LTER 1,Outer 10,Crustose Corallines,2.24
+2020,LTER 1,Outer 10,Halimeda taenicola,0.24
+2020,LTER 1,Outer 10,Lobophora variegata,48.88
+2020,LTER 1,Outer 10,Millepora platyphylla,0.56
+2020,LTER 1,Outer 10,Sand,0.56
+2020,LTER 1,Outer 17,Algal Turf,44.96
+2020,LTER 1,Outer 17,Asparagopsis taxiformis,4.32
+2020,LTER 1,Outer 17,Coral,31.36
+2020,LTER 1,Outer 17,Crustose Corallines,9.12
+2020,LTER 1,Outer 17,Halimeda minima,0.16
+2020,LTER 1,Outer 17,Lobophora variegata,2.64
+2020,LTER 1,Outer 17,Peyssonnelia sp.,2.24
+2020,LTER 1,Outer 17,Sand,5.2
+2020,LTER 2,Fringing,Algal Turf,78.84
+2020,LTER 2,Fringing,Amansia rhodantha,0.08
+2020,LTER 2,Fringing,Coral,2.6
+2020,LTER 2,Fringing,Crustose Corallines,1.2
+2020,LTER 2,Fringing,Dictyota bartayresiana,1.76
+2020,LTER 2,Fringing,Halimeda minima,0.04
+2020,LTER 2,Fringing,Millepora platyphylla,1.08
+2020,LTER 2,Fringing,Peyssonnelia sp.,0.2
+2020,LTER 2,Fringing,Sand,0.44
+2020,LTER 2,Fringing,Turbinaria ornata,13.52
+2020,LTER 2,Backreef,Algal Turf,31.92
+2020,LTER 2,Backreef,Amansia rhodantha,0.04
+2020,LTER 2,Backreef,Coral,0.56
+2020,LTER 2,Backreef,Crustose Corallines,1.52
+2020,LTER 2,Backreef,Cyanophyta,1.88
+2020,LTER 2,Backreef,Dictyota bartayresiana,21.52
+2020,LTER 2,Backreef,Halimeda minima,2.76
+2020,LTER 2,Backreef,Padina boryana,1.2
+2020,LTER 2,Backreef,Peyssonnelia sp.,0.04
+2020,LTER 2,Backreef,Sand,33.12
+2020,LTER 2,Backreef,Sargassum pacificum,0.96
+2020,LTER 2,Backreef,Turbinaria ornata,4.48
+2020,LTER 2,Outer 10,Algal Turf,18.88
+2020,LTER 2,Outer 10,Asparagopsis taxiformis,4.8
+2020,LTER 2,Outer 10,Coral,19.6
+2020,LTER 2,Outer 10,Crustose Corallines,8.08
+2020,LTER 2,Outer 10,Halimeda minima,0.08
+2020,LTER 2,Outer 10,Halimeda taenicola,0.08
+2020,LTER 2,Outer 10,Lobophora variegata,46.16
+2020,LTER 2,Outer 10,Peyssonnelia sp.,0.64
+2020,LTER 2,Outer 10,Sand,1.68
+2020,LTER 2,Outer 17,Algal Turf,48.24
+2020,LTER 2,Outer 17,Asparagopsis taxiformis,1.12
+2020,LTER 2,Outer 17,Coral,30.72
+2020,LTER 2,Outer 17,Crustose Corallines,11.12
+2020,LTER 2,Outer 17,Halimeda minima,0.24
+2020,LTER 2,Outer 17,Lobophora variegata,0.64
+2020,LTER 2,Outer 17,Peyssonnelia sp.,2.72
+2020,LTER 2,Outer 17,Sand,5.2
+2020,LTER 3,Fringing,Algal Turf,67.2
+2020,LTER 3,Fringing,Coral,6.4
+2020,LTER 3,Fringing,Crustose Corallines,0.04
+2020,LTER 3,Fringing,Cyanophyta,1.2
+2020,LTER 3,Fringing,Dictyota bartayresiana,6.6
+2020,LTER 3,Fringing,Halimeda sp.,0.12
+2020,LTER 3,Fringing,Sand,18.4
+2020,LTER 3,Fringing,Turbinaria ornata,0.04
+2020,LTER 3,Backreef,Algal Turf,54.76
+2020,LTER 3,Backreef,Amansia rhodantha,0.56
+2020,LTER 3,Backreef,Coral,13.48
+2020,LTER 3,Backreef,Crustose Corallines,0.44
+2020,LTER 3,Backreef,Cyanophyta,0.08
+2020,LTER 3,Backreef,Dictyota bartayresiana,1.72
+2020,LTER 3,Backreef,Halimeda sp.,2.72
+2020,LTER 3,Backreef,Sand,20.2
+2020,LTER 3,Backreef,Sargassum pacificum,0.08
+2020,LTER 3,Backreef,Turbinaria ornata,5.28
+2020,LTER 3,Outer 10,Algal Turf,43.36
+2020,LTER 3,Outer 10,Coral,17.36
+2020,LTER 3,Outer 10,Crustose Corallines,8.08
+2020,LTER 3,Outer 10,Halimeda discoidea,0.08
+2020,LTER 3,Outer 10,Halimeda minima,0.48
+2020,LTER 3,Outer 10,Halimeda taenicola,0.64
+2020,LTER 3,Outer 10,Lobophora variegata,0.96
+2020,LTER 3,Outer 10,Peyssonnelia sp.,5.44
+2020,LTER 3,Outer 10,Sand,2.64
+2020,LTER 3,Outer 10,Turbinaria ornata,20.96
+2020,LTER 3,Outer 17,Algal Turf,36.64
+2020,LTER 3,Outer 17,Coral,20.4
+2020,LTER 3,Outer 17,Crustose Corallines,22.4
+2020,LTER 3,Outer 17,Dictyota bartayresiana,0.08
+2020,LTER 3,Outer 17,Halimeda distorta,0.08
+2020,LTER 3,Outer 17,Halimeda minima,6.32
+2020,LTER 3,Outer 17,Peyssonnelia sp.,12.08
+2020,LTER 3,Outer 17,Sand,1.92
+2020,LTER 3,Outer 17,Turbinaria ornata,0.08
+2020,LTER 4,Fringing,Algal Turf,33.84
+2020,LTER 4,Fringing,Coral,10.84
+2020,LTER 4,Fringing,Crustose Corallines,0.08
+2020,LTER 4,Fringing,Dictyota bartayresiana,0.44
+2020,LTER 4,Fringing,Sand,54.76
+2020,LTER 4,Backreef,Algal Turf,47.84
+2020,LTER 4,Backreef,Amansia rhodantha,0.96
+2020,LTER 4,Backreef,Coral,34.36
+2020,LTER 4,Backreef,Crustose Corallines,0.16
+2020,LTER 4,Backreef,Cyanophyta,0.24
+2020,LTER 4,Backreef,Dictyota bartayresiana,1.6
+2020,LTER 4,Backreef,Halimeda sp.,3.36
+2020,LTER 4,Backreef,Sand,9.12
+2020,LTER 4,Backreef,Turbinaria ornata,2.32
+2020,LTER 4,Outer 10,Algal Turf,58.56
+2020,LTER 4,Outer 10,Coral,24.4
+2020,LTER 4,Outer 10,Crustose Corallines,10.56
+2020,LTER 4,Outer 10,Cyanophyta,1.76
+2020,LTER 4,Outer 10,Halimeda distorta,0.4
+2020,LTER 4,Outer 10,Halimeda minima,0.4
+2020,LTER 4,Outer 10,Halimeda taenicola,0.8
+2020,LTER 4,Outer 10,Millepora platyphylla,2.16
+2020,LTER 4,Outer 10,Peyssonnelia sp.,0.56
+2020,LTER 4,Outer 10,Sand,0.4
+2020,LTER 4,Outer 17,Algal Turf,43.04
+2020,LTER 4,Outer 17,Coral,24.4
+2020,LTER 4,Outer 17,Crustose Corallines,16.08
+2020,LTER 4,Outer 17,Cyanophyta,0.32
+2020,LTER 4,Outer 17,Halimeda distorta,0.48
+2020,LTER 4,Outer 17,Halimeda minima,2
+2020,LTER 4,Outer 17,Lobophora variegata,0.08
+2020,LTER 4,Outer 17,Millepora platyphylla,0.24
+2020,LTER 4,Outer 17,Peyssonnelia sp.,11.28
+2020,LTER 4,Outer 17,Sand,1.92
+2020,LTER 4,Outer 17,Soft Coral,0.16
+2020,LTER 5,Fringing,Actinotrichia fragilis,0.04
+2020,LTER 5,Fringing,Algal Turf,24.52
+2020,LTER 5,Fringing,Coral,66.64
+2020,LTER 5,Fringing,Crustose Corallines,0.04
+2020,LTER 5,Fringing,Cyanophyta,0.2
+2020,LTER 5,Fringing,Dictyota bartayresiana,0.04
+2020,LTER 5,Fringing,Halimeda sp.,0.2
+2020,LTER 5,Fringing,Sand,8.12
+2020,LTER 5,Fringing,Sponge,0.2
+2020,LTER 5,Backreef,Algal Turf,45.16
+2020,LTER 5,Backreef,Amansia rhodantha,0.68
+2020,LTER 5,Backreef,Coral,25.88
+2020,LTER 5,Backreef,Crustose Corallines,0.04
+2020,LTER 5,Backreef,Cyanophyta,0.28
+2020,LTER 5,Backreef,Halimeda sp.,0.4
+2020,LTER 5,Backreef,Sand,25.48
+2020,LTER 5,Backreef,Turbinaria ornata,1.96
+2020,LTER 5,Outer 10,Algal Turf,49.52
+2020,LTER 5,Outer 10,Coral,18
+2020,LTER 5,Outer 10,Crustose Corallines,20.4
+2020,LTER 5,Outer 10,Cyanophyta,0.08
+2020,LTER 5,Outer 10,Halimeda discoidea,0.16
+2020,LTER 5,Outer 10,Halimeda minima,0.8
+2020,LTER 5,Outer 10,Halimeda taenicola,0.8
+2020,LTER 5,Outer 10,Lobophora variegata,0.8
+2020,LTER 5,Outer 10,Millepora platyphylla,0.48
+2020,LTER 5,Outer 10,Peyssonnelia sp.,8
+2020,LTER 5,Outer 10,Sand,0.56
+2020,LTER 5,Outer 10,Soft Coral,0.4
+2020,LTER 5,Outer 17,Algal Turf,49.04
+2020,LTER 5,Outer 17,Coral,26.24
+2020,LTER 5,Outer 17,Crustose Corallines,11.68
+2020,LTER 5,Outer 17,Cyanophyta,0.16
+2020,LTER 5,Outer 17,Halimeda minima,0.24
+2020,LTER 5,Outer 17,Halimeda taenicola,0.24
+2020,LTER 5,Outer 17,Lobophora variegata,0.8
+2020,LTER 5,Outer 17,Millepora platyphylla,1.04
+2020,LTER 5,Outer 17,Peyssonnelia sp.,7.04
+2020,LTER 5,Outer 17,Sand,2.72
+2020,LTER 5,Outer 17,Soft Coral,0.8
+2020,LTER 6,Fringing,Actinotrichia fragilis,0.28
+2020,LTER 6,Fringing,Algal Turf,78.64
+2020,LTER 6,Fringing,Amansia rhodantha,0.28
+2020,LTER 6,Fringing,Colpomenia sinuosa,0.04
+2020,LTER 6,Fringing,Coral,10.68
+2020,LTER 6,Fringing,Crustose Corallines,0.04
+2020,LTER 6,Fringing,Cyanophyta,0.16
+2020,LTER 6,Fringing,Dictyota bartayresiana,2.6
+2020,LTER 6,Fringing,Halimeda sp.,2.16
+2020,LTER 6,Fringing,Sand,1.4
+2020,LTER 6,Fringing,Turbinaria ornata,3.72
+2020,LTER 6,Backreef,Algal Turf,45.88
+2020,LTER 6,Backreef,Coral,23.48
+2020,LTER 6,Backreef,Crustose Corallines,0.08
+2020,LTER 6,Backreef,Cyanophyta,0.2
+2020,LTER 6,Backreef,Halimeda sp.,0.32
+2020,LTER 6,Backreef,Sand,29.32
+2020,LTER 6,Backreef,Tridacna sp.,0.04
+2020,LTER 6,Backreef,Turbinaria ornata,0.04
+2020,LTER 6,Outer 10,Algal Turf,53.28
+2020,LTER 6,Outer 10,Coral,17.6
+2020,LTER 6,Outer 10,Crustose Corallines,13.36
+2020,LTER 6,Outer 10,Halimeda distorta,0.08
+2020,LTER 6,Outer 10,Halimeda minima,0.08
+2020,LTER 6,Outer 10,Lobophora variegata,14.16
+2020,LTER 6,Outer 10,Millepora platyphylla,0.16
+2020,LTER 6,Outer 10,Peyssonnelia sp.,0.88
+2020,LTER 6,Outer 10,Sand,0.4
+2020,LTER 6,Outer 17,Algal Turf,47.2
+2020,LTER 6,Outer 17,Asparagopsis taxiformis,5.68
+2020,LTER 6,Outer 17,Coral,18.48
+2020,LTER 6,Outer 17,Crustose Corallines,12.24
+2020,LTER 6,Outer 17,Cyanophyta,2.16
+2020,LTER 6,Outer 17,Halimeda minima,0.16
+2020,LTER 6,Outer 17,Halimeda taenicola,0.08
+2020,LTER 6,Outer 17,Lobophora variegata,1.6
+2020,LTER 6,Outer 17,Millepora platyphylla,0.16
+2020,LTER 6,Outer 17,Peyssonnelia sp.,5.68
+2020,LTER 6,Outer 17,Sand,6.56
+2021,LTER 1,Fringing,Algal Turf,65.76
+2021,LTER 1,Fringing,Coral,4.4
+2021,LTER 1,Fringing,Crustose Corallines,0.4
+2021,LTER 1,Fringing,Cyanophyta,0.48
+2021,LTER 1,Fringing,Dictyota bartayresiana,6.96
+2021,LTER 1,Fringing,Halimeda sp.,0.48
+2021,LTER 1,Fringing,Sand,21.52
+2021,LTER 1,Backreef,Algal Turf,53.92
+2021,LTER 1,Backreef,Amansia rhodantha,4.88
+2021,LTER 1,Backreef,Coral,4.48
+2021,LTER 1,Backreef,Crustose Corallines,2.56
+2021,LTER 1,Backreef,Dictyota bartayresiana,3.52
+2021,LTER 1,Backreef,Halimeda sp.,0.64
+2021,LTER 1,Backreef,Sand,14.4
+2021,LTER 1,Backreef,Sargassum pacificum,6.08
+2021,LTER 1,Backreef,Turbinaria ornata,9.52
+2021,LTER 2,Fringing,Algal Turf,78.16
+2021,LTER 2,Fringing,Amansia rhodantha,0.08
+2021,LTER 2,Fringing,Coral,3.04
+2021,LTER 2,Fringing,Crustose Corallines,0.96
+2021,LTER 2,Fringing,Dictyota bartayresiana,1.2
+2021,LTER 2,Fringing,Padina boryana,0.4
+2021,LTER 2,Fringing,Sand,0.32
+2021,LTER 2,Fringing,Sargassum pacificum,0.08
+2021,LTER 2,Fringing,Turbinaria ornata,15.76
+2021,LTER 2,Backreef,Algal Turf,30.24
+2021,LTER 2,Backreef,Coral,0.64
+2021,LTER 2,Backreef,Crustose Corallines,2.4
+2021,LTER 2,Backreef,Dictyota bartayresiana,21.28
+2021,LTER 2,Backreef,Halimeda sp.,4
+2021,LTER 2,Backreef,Padina boryana,1.92
+2021,LTER 2,Backreef,Sand,31.52
+2021,LTER 2,Backreef,Sargassum pacificum,1.52
+2021,LTER 2,Backreef,Turbinaria ornata,6.48
+2021,LTER 3,Fringing,Algal Turf,84.64
+2021,LTER 3,Fringing,Coral,5.6
+2021,LTER 3,Fringing,Crustose Corallines,0.08
+2021,LTER 3,Fringing,Cyanophyta,0.8
+2021,LTER 3,Fringing,Dictyota bartayresiana,0.32
+2021,LTER 3,Fringing,Halimeda sp.,0.24
+2021,LTER 3,Fringing,Sand,9.12
+2021,LTER 3,Fringing,Turbinaria ornata,0
+2021,LTER 3,Backreef,Algal Turf,53.36
+2021,LTER 3,Backreef,Coral,17.12
+2021,LTER 3,Backreef,Crustose Corallines,0.16
+2021,LTER 3,Backreef,Dictyota bartayresiana,2.16
+2021,LTER 3,Backreef,Halimeda sp.,4.88
+2021,LTER 3,Backreef,Sand,20.08
+2021,LTER 3,Backreef,Turbinaria ornata,2.24
+2021,LTER 4,Fringing,Algal Turf,42.48
+2021,LTER 4,Fringing,Coral,9.68
+2021,LTER 4,Fringing,Crustose Corallines,0.16
+2021,LTER 4,Fringing,Dictyota bartayresiana,0.16
+2021,LTER 4,Fringing,Sand,47.44
+2021,LTER 4,Backreef,Algal Turf,40.16
+2021,LTER 4,Backreef,Coral,42
+2021,LTER 4,Backreef,Crustose Corallines,0.08
+2021,LTER 4,Backreef,Cyanophyta,0.32
+2021,LTER 4,Backreef,Dictyota bartayresiana,2.72
+2021,LTER 4,Backreef,Halimeda sp.,5.28
+2021,LTER 4,Backreef,Sand,7.52
+2021,LTER 4,Backreef,Turbinaria ornata,1.84
+2021,LTER 5,Fringing,Algal Turf,26.88
+2021,LTER 5,Fringing,Coral,66.08
+2021,LTER 5,Fringing,Crustose Corallines,0.08
+2021,LTER 5,Fringing,Cyanophyta,0.24
+2021,LTER 5,Fringing,Dictyota bartayresiana,0.08
+2021,LTER 5,Fringing,Halimeda sp.,0.24
+2021,LTER 5,Fringing,Sand,6.4
+2021,LTER 5,Backreef,Algal Turf,57.28
+2021,LTER 5,Backreef,Amansia rhodantha,0.08
+2021,LTER 5,Backreef,Coral,26.64
+2021,LTER 5,Backreef,Cyanophyta,0.08
+2021,LTER 5,Backreef,Dictyota bartayresiana,0.24
+2021,LTER 5,Backreef,Halimeda sp.,0.56
+2021,LTER 5,Backreef,Sand,11.52
+2021,LTER 5,Backreef,Turbinaria ornata,3.6
+2021,LTER 6,Fringing,Algal Turf,75.92
+2021,LTER 6,Fringing,Amansia rhodantha,0.56
+2021,LTER 6,Fringing,Coral,11.84
+2021,LTER 6,Fringing,Crustose Corallines,0.08
+2021,LTER 6,Fringing,Cyanophyta,0.08
+2021,LTER 6,Fringing,Dictyota bartayresiana,4.88
+2021,LTER 6,Fringing,Halimeda sp.,2.8
+2021,LTER 6,Fringing,Sand,0.56
+2021,LTER 6,Fringing,Turbinaria ornata,3.68
+2021,LTER 6,Backreef,Algal Turf,52
+2021,LTER 6,Backreef,Coral,26
+2021,LTER 6,Backreef,Crustose Corallines,0.08
+2021,LTER 6,Backreef,Dictyota bartayresiana,1.04
+2021,LTER 6,Backreef,Halimeda sp.,0.48
+2021,LTER 6,Backreef,Sand,20.24
+2022,LTER 1,Fringing,Algal Turf,53.44
+2022,LTER 1,Fringing,Coral,3.92
+2022,LTER 1,Fringing,Crustose Corallines,0.24
+2022,LTER 1,Fringing,Dictyota bartayresiana,24.88
+2022,LTER 1,Fringing,Halimeda minima,0
+2022,LTER 1,Fringing,Sand,17.52
+2022,LTER 1,Backreef,Algal Turf,55.04
+2022,LTER 1,Backreef,Amansia rhodantha,7.28
+2022,LTER 1,Backreef,Coral,7.6
+2022,LTER 1,Backreef,Crustose Corallines,0.4
+2022,LTER 1,Backreef,Dictyota bartayresiana,2.4
+2022,LTER 1,Backreef,Halimeda minima,0.08
+2022,LTER 1,Backreef,Padina boryana,0.08
+2022,LTER 1,Backreef,Sand,6.72
+2022,LTER 1,Backreef,Sargassum pacificum,7.36
+2022,LTER 1,Backreef,Turbinaria ornata,13.04
+2022,LTER 1,Outer 10,Algal Turf,43.12
+2022,LTER 1,Outer 10,Asparagopsis taxiformis,19.28
+2022,LTER 1,Outer 10,Coral,8.4
+2022,LTER 1,Outer 10,Crustose Corallines,1.68
+2022,LTER 1,Outer 10,Halimeda discoidea,0.64
+2022,LTER 1,Outer 10,Halimeda minima,0.32
+2022,LTER 1,Outer 10,Lobophora variegata,26.08
+2022,LTER 1,Outer 10,Millepora platyphylla,0.24
+2022,LTER 1,Outer 10,Peyssonnelia sp.,0
+2022,LTER 1,Outer 10,Sand,0.24
+2022,LTER 1,Outer 17,Algal Turf,55.28
+2022,LTER 1,Outer 17,Asparagopsis taxiformis,4.4
+2022,LTER 1,Outer 17,Coral,28.8
+2022,LTER 1,Outer 17,Crustose Corallines,6.72
+2022,LTER 1,Outer 17,Halimeda minima,0.08
+2022,LTER 1,Outer 17,Peyssonnelia sp.,1.04
+2022,LTER 1,Outer 17,Sand,3.68
+2022,LTER 2,Fringing,Algal Turf,73.92
+2022,LTER 2,Fringing,Coral,2.96
+2022,LTER 2,Fringing,Crustose Corallines,0.48
+2022,LTER 2,Fringing,Dictyota bartayresiana,0.56
+2022,LTER 2,Fringing,Halimeda minima,0.56
+2022,LTER 2,Fringing,Sargassum pacificum,0.08
+2022,LTER 2,Fringing,Turbinaria ornata,21.44
+2022,LTER 2,Backreef,Algal Turf,33.6
+2022,LTER 2,Backreef,Chaetomorpha antennina,0.08
+2022,LTER 2,Backreef,Coral,3.2
+2022,LTER 2,Backreef,Dictyota bartayresiana,25.12
+2022,LTER 2,Backreef,Halimeda minima,0.24
+2022,LTER 2,Backreef,Lobophora variegata,0.16
+2022,LTER 2,Backreef,Padina boryana,0.88
+2022,LTER 2,Backreef,Sand,28.48
+2022,LTER 2,Backreef,Sargassum pacificum,0.48
+2022,LTER 2,Backreef,Turbinaria ornata,7.76
+2022,LTER 2,Outer 10,Algal Turf,47.04
+2022,LTER 2,Outer 10,Asparagopsis taxiformis,13.36
+2022,LTER 2,Outer 10,Coral,7.92
+2022,LTER 2,Outer 10,Crustose Corallines,3.52
+2022,LTER 2,Outer 10,Halimeda minima,0.48
+2022,LTER 2,Outer 10,Halimeda taenicola,0.16
+2022,LTER 2,Outer 10,Lobophora variegata,25.2
+2022,LTER 2,Outer 10,Millepora platyphylla,0.16
+2022,LTER 2,Outer 10,Peyssonnelia sp.,0.24
+2022,LTER 2,Outer 10,Sand,1.92
+2022,LTER 2,Outer 17,Algal Turf,58.96
+2022,LTER 2,Outer 17,Asparagopsis taxiformis,0.32
+2022,LTER 2,Outer 17,Coral,26.56
+2022,LTER 2,Outer 17,Crustose Corallines,7.2
+2022,LTER 2,Outer 17,Halimeda minima,0.08
+2022,LTER 2,Outer 17,Lobophora variegata,3.04
+2022,LTER 2,Outer 17,Peyssonnelia sp.,0.08
+2022,LTER 2,Outer 17,Sand,3.76
+2022,LTER 3,Fringing,Algal Turf,79.2
+2022,LTER 3,Fringing,Coral,0.96
+2022,LTER 3,Fringing,Crustose Corallines,0
+2022,LTER 3,Fringing,Dictyota bartayresiana,3.12
+2022,LTER 3,Fringing,Sand,16.72
+2022,LTER 3,Backreef,Algal Turf,46.32
+2022,LTER 3,Backreef,Amansia rhodantha,0.88
+2022,LTER 3,Backreef,Coral,19.76
+2022,LTER 3,Backreef,Crustose Corallines,0.16
+2022,LTER 3,Backreef,Dictyota bartayresiana,3.12
+2022,LTER 3,Backreef,Halimeda minima,1.12
+2022,LTER 3,Backreef,Sand,24
+2022,LTER 3,Backreef,Sargassum pacificum,0.16
+2022,LTER 3,Backreef,Turbinaria ornata,4.48
+2022,LTER 3,Outer 10,Algal Turf,47.28
+2022,LTER 3,Outer 10,Coral,16.56
+2022,LTER 3,Outer 10,Crustose Corallines,3.84
+2022,LTER 3,Outer 10,Halimeda discoidea,0.4
+2022,LTER 3,Outer 10,Halimeda distorta,0.08
+2022,LTER 3,Outer 10,Halimeda minima,0.24
+2022,LTER 3,Outer 10,Halimeda taenicola,0.16
+2022,LTER 3,Outer 10,Lobophora variegata,2.16
+2022,LTER 3,Outer 10,Peyssonnelia sp.,0.32
+2022,LTER 3,Outer 10,Sand,1.76
+2022,LTER 3,Outer 10,Turbinaria ornata,27.2
+2022,LTER 3,Outer 17,Algal Turf,46.24
+2022,LTER 3,Outer 17,Coral,21.44
+2022,LTER 3,Outer 17,Crustose Corallines,13.6
+2022,LTER 3,Outer 17,Halimeda discoidea,0.08
+2022,LTER 3,Outer 17,Halimeda minima,7.52
+2022,LTER 3,Outer 17,Lobophora variegata,7.36
+2022,LTER 3,Outer 17,Millepora platyphylla,0.08
+2022,LTER 3,Outer 17,Peyssonnelia sp.,1.44
+2022,LTER 3,Outer 17,Sand,2.24
+2022,LTER 4,Fringing,Algal Turf,47.28
+2022,LTER 4,Fringing,Coral,17.2
+2022,LTER 4,Fringing,Crustose Corallines,0
+2022,LTER 4,Fringing,Dictyota bartayresiana,2.88
+2022,LTER 4,Fringing,Sand,32.64
+2022,LTER 4,Backreef,Algal Turf,48.16
+2022,LTER 4,Backreef,Amansia rhodantha,2
+2022,LTER 4,Backreef,Coral,38.16
+2022,LTER 4,Backreef,Crustose Corallines,0
+2022,LTER 4,Backreef,Dictyota bartayresiana,2.4
+2022,LTER 4,Backreef,Halimeda minima,1.76
+2022,LTER 4,Backreef,Sand,3.92
+2022,LTER 4,Backreef,Sargassum pacificum,0.64
+2022,LTER 4,Backreef,Turbinaria ornata,2.96
+2022,LTER 4,Outer 10,Algal Turf,63.36
+2022,LTER 4,Outer 10,Coral,22.88
+2022,LTER 4,Outer 10,Crustose Corallines,8.08
+2022,LTER 4,Outer 10,Cyanophyta,0.64
+2022,LTER 4,Outer 10,Halimeda distorta,0.56
+2022,LTER 4,Outer 10,Halimeda minima,0.8
+2022,LTER 4,Outer 10,Halimeda taenicola,0.64
+2022,LTER 4,Outer 10,Lobophora variegata,0.4
+2022,LTER 4,Outer 10,Millepora platyphylla,1.52
+2022,LTER 4,Outer 10,Peyssonnelia sp.,0.32
+2022,LTER 4,Outer 10,Sand,0.8
+2022,LTER 4,Outer 17,Algal Turf,53.76
+2022,LTER 4,Outer 17,Coral,22.8
+2022,LTER 4,Outer 17,Crustose Corallines,9.2
+2022,LTER 4,Outer 17,Halimeda distorta,0.72
+2022,LTER 4,Outer 17,Halimeda minima,2.8
+2022,LTER 4,Outer 17,Lobophora variegata,7.84
+2022,LTER 4,Outer 17,Peyssonnelia sp.,0.64
+2022,LTER 4,Outer 17,Sand,1.68
+2022,LTER 4,Outer 17,Soft Coral,0.32
+2022,LTER 4,Outer 17,Zooxanthellae,0.24
+2022,LTER 5,Fringing,Algal Turf,33.76
+2022,LTER 5,Fringing,Coral,64.4
+2022,LTER 5,Fringing,Halimeda sp.,0.16
+2022,LTER 5,Fringing,Sand,1.68
+2022,LTER 5,Backreef,Algal Turf,51.44
+2022,LTER 5,Backreef,Amansia rhodantha,0.56
+2022,LTER 5,Backreef,Coral,25.12
+2022,LTER 5,Backreef,Crustose Corallines,0.08
+2022,LTER 5,Backreef,Dictyota bartayresiana,0.08
+2022,LTER 5,Backreef,Halimeda minima,2.24
+2022,LTER 5,Backreef,Sand,18.24
+2022,LTER 5,Backreef,Turbinaria ornata,2.24
+2022,LTER 5,Outer 10,Algal Turf,62.64
+2022,LTER 5,Outer 10,Asparagopsis taxiformis,0.08
+2022,LTER 5,Outer 10,Coral,18.08
+2022,LTER 5,Outer 10,Crustose Corallines,3.36
+2022,LTER 5,Outer 10,Cyanophyta,2.4
+2022,LTER 5,Outer 10,Halimeda discoidea,2.48
+2022,LTER 5,Outer 10,Halimeda minima,3.76
+2022,LTER 5,Outer 10,Halimeda taenicola,1.68
+2022,LTER 5,Outer 10,Lobophora variegata,0.24
+2022,LTER 5,Outer 10,Millepora platyphylla,0.32
+2022,LTER 5,Outer 10,Peyssonnelia sp.,4.4
+2022,LTER 5,Outer 10,Sand,0.32
+2022,LTER 5,Outer 10,Turbinaria ornata,0.24
+2022,LTER 5,Outer 17,Algal Turf,55.6
+2022,LTER 5,Outer 17,Coral,18.88
+2022,LTER 5,Outer 17,Crustose Corallines,6.88
+2022,LTER 5,Outer 17,Halimeda discoidea,0.08
+2022,LTER 5,Outer 17,Halimeda minima,1.52
+2022,LTER 5,Outer 17,Halimeda taenicola,0.08
+2022,LTER 5,Outer 17,Lobophora variegata,11.36
+2022,LTER 5,Outer 17,Millepora platyphylla,1.44
+2022,LTER 5,Outer 17,Peyssonnelia sp.,1.12
+2022,LTER 5,Outer 17,Sand,1.76
+2022,LTER 5,Outer 17,Soft Coral,1.28
+2022,LTER 6,Fringing,Algal Turf,76.32
+2022,LTER 6,Fringing,Coral,11.76
+2022,LTER 6,Fringing,Dictyota bartayresiana,3.92
+2022,LTER 6,Fringing,Halimeda minima,2.88
+2022,LTER 6,Fringing,Sand,0.72
+2022,LTER 6,Fringing,Turbinaria ornata,4.4
+2022,LTER 6,Backreef,Algal Turf,45.44
+2022,LTER 6,Backreef,Coral,24.08
+2022,LTER 6,Backreef,Dictyota bartayresiana,0.32
+2022,LTER 6,Backreef,Galaxaura sp.,0.24
+2022,LTER 6,Backreef,Halimeda minima,0.32
+2022,LTER 6,Backreef,Sand,29.52
+2022,LTER 6,Backreef,Sargassum pacificum,0.08
+2022,LTER 6,Outer 10,Algal Turf,64
+2022,LTER 6,Outer 10,Asparagopsis taxiformis,0.08
+2022,LTER 6,Outer 10,Coral,13.12
+2022,LTER 6,Outer 10,Crustose Corallines,4.64
+2022,LTER 6,Outer 10,Cyanophyta,2.64
+2022,LTER 6,Outer 10,Halimeda discoidea,0.08
+2022,LTER 6,Outer 10,Halimeda distorta,0.08
+2022,LTER 6,Outer 10,Halimeda taenicola,0.32
+2022,LTER 6,Outer 10,Lobophora variegata,14.16
+2022,LTER 6,Outer 10,Millepora platyphylla,0.08
+2022,LTER 6,Outer 10,Sand,0.56
+2022,LTER 6,Outer 10,Turbinaria ornata,0.24
+2022,LTER 6,Outer 17,Algal Turf,62.48
+2022,LTER 6,Outer 17,Asparagopsis taxiformis,1.36
+2022,LTER 6,Outer 17,Coral,14.72
+2022,LTER 6,Outer 17,Crustose Corallines,4.24
+2022,LTER 6,Outer 17,Halimeda distorta,0.08
+2022,LTER 6,Outer 17,Halimeda minima,0.16
+2022,LTER 6,Outer 17,Halimeda taenicola,0.32
+2022,LTER 6,Outer 17,Lobophora variegata,12.08
+2022,LTER 6,Outer 17,Millepora platyphylla,0.16
+2022,LTER 6,Outer 17,Peyssonnelia sp.,0.8
+2022,LTER 6,Outer 17,Sand,3.6
+2023,LTER 1,Fringing,Algal Turf,64.56
+2023,LTER 1,Fringing,Coral,2.8
+2023,LTER 1,Fringing,Dictyota bartayresiana,3.76
+2023,LTER 1,Fringing,Padina boryana,0.56
+2023,LTER 1,Fringing,Sand,28.32
+2023,LTER 1,Backreef,Algal Turf,69.76
+2023,LTER 1,Backreef,Amansia rhodantha,0.8
+2023,LTER 1,Backreef,Asparagopsis taxiformis,4.8
+2023,LTER 1,Backreef,Coral,5.52
+2023,LTER 1,Backreef,Crustose Corallines,0.24
+2023,LTER 1,Backreef,Dictyota bartayresiana,0.24
+2023,LTER 1,Backreef,Halimeda minima,1.2
+2023,LTER 1,Backreef,Padina boryana,0.16
+2023,LTER 1,Backreef,Sand,4.08
+2023,LTER 1,Backreef,Sargassum pacificum,6.08
+2023,LTER 1,Backreef,Turbinaria ornata,7.12
+2023,LTER 1,Outer 10,Algal Turf,41.92
+2023,LTER 1,Outer 10,Asparagopsis taxiformis,2.56
+2023,LTER 1,Outer 10,Coral,5.84
+2023,LTER 1,Outer 10,Crustose Corallines,6.24
+2023,LTER 1,Outer 10,Halimeda minima,2.96
+2023,LTER 1,Outer 10,Halimeda taenicola,1.28
+2023,LTER 1,Outer 10,Lobophora variegata,38.88
+2023,LTER 1,Outer 10,Millepora platyphylla,0.24
+2023,LTER 1,Outer 10,Sand,0.08
+2023,LTER 1,Outer 17,Algal Turf,57.12
+2023,LTER 1,Outer 17,Asparagopsis taxiformis,0.32
+2023,LTER 1,Outer 17,Coral,24.24
+2023,LTER 1,Outer 17,Crustose Corallines,10.48
+2023,LTER 1,Outer 17,Lobophora variegata,3.44
+2023,LTER 1,Outer 17,Peyssonnelia inamoena,0.4
+2023,LTER 1,Outer 17,Sand,4
+2023,LTER 2,Fringing,Algal Turf,82.4
+2023,LTER 2,Fringing,Coral,2
+2023,LTER 2,Fringing,Dictyota bartayresiana,1.52
+2023,LTER 2,Fringing,Halimeda minima,0.24
+2023,LTER 2,Fringing,Turbinaria ornata,13.84
+2023,LTER 2,Backreef,Algal Turf,48.96
+2023,LTER 2,Backreef,Coral,1.12
+2023,LTER 2,Backreef,Dictyota bartayresiana,9.04
+2023,LTER 2,Backreef,Halimeda minima,0.08
+2023,LTER 2,Backreef,Padina boryana,1.44
+2023,LTER 2,Backreef,Sand,36.8
+2023,LTER 2,Backreef,Sargassum pacificum,0.08
+2023,LTER 2,Backreef,Turbinaria ornata,2.48
+2023,LTER 2,Outer 10,Algal Turf,58.24
+2023,LTER 2,Outer 10,Asparagopsis taxiformis,1.6
+2023,LTER 2,Outer 10,Coral,7.36
+2023,LTER 2,Outer 10,Crustose Corallines,10.32
+2023,LTER 2,Outer 10,Halimeda minima,3.76
+2023,LTER 2,Outer 10,Halimeda taenicola,0.64
+2023,LTER 2,Outer 10,Lobophora variegata,14.64
+2023,LTER 2,Outer 10,Millepora platyphylla,0.48
+2023,LTER 2,Outer 10,Peyssonnelia inamoena,1.76
+2023,LTER 2,Outer 10,Sand,1.12
+2023,LTER 2,Outer 10,Turbinaria ornata,0.08
+2023,LTER 2,Outer 17,Algal Turf,65.2
+2023,LTER 2,Outer 17,Asparagopsis taxiformis,0.32
+2023,LTER 2,Outer 17,Coral,15.2
+2023,LTER 2,Outer 17,Crustose Corallines,6.08
+2023,LTER 2,Outer 17,Cyanophyta,0.16
+2023,LTER 2,Outer 17,Halimeda minima,0.72
+2023,LTER 2,Outer 17,Lobophora variegata,7.76
+2023,LTER 2,Outer 17,Peyssonnelia inamoena,0.48
+2023,LTER 2,Outer 17,Sand,4.08
+2023,LTER 3,Fringing,Algal Turf,81.68
+2023,LTER 3,Fringing,Coral,0.72
+2023,LTER 3,Fringing,Dictyota bartayresiana,1.44
+2023,LTER 3,Fringing,Halimeda minima,0.16
+2023,LTER 3,Fringing,Sand,16
+2023,LTER 3,Backreef,Algal Turf,50.56
+2023,LTER 3,Backreef,Amansia rhodantha,1.04
+2023,LTER 3,Backreef,Coral,17.92
+2023,LTER 3,Backreef,Dictyota bartayresiana,0.88
+2023,LTER 3,Backreef,Halimeda minima,0.72
+2023,LTER 3,Backreef,Sand,24.8
+2023,LTER 3,Backreef,Sargassum pacificum,0.08
+2023,LTER 3,Backreef,Turbinaria ornata,4
+2023,LTER 3,Outer 10,Algal Turf,46.24
+2023,LTER 3,Outer 10,Coral,15.6
+2023,LTER 3,Outer 10,Crustose Corallines,4.72
+2023,LTER 3,Outer 10,Halimeda distorta,0.08
+2023,LTER 3,Outer 10,Halimeda minima,1.12
+2023,LTER 3,Outer 10,Lobophora variegata,3.28
+2023,LTER 3,Outer 10,Peyssonnelia inamoena,0.72
+2023,LTER 3,Outer 10,Sand,1.12
+2023,LTER 3,Outer 10,Turbinaria ornata,27.12
+2023,LTER 3,Outer 17,Algal Turf,48.4
+2023,LTER 3,Outer 17,Coral,21.44
+2023,LTER 3,Outer 17,Crustose Corallines,12.32
+2023,LTER 3,Outer 17,Halimeda minima,5.44
+2023,LTER 3,Outer 17,Lobophora variegata,8.72
+2023,LTER 3,Outer 17,Peyssonnelia inamoena,1.84
+2023,LTER 3,Outer 17,Sand,1.76
+2023,LTER 3,Outer 17,Turbinaria ornata,0.08
+2023,LTER 4,Fringing,Algal Turf,36.96
+2023,LTER 4,Fringing,Coral,12.4
+2023,LTER 4,Fringing,Dictyota bartayresiana,0.56
+2023,LTER 4,Fringing,Halimeda minima,0.08
+2023,LTER 4,Fringing,Sand,50
+2023,LTER 4,Backreef,Algal Turf,47.84
+2023,LTER 4,Backreef,Amansia rhodantha,2.8
+2023,LTER 4,Backreef,Coral,36.24
+2023,LTER 4,Backreef,Dictyota bartayresiana,1.2
+2023,LTER 4,Backreef,Halimeda minima,1.12
+2023,LTER 4,Backreef,Sand,6
+2023,LTER 4,Backreef,Turbinaria ornata,4.8
+2023,LTER 4,Outer 10,Algal Turf,71.44
+2023,LTER 4,Outer 10,Coral,14.56
+2023,LTER 4,Outer 10,Crustose Corallines,10.72
+2023,LTER 4,Outer 10,Cyanophyta,0.08
+2023,LTER 4,Outer 10,Halimeda minima,0.16
+2023,LTER 4,Outer 10,Halimeda taenicola,0.64
+2023,LTER 4,Outer 10,Lobophora variegata,0.4
+2023,LTER 4,Outer 10,Millepora platyphylla,1.28
+2023,LTER 4,Outer 10,Peyssonnelia inamoena,0.48
+2023,LTER 4,Outer 10,Sand,0.24
+2023,LTER 4,Outer 17,Algal Turf,62.16
+2023,LTER 4,Outer 17,Coral,12.32
+2023,LTER 4,Outer 17,Crustose Corallines,12.48
+2023,LTER 4,Outer 17,Halimeda discoidea,0.08
+2023,LTER 4,Outer 17,Halimeda incrassata,0.56
+2023,LTER 4,Outer 17,Halimeda minima,0.64
+2023,LTER 4,Outer 17,Halimeda taenicola,0.32
+2023,LTER 4,Outer 17,Lobophora variegata,8.72
+2023,LTER 4,Outer 17,Peyssonnelia inamoena,0.72
+2023,LTER 4,Outer 17,Sand,1.68
+2023,LTER 4,Outer 17,Soft Coral,0.32
+2023,LTER 5,Fringing,Algal Turf,38.64
+2023,LTER 5,Fringing,Coral,46.24
+2023,LTER 5,Fringing,Sand,15.12
+2023,LTER 5,Backreef,Algal Turf,58.48
+2023,LTER 5,Backreef,Amansia rhodantha,0.4
+2023,LTER 5,Backreef,Asparagopsis taxiformis,0.08
+2023,LTER 5,Backreef,Coral,20.96
+2023,LTER 5,Backreef,Crustose Corallines,0.48
+2023,LTER 5,Backreef,Cyanophyta,0.16
+2023,LTER 5,Backreef,Halimeda minima,1.68
+2023,LTER 5,Backreef,Sand,15.2
+2023,LTER 5,Backreef,Turbinaria ornata,2.56
+2023,LTER 5,Outer 10,Algal Turf,56.88
+2023,LTER 5,Outer 10,Asparagopsis taxiformis,0.64
+2023,LTER 5,Outer 10,Caulerpa pickeringii,0.72
+2023,LTER 5,Outer 10,Coral,14.48
+2023,LTER 5,Outer 10,Crustose Corallines,6.72
+2023,LTER 5,Outer 10,Halimeda discoidea,1.28
+2023,LTER 5,Outer 10,Halimeda distorta,0.08
+2023,LTER 5,Outer 10,Halimeda minima,3.92
+2023,LTER 5,Outer 10,Halimeda opuntia,5.2
+2023,LTER 5,Outer 10,Halimeda taenicola,4.32
+2023,LTER 5,Outer 10,Lobophora variegata,0.48
+2023,LTER 5,Outer 10,Millepora platyphylla,0.4
+2023,LTER 5,Outer 10,Peyssonnelia inamoena,4.24
+2023,LTER 5,Outer 10,Sand,0.56
+2023,LTER 5,Outer 10,Soft Coral,0.08
+2023,LTER 5,Outer 17,Algal Turf,64
+2023,LTER 5,Outer 17,Coral,9.28
+2023,LTER 5,Outer 17,Crustose Corallines,15.76
+2023,LTER 5,Outer 17,Lobophora variegata,4.72
+2023,LTER 5,Outer 17,Millepora platyphylla,1.04
+2023,LTER 5,Outer 17,Peyssonnelia inamoena,2
+2023,LTER 5,Outer 17,Sand,2.88
+2023,LTER 5,Outer 17,Soft Coral,0.32
+2023,LTER 6,Fringing,Algal Turf,75.92
+2023,LTER 6,Fringing,Coral,8.24
+2023,LTER 6,Fringing,Dictyota bartayresiana,2.16
+2023,LTER 6,Fringing,Halimeda minima,8.4
+2023,LTER 6,Fringing,Sand,1.6
+2023,LTER 6,Fringing,Turbinaria ornata,3.68
+2023,LTER 6,Backreef,Algal Turf,52.08
+2023,LTER 6,Backreef,Coral,22.16
+2023,LTER 6,Backreef,Cyanophyta,0.08
+2023,LTER 6,Backreef,Dictyota bartayresiana,1.2
+2023,LTER 6,Backreef,Halimeda minima,0.16
+2023,LTER 6,Backreef,Sand,24.32
+2023,LTER 6,Outer 10,Algal Turf,56.16
+2023,LTER 6,Outer 10,Asparagopsis taxiformis,7.2
+2023,LTER 6,Outer 10,Coral,12.4
+2023,LTER 6,Outer 10,Crustose Corallines,7.76
+2023,LTER 6,Outer 10,Dictyota bartayresiana,0.08
+2023,LTER 6,Outer 10,Halimeda distorta,0.16
+2023,LTER 6,Outer 10,Halimeda minima,1.28
+2023,LTER 6,Outer 10,Lobophora variegata,13.68
+2023,LTER 6,Outer 10,Millepora platyphylla,0.32
+2023,LTER 6,Outer 10,Peyssonnelia inamoena,0.24
+2023,LTER 6,Outer 10,Sand,0.72
+2023,LTER 6,Outer 17,Algal Turf,54.32
+2023,LTER 6,Outer 17,Asparagopsis taxiformis,1.36
+2023,LTER 6,Outer 17,Coral,14.96
+2023,LTER 6,Outer 17,Crustose Corallines,8.4
+2023,LTER 6,Outer 17,Dictyota bartayresiana,0.4
+2023,LTER 6,Outer 17,Halimeda minima,1.52
+2023,LTER 6,Outer 17,Halimeda taenicola,0.4
+2023,LTER 6,Outer 17,Lobophora variegata,11.36
+2023,LTER 6,Outer 17,Millepora platyphylla,0.16
+2023,LTER 6,Outer 17,Peyssonnelia inamoena,1.76
+2023,LTER 6,Outer 17,Sand,5.36

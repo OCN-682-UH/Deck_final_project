@@ -1,0 +1,841 @@
+Year,Site,Habitat,Taxonomy_Substrate_Functional_Group,mean_percent_cover
+2005,LTER 1,Fringing,Algal Turf,45.44
+2005,LTER 1,Fringing,Coral,38.64
+2005,LTER 1,Outer 10,Algal Turf,49.92
+2005,LTER 1,Outer 10,Coral,37.52
+2005,LTER 1,Outer 17,Algal Turf,36.08
+2005,LTER 1,Outer 17,Coral,52
+2005,LTER 2,Fringing,Algal Turf,22.48
+2005,LTER 2,Fringing,Coral,12.72
+2005,LTER 2,Outer 10,Algal Turf,38.96
+2005,LTER 2,Outer 10,Coral,35.84
+2005,LTER 2,Outer 17,Algal Turf,38.88
+2005,LTER 2,Outer 17,Coral,40.96
+2005,LTER 3,Fringing,Algal Turf,41.36
+2005,LTER 3,Fringing,Coral,27.6
+2005,LTER 3,Outer 10,Algal Turf,40.72
+2005,LTER 3,Outer 10,Coral,34.96
+2005,LTER 3,Outer 17,Algal Turf,41.04
+2005,LTER 3,Outer 17,Coral,27.36
+2005,LTER 4,Fringing,Algal Turf,56.48
+2005,LTER 4,Fringing,Coral,19.52
+2005,LTER 4,Outer 10,Algal Turf,38.64
+2005,LTER 4,Outer 10,Coral,45.68
+2005,LTER 4,Outer 17,Algal Turf,37.6
+2005,LTER 4,Outer 17,Coral,41.6
+2005,LTER 5,Fringing,Algal Turf,18.72
+2005,LTER 5,Fringing,Coral,59.36
+2005,LTER 5,Outer 10,Algal Turf,54.16
+2005,LTER 5,Outer 10,Coral,28.56
+2005,LTER 5,Outer 17,Algal Turf,42.32
+2005,LTER 5,Outer 17,Coral,32.4
+2005,LTER 6,Fringing,Algal Turf,13.44
+2005,LTER 6,Fringing,Coral,42.16
+2006,LTER 1,Backreef,Algal Turf,46.88
+2006,LTER 1,Backreef,Coral,31.04
+2006,LTER 2,Backreef,Algal Turf,31.52
+2006,LTER 2,Backreef,Coral,28.88
+2006,LTER 3,Backreef,Algal Turf,27.76
+2006,LTER 3,Backreef,Coral,36.72
+2006,LTER 4,Backreef,Algal Turf,57.76
+2006,LTER 4,Backreef,Coral,32.64
+2006,LTER 5,Backreef,Algal Turf,42.72
+2006,LTER 5,Backreef,Coral,27.92
+2006,LTER 6,Backreef,Algal Turf,35.04
+2006,LTER 6,Backreef,Coral,19.6
+2006,LTER 6,Outer 10,Algal Turf,40.56
+2006,LTER 6,Outer 10,Coral,41.44
+2006,LTER 6,Outer 17,Algal Turf,32
+2006,LTER 6,Outer 17,Coral,30.72
+2007,LTER 1,Backreef,Algal Turf,51.04
+2007,LTER 1,Backreef,Coral,30.08
+2007,LTER 1,Fringing,Algal Turf,45.04
+2007,LTER 1,Fringing,Coral,39.76
+2007,LTER 1,Outer 10,Algal Turf,44
+2007,LTER 1,Outer 10,Coral,36.08
+2007,LTER 1,Outer 17,Algal Turf,39.84
+2007,LTER 1,Outer 17,Coral,45.6
+2007,LTER 2,Backreef,Algal Turf,42.96
+2007,LTER 2,Backreef,Coral,30.48
+2007,LTER 2,Fringing,Algal Turf,75.52
+2007,LTER 2,Fringing,Coral,15.6
+2007,LTER 2,Outer 10,Algal Turf,58.96
+2007,LTER 2,Outer 10,Coral,18.96
+2007,LTER 2,Outer 17,Algal Turf,53.76
+2007,LTER 2,Outer 17,Coral,18.08
+2007,LTER 3,Backreef,Algal Turf,25.44
+2007,LTER 3,Backreef,Coral,40.08
+2007,LTER 3,Fringing,Algal Turf,49.12
+2007,LTER 3,Fringing,Coral,19.28
+2007,LTER 3,Outer 10,Algal Turf,44.4
+2007,LTER 3,Outer 10,Coral,33.52
+2007,LTER 3,Outer 17,Algal Turf,43.52
+2007,LTER 3,Outer 17,Coral,26.96
+2007,LTER 4,Backreef,Algal Turf,51.6
+2007,LTER 4,Backreef,Coral,33.84
+2007,LTER 4,Fringing,Algal Turf,53.04
+2007,LTER 4,Fringing,Coral,23.6
+2007,LTER 4,Outer 10,Algal Turf,50.24
+2007,LTER 4,Outer 10,Coral,31.76
+2007,LTER 4,Outer 17,Algal Turf,38.08
+2007,LTER 4,Outer 17,Coral,38.72
+2007,LTER 5,Backreef,Algal Turf,40.4
+2007,LTER 5,Backreef,Coral,27.68
+2007,LTER 5,Fringing,Algal Turf,14.96
+2007,LTER 5,Fringing,Coral,63.68
+2007,LTER 5,Outer 10,Algal Turf,55.28
+2007,LTER 5,Outer 10,Coral,33.2
+2007,LTER 5,Outer 17,Algal Turf,42.24
+2007,LTER 5,Outer 17,Coral,33.92
+2007,LTER 6,Backreef,Algal Turf,45.28
+2007,LTER 6,Backreef,Coral,22
+2007,LTER 6,Fringing,Algal Turf,39.84
+2007,LTER 6,Fringing,Coral,29.36
+2007,LTER 6,Outer 10,Algal Turf,43.92
+2007,LTER 6,Outer 10,Coral,36.72
+2007,LTER 6,Outer 17,Algal Turf,36.08
+2007,LTER 6,Outer 17,Coral,31.36
+2008,LTER 1,Backreef,Algal Turf,58.16
+2008,LTER 1,Backreef,Coral,25.44
+2008,LTER 1,Fringing,Algal Turf,35.12
+2008,LTER 1,Fringing,Coral,48.24
+2008,LTER 1,Outer 10,Algal Turf,45.28
+2008,LTER 1,Outer 10,Coral,27.2
+2008,LTER 1,Outer 17,Algal Turf,50.64
+2008,LTER 1,Outer 17,Coral,24.4
+2008,LTER 2,Backreef,Algal Turf,30.64
+2008,LTER 2,Backreef,Coral,35.84
+2008,LTER 2,Fringing,Algal Turf,70.64
+2008,LTER 2,Fringing,Coral,12.48
+2008,LTER 2,Outer 10,Algal Turf,46.96
+2008,LTER 2,Outer 10,Coral,14.48
+2008,LTER 2,Outer 17,Algal Turf,66.36734693877551
+2008,LTER 2,Outer 17,Coral,13.63265306122449
+2008,LTER 3,Backreef,Algal Turf,34.72
+2008,LTER 3,Backreef,Coral,36.96
+2008,LTER 3,Fringing,Algal Turf,44.24
+2008,LTER 3,Fringing,Coral,22.88
+2008,LTER 3,Outer 10,Algal Turf,41.12
+2008,LTER 3,Outer 10,Coral,26.08
+2008,LTER 3,Outer 17,Algal Turf,47.28
+2008,LTER 3,Outer 17,Coral,2.48
+2008,LTER 4,Backreef,Algal Turf,56.24
+2008,LTER 4,Backreef,Coral,26.72
+2008,LTER 4,Fringing,Algal Turf,41.92
+2008,LTER 4,Fringing,Coral,18.56
+2008,LTER 4,Outer 10,Algal Turf,44.12
+2008,LTER 4,Outer 10,Coral,31.32
+2008,LTER 4,Outer 17,Algal Turf,33.84
+2008,LTER 4,Outer 17,Coral,35.12
+2008,LTER 5,Backreef,Algal Turf,40.96
+2008,LTER 5,Backreef,Coral,28.24
+2008,LTER 5,Fringing,Algal Turf,14.16
+2008,LTER 5,Fringing,Coral,69.44
+2008,LTER 5,Outer 10,Algal Turf,36.08
+2008,LTER 5,Outer 10,Coral,27.92
+2008,LTER 5,Outer 17,Algal Turf,38.93877551020408
+2008,LTER 5,Outer 17,Coral,19.755102040816325
+2008,LTER 6,Backreef,Algal Turf,38.48
+2008,LTER 6,Backreef,Coral,23.6
+2008,LTER 6,Fringing,Algal Turf,40.24
+2008,LTER 6,Fringing,Coral,22.48
+2008,LTER 6,Outer 10,Algal Turf,45.6
+2008,LTER 6,Outer 10,Coral,26.56
+2008,LTER 6,Outer 17,Algal Turf,48.16
+2008,LTER 6,Outer 17,Coral,11.92
+2009,LTER 1,Backreef,Algal Turf,53.68
+2009,LTER 1,Backreef,Coral,22.4
+2009,LTER 1,Fringing,Algal Turf,41.52
+2009,LTER 1,Fringing,Coral,41.36
+2009,LTER 1,Outer 10,Algal Turf,58.84
+2009,LTER 1,Outer 10,Coral,2
+2009,LTER 1,Outer 17,Algal Turf,62.16
+2009,LTER 1,Outer 17,Coral,6.48
+2009,LTER 2,Backreef,Algal Turf,42.8
+2009,LTER 2,Backreef,Coral,24.8
+2009,LTER 2,Fringing,Algal Turf,76.48
+2009,LTER 2,Fringing,Coral,9.6
+2009,LTER 2,Outer 10,Algal Turf,52.64
+2009,LTER 2,Outer 10,Coral,3.68
+2009,LTER 2,Outer 17,Algal Turf,61.92
+2009,LTER 2,Outer 17,Coral,1.36
+2009,LTER 3,Backreef,Algal Turf,41.28
+2009,LTER 3,Backreef,Coral,26.4
+2009,LTER 3,Fringing,Algal Turf,53.84
+2009,LTER 3,Fringing,Coral,18.64
+2009,LTER 3,Outer 10,Algal Turf,21.28
+2009,LTER 3,Outer 10,Coral,4.08
+2009,LTER 3,Outer 17,Algal Turf,18.96
+2009,LTER 3,Outer 17,Coral,0
+2009,LTER 4,Backreef,Algal Turf,61.68
+2009,LTER 4,Backreef,Coral,25.44
+2009,LTER 4,Fringing,Algal Turf,49.92
+2009,LTER 4,Fringing,Coral,20.56
+2009,LTER 4,Outer 10,Algal Turf,49.04
+2009,LTER 4,Outer 10,Coral,19.12
+2009,LTER 4,Outer 17,Algal Turf,42.26086956521739
+2009,LTER 4,Outer 17,Coral,2.9565217391304346
+2009,LTER 5,Backreef,Algal Turf,38.72
+2009,LTER 5,Backreef,Coral,28.96
+2009,LTER 5,Fringing,Algal Turf,16.355555555555554
+2009,LTER 5,Fringing,Coral,65.33333333333333
+2009,LTER 5,Outer 10,Algal Turf,43.28
+2009,LTER 5,Outer 10,Coral,22.08
+2009,LTER 5,Outer 17,Algal Turf,52.64
+2009,LTER 5,Outer 17,Coral,6.08
+2009,LTER 6,Backreef,Algal Turf,47.6
+2009,LTER 6,Backreef,Coral,19.04
+2009,LTER 6,Fringing,Algal Turf,49.28
+2009,LTER 6,Fringing,Coral,20.8
+2009,LTER 6,Outer 10,Algal Turf,43.6
+2009,LTER 6,Outer 10,Coral,9.6
+2009,LTER 6,Outer 17,Algal Turf,52.48
+2009,LTER 6,Outer 17,Coral,0.4
+2010,LTER 1,Backreef,Algal Turf,54.96
+2010,LTER 1,Backreef,Coral,21.6
+2010,LTER 1,Fringing,Algal Turf,39.83673469387755
+2010,LTER 1,Fringing,Coral,46.53061224489796
+2010,LTER 1,Outer 10,Algal Turf,60.48
+2010,LTER 1,Outer 10,Coral,2.24
+2010,LTER 1,Outer 17,Algal Turf,59.04
+2010,LTER 1,Outer 17,Coral,5.28
+2010,LTER 2,Backreef,Algal Turf,43.92
+2010,LTER 2,Backreef,Coral,20.08
+2010,LTER 2,Fringing,Algal Turf,71.84
+2010,LTER 2,Fringing,Coral,13.76
+2010,LTER 2,Outer 10,Algal Turf,63.12
+2010,LTER 2,Outer 10,Coral,3.04
+2010,LTER 2,Outer 17,Algal Turf,76.56
+2010,LTER 2,Outer 17,Coral,1.2
+2010,LTER 3,Backreef,Algal Turf,44
+2010,LTER 3,Backreef,Coral,34.4
+2010,LTER 3,Fringing,Algal Turf,63.52
+2010,LTER 3,Fringing,Coral,25.92
+2010,LTER 3,Outer 10,Algal Turf,56.16
+2010,LTER 3,Outer 10,Coral,0.8
+2010,LTER 3,Outer 17,Algal Turf,51.2
+2010,LTER 3,Outer 17,Coral,0
+2010,LTER 4,Backreef,Algal Turf,53.224489795918366
+2010,LTER 4,Backreef,Coral,26.612244897959183
+2010,LTER 4,Fringing,Algal Turf,50.48
+2010,LTER 4,Fringing,Coral,16.08
+2010,LTER 4,Outer 10,Algal Turf,61.84
+2010,LTER 4,Outer 10,Coral,7.44
+2010,LTER 4,Outer 17,Algal Turf,56.16
+2010,LTER 4,Outer 17,Coral,0.72
+2010,LTER 5,Backreef,Algal Turf,41.92
+2010,LTER 5,Backreef,Coral,27.92
+2010,LTER 5,Fringing,Algal Turf,27.68
+2010,LTER 5,Fringing,Coral,61.44
+2010,LTER 5,Outer 10,Algal Turf,51.44
+2010,LTER 5,Outer 10,Coral,13.52
+2010,LTER 5,Outer 17,Algal Turf,48.16
+2010,LTER 5,Outer 17,Coral,4.72
+2010,LTER 6,Backreef,Algal Turf,38.16
+2010,LTER 6,Backreef,Coral,24.32
+2010,LTER 6,Fringing,Algal Turf,36.48
+2010,LTER 6,Fringing,Coral,30.16
+2010,LTER 6,Outer 10,Algal Turf,55.6
+2010,LTER 6,Outer 10,Coral,7.12
+2010,LTER 6,Outer 17,Algal Turf,52.48
+2010,LTER 6,Outer 17,Coral,0.08
+2011,LTER 1,Backreef,Algal Turf,51.44
+2011,LTER 1,Backreef,Coral,17.44
+2011,LTER 1,Fringing,Algal Turf,46
+2011,LTER 1,Fringing,Coral,36.08
+2011,LTER 1,Outer 10,Algal Turf,83.68
+2011,LTER 1,Outer 10,Coral,0.4
+2011,LTER 1,Outer 17,Algal Turf,72.8
+2011,LTER 1,Outer 17,Coral,2
+2011,LTER 2,Backreef,Algal Turf,45.44
+2011,LTER 2,Backreef,Coral,17.44
+2011,LTER 2,Fringing,Algal Turf,77.2
+2011,LTER 2,Fringing,Coral,8.96
+2011,LTER 2,Outer 10,Algal Turf,77.52
+2011,LTER 2,Outer 10,Coral,2.72
+2011,LTER 2,Outer 17,Algal Turf,76.8
+2011,LTER 2,Outer 17,Coral,1.12
+2011,LTER 3,Backreef,Algal Turf,31.28
+2011,LTER 3,Backreef,Coral,33.28
+2011,LTER 3,Fringing,Algal Turf,58.4
+2011,LTER 3,Fringing,Coral,27.12
+2011,LTER 3,Outer 10,Algal Turf,66.48
+2011,LTER 3,Outer 10,Coral,1.52
+2011,LTER 3,Outer 17,Algal Turf,64.32
+2011,LTER 3,Outer 17,Coral,0
+2011,LTER 4,Backreef,Algal Turf,46.4
+2011,LTER 4,Backreef,Coral,33.36
+2011,LTER 4,Fringing,Algal Turf,45.28
+2011,LTER 4,Fringing,Coral,20.16
+2011,LTER 4,Outer 10,Algal Turf,65.92
+2011,LTER 4,Outer 10,Coral,4.32
+2011,LTER 4,Outer 17,Algal Turf,51.92
+2011,LTER 4,Outer 17,Coral,1.12
+2011,LTER 5,Backreef,Algal Turf,37.52
+2011,LTER 5,Backreef,Coral,23.92
+2011,LTER 5,Fringing,Algal Turf,25.52
+2011,LTER 5,Fringing,Coral,63.36
+2011,LTER 5,Outer 10,Algal Turf,52.16
+2011,LTER 5,Outer 10,Coral,8.4
+2011,LTER 5,Outer 17,Algal Turf,50.8
+2011,LTER 5,Outer 17,Coral,6
+2011,LTER 6,Backreef,Algal Turf,38.64
+2011,LTER 6,Backreef,Coral,22.64
+2011,LTER 6,Fringing,Algal Turf,37.44
+2011,LTER 6,Fringing,Coral,37.2
+2011,LTER 6,Outer 10,Algal Turf,57.52
+2011,LTER 6,Outer 10,Coral,7.36
+2011,LTER 6,Outer 17,Algal Turf,50.64
+2011,LTER 6,Outer 17,Coral,1.52
+2012,LTER 1,Backreef,Algal Turf,49.84
+2012,LTER 1,Backreef,Coral,12
+2012,LTER 1,Fringing,Algal Turf,56.24
+2012,LTER 1,Fringing,Coral,20.8
+2012,LTER 1,Outer 10,Algal Turf,79.92
+2012,LTER 1,Outer 10,Coral,2.24
+2012,LTER 1,Outer 17,Algal Turf,73.2
+2012,LTER 1,Outer 17,Coral,2.88
+2012,LTER 2,Backreef,Algal Turf,48
+2012,LTER 2,Backreef,Coral,12.88
+2012,LTER 2,Fringing,Algal Turf,72.88
+2012,LTER 2,Fringing,Coral,5.36
+2012,LTER 2,Outer 10,Algal Turf,76.32
+2012,LTER 2,Outer 10,Coral,4.72
+2012,LTER 2,Outer 17,Algal Turf,75.2
+2012,LTER 2,Outer 17,Coral,2.72
+2012,LTER 3,Backreef,Algal Turf,32
+2012,LTER 3,Backreef,Coral,31.28
+2012,LTER 3,Fringing,Algal Turf,53.92
+2012,LTER 3,Fringing,Coral,31.84
+2012,LTER 3,Outer 10,Algal Turf,52.08
+2012,LTER 3,Outer 10,Coral,3.28
+2012,LTER 3,Outer 17,Algal Turf,46.56
+2012,LTER 3,Outer 17,Coral,0.08
+2012,LTER 4,Backreef,Algal Turf,53.76
+2012,LTER 4,Backreef,Coral,28.16
+2012,LTER 4,Fringing,Algal Turf,44.72
+2012,LTER 4,Fringing,Coral,15.2
+2012,LTER 4,Outer 10,Algal Turf,73.28
+2012,LTER 4,Outer 10,Coral,6.08
+2012,LTER 4,Outer 17,Algal Turf,49.6
+2012,LTER 4,Outer 17,Coral,1.76
+2012,LTER 5,Backreef,Algal Turf,35.36
+2012,LTER 5,Backreef,Coral,22.96
+2012,LTER 5,Fringing,Algal Turf,23.68
+2012,LTER 5,Fringing,Coral,62.48
+2012,LTER 5,Outer 10,Algal Turf,46.56
+2012,LTER 5,Outer 10,Coral,9.04
+2012,LTER 5,Outer 17,Algal Turf,45.92
+2012,LTER 5,Outer 17,Coral,6.96
+2012,LTER 6,Backreef,Algal Turf,39.28
+2012,LTER 6,Backreef,Coral,22.56
+2012,LTER 6,Fringing,Algal Turf,37.52
+2012,LTER 6,Fringing,Coral,37.92
+2012,LTER 6,Outer 10,Algal Turf,47.68
+2012,LTER 6,Outer 10,Coral,11.6
+2012,LTER 6,Outer 17,Algal Turf,42.96
+2012,LTER 6,Outer 17,Coral,5.12
+2013,LTER 1,Backreef,Algal Turf,50.16
+2013,LTER 1,Backreef,Coral,10.56
+2013,LTER 1,Fringing,Algal Turf,77.04
+2013,LTER 1,Fringing,Coral,6.64
+2013,LTER 1,Outer 10,Algal Turf,70.48
+2013,LTER 1,Outer 10,Coral,10.32
+2013,LTER 1,Outer 17,Algal Turf,63.12
+2013,LTER 1,Outer 17,Coral,7.04
+2013,LTER 2,Backreef,Algal Turf,46.88
+2013,LTER 2,Backreef,Coral,8.64
+2013,LTER 2,Fringing,Algal Turf,75.68
+2013,LTER 2,Fringing,Coral,4.64
+2013,LTER 2,Outer 10,Algal Turf,66.72
+2013,LTER 2,Outer 10,Coral,11.2
+2013,LTER 2,Outer 17,Algal Turf,63.28
+2013,LTER 2,Outer 17,Coral,7.36
+2013,LTER 3,Backreef,Algal Turf,38.72
+2013,LTER 3,Backreef,Coral,22.72
+2013,LTER 3,Fringing,Algal Turf,57.6
+2013,LTER 3,Fringing,Coral,23.04
+2013,LTER 3,Outer 10,Algal Turf,36.8
+2013,LTER 3,Outer 10,Coral,5.68
+2013,LTER 3,Outer 17,Algal Turf,42.08
+2013,LTER 3,Outer 17,Coral,1.04
+2013,LTER 4,Backreef,Algal Turf,51.28
+2013,LTER 4,Backreef,Coral,32.32
+2013,LTER 4,Fringing,Algal Turf,58.32
+2013,LTER 4,Fringing,Coral,15.68
+2013,LTER 4,Outer 10,Algal Turf,69.84
+2013,LTER 4,Outer 10,Coral,7.44
+2013,LTER 4,Outer 17,Algal Turf,45.12
+2013,LTER 4,Outer 17,Coral,4.72
+2013,LTER 5,Backreef,Algal Turf,34.88
+2013,LTER 5,Backreef,Coral,23.2
+2013,LTER 5,Fringing,Algal Turf,24.64
+2013,LTER 5,Fringing,Coral,65.44
+2013,LTER 5,Outer 10,Algal Turf,49.6
+2013,LTER 5,Outer 10,Coral,10.88
+2013,LTER 5,Outer 17,Algal Turf,40.48
+2013,LTER 5,Outer 17,Coral,11.6
+2013,LTER 6,Backreef,Algal Turf,39.84
+2013,LTER 6,Backreef,Coral,22.8
+2013,LTER 6,Fringing,Algal Turf,43.52
+2013,LTER 6,Fringing,Coral,40.72
+2013,LTER 6,Outer 10,Algal Turf,47.68
+2013,LTER 6,Outer 10,Coral,16.16
+2013,LTER 6,Outer 17,Algal Turf,52.16
+2013,LTER 6,Outer 17,Coral,7.6
+2014,LTER 1,Backreef,Algal Turf,49.68
+2014,LTER 1,Backreef,Coral,7.28
+2014,LTER 1,Fringing,Algal Turf,61.224489795918366
+2014,LTER 1,Fringing,Coral,2.204081632653061
+2014,LTER 1,Outer 10,Algal Turf,60.48
+2014,LTER 1,Outer 10,Coral,25.28
+2014,LTER 1,Outer 17,Algal Turf,55.04
+2014,LTER 1,Outer 17,Coral,14.16
+2014,LTER 2,Backreef,Algal Turf,32.48
+2014,LTER 2,Backreef,Coral,5.52
+2014,LTER 2,Fringing,Algal Turf,76.4
+2014,LTER 2,Fringing,Coral,3.36
+2014,LTER 2,Outer 10,Algal Turf,58.72
+2014,LTER 2,Outer 10,Coral,18.48
+2014,LTER 2,Outer 17,Algal Turf,67.68
+2014,LTER 2,Outer 17,Coral,8.24
+2014,LTER 3,Backreef,Algal Turf,40.4
+2014,LTER 3,Backreef,Coral,14
+2014,LTER 3,Fringing,Algal Turf,57.2
+2014,LTER 3,Fringing,Coral,28.08
+2014,LTER 3,Outer 10,Algal Turf,47.68
+2014,LTER 3,Outer 10,Coral,5.92
+2014,LTER 3,Outer 17,Algal Turf,46
+2014,LTER 3,Outer 17,Coral,2.96
+2014,LTER 4,Backreef,Algal Turf,51.44
+2014,LTER 4,Backreef,Coral,28
+2014,LTER 4,Fringing,Algal Turf,25.76
+2014,LTER 4,Fringing,Coral,10.8
+2014,LTER 4,Outer 10,Algal Turf,59.92
+2014,LTER 4,Outer 10,Coral,10.16
+2014,LTER 4,Outer 17,Algal Turf,50.48
+2014,LTER 4,Outer 17,Coral,8.64
+2014,LTER 5,Backreef,Algal Turf,27.76
+2014,LTER 5,Backreef,Coral,23.04
+2014,LTER 5,Fringing,Algal Turf,16.56
+2014,LTER 5,Fringing,Coral,62.48
+2014,LTER 5,Outer 10,Algal Turf,55.2
+2014,LTER 5,Outer 10,Coral,13.6
+2014,LTER 5,Outer 17,Algal Turf,46.72
+2014,LTER 5,Outer 17,Coral,10.32
+2014,LTER 6,Backreef,Algal Turf,30.72
+2014,LTER 6,Backreef,Coral,22.4
+2014,LTER 6,Fringing,Algal Turf,39.52
+2014,LTER 6,Fringing,Coral,36.96
+2014,LTER 6,Outer 10,Algal Turf,52.24
+2014,LTER 6,Outer 10,Coral,18.32
+2014,LTER 6,Outer 17,Algal Turf,57.68
+2014,LTER 6,Outer 17,Coral,9.04
+2015,LTER 1,Backreef,Algal Turf,22.32
+2015,LTER 1,Backreef,Coral,4.48
+2015,LTER 1,Fringing,Algal Turf,39.04
+2015,LTER 1,Fringing,Coral,2.72
+2015,LTER 1,Outer 10,Algal Turf,41.2
+2015,LTER 1,Outer 10,Coral,44.48
+2015,LTER 1,Outer 17,Algal Turf,52.4
+2015,LTER 1,Outer 17,Coral,19.84
+2015,LTER 2,Backreef,Algal Turf,40.32
+2015,LTER 2,Backreef,Coral,2.32
+2015,LTER 2,Fringing,Algal Turf,23.84
+2015,LTER 2,Fringing,Coral,2.48
+2015,LTER 2,Outer 10,Algal Turf,43.44
+2015,LTER 2,Outer 10,Coral,29.68
+2015,LTER 2,Outer 17,Algal Turf,61.04
+2015,LTER 2,Outer 17,Coral,16.16
+2015,LTER 3,Backreef,Algal Turf,31.52
+2015,LTER 3,Backreef,Coral,12.56
+2015,LTER 3,Fringing,Algal Turf,44
+2015,LTER 3,Fringing,Coral,16.56
+2015,LTER 3,Outer 10,Algal Turf,37.44
+2015,LTER 3,Outer 10,Coral,9.6
+2015,LTER 3,Outer 17,Algal Turf,41.68
+2015,LTER 3,Outer 17,Coral,5.84
+2015,LTER 4,Backreef,Algal Turf,39.28
+2015,LTER 4,Backreef,Coral,25.6
+2015,LTER 4,Fringing,Algal Turf,31.68
+2015,LTER 4,Fringing,Coral,14.16
+2015,LTER 4,Outer 10,Algal Turf,46.4
+2015,LTER 4,Outer 10,Coral,18.8
+2015,LTER 4,Outer 17,Algal Turf,43.68
+2015,LTER 4,Outer 17,Coral,14.96
+2015,LTER 5,Backreef,Algal Turf,27.52
+2015,LTER 5,Backreef,Coral,20.72
+2015,LTER 5,Fringing,Algal Turf,17.76
+2015,LTER 5,Fringing,Coral,64.08
+2015,LTER 5,Outer 10,Algal Turf,46
+2015,LTER 5,Outer 10,Coral,18.4
+2015,LTER 5,Outer 17,Algal Turf,37.84
+2015,LTER 5,Outer 17,Coral,16.96
+2015,LTER 6,Backreef,Algal Turf,42.08
+2015,LTER 6,Backreef,Coral,23.36
+2015,LTER 6,Fringing,Algal Turf,39.52
+2015,LTER 6,Fringing,Coral,32.88
+2015,LTER 6,Outer 10,Algal Turf,44
+2015,LTER 6,Outer 10,Coral,25.04
+2015,LTER 6,Outer 17,Algal Turf,51.84
+2015,LTER 6,Outer 17,Coral,14.8
+2016,LTER 1,Backreef,Algal Turf,18.96
+2016,LTER 1,Backreef,Coral,4.64
+2016,LTER 1,Fringing,Algal Turf,37.12
+2016,LTER 1,Fringing,Coral,3.2
+2016,LTER 1,Outer 10,Algal Turf,30.56
+2016,LTER 1,Outer 10,Coral,56.32
+2016,LTER 1,Outer 17,Algal Turf,44
+2016,LTER 1,Outer 17,Coral,22.88
+2016,LTER 2,Backreef,Algal Turf,30.96
+2016,LTER 2,Backreef,Coral,1.2
+2016,LTER 2,Fringing,Algal Turf,70.24
+2016,LTER 2,Fringing,Coral,2.88
+2016,LTER 2,Outer 10,Algal Turf,37.04
+2016,LTER 2,Outer 10,Coral,36.88
+2016,LTER 2,Outer 17,Algal Turf,57.6
+2016,LTER 2,Outer 17,Coral,18.08
+2016,LTER 3,Backreef,Algal Turf,29.2
+2016,LTER 3,Backreef,Coral,11.84
+2016,LTER 3,Fringing,Algal Turf,32.32
+2016,LTER 3,Fringing,Coral,23.6
+2016,LTER 3,Outer 10,Algal Turf,37.76
+2016,LTER 3,Outer 10,Coral,12.96
+2016,LTER 3,Outer 17,Algal Turf,34.8
+2016,LTER 3,Outer 17,Coral,8.08
+2016,LTER 4,Backreef,Algal Turf,39.2
+2016,LTER 4,Backreef,Coral,23.76
+2016,LTER 4,Fringing,Algal Turf,31.92
+2016,LTER 4,Fringing,Coral,18.64
+2016,LTER 4,Outer 10,Algal Turf,42.4
+2016,LTER 4,Outer 10,Coral,25.12
+2016,LTER 4,Outer 17,Algal Turf,36.96
+2016,LTER 4,Outer 17,Coral,17.68
+2016,LTER 5,Backreef,Algal Turf,24.4
+2016,LTER 5,Backreef,Coral,21.84
+2016,LTER 5,Fringing,Algal Turf,15.12
+2016,LTER 5,Fringing,Coral,71.04
+2016,LTER 5,Outer 10,Algal Turf,41.44
+2016,LTER 5,Outer 10,Coral,22.4
+2016,LTER 5,Outer 17,Algal Turf,35.04
+2016,LTER 5,Outer 17,Coral,21.76
+2016,LTER 6,Backreef,Algal Turf,22.64
+2016,LTER 6,Backreef,Coral,21.12
+2016,LTER 6,Fringing,Algal Turf,40.72
+2016,LTER 6,Fringing,Coral,4.48
+2016,LTER 6,Outer 10,Algal Turf,38
+2016,LTER 6,Outer 10,Coral,34.24
+2016,LTER 6,Outer 17,Algal Turf,40.32
+2016,LTER 6,Outer 17,Coral,18.96
+2017,LTER 1,Backreef,Algal Turf,23.44
+2017,LTER 1,Backreef,Coral,5.04
+2017,LTER 1,Fringing,Algal Turf,13.36
+2017,LTER 1,Fringing,Coral,2.56
+2017,LTER 1,Outer 10,Algal Turf,17.6
+2017,LTER 1,Outer 10,Coral,72.48
+2017,LTER 1,Outer 17,Algal Turf,51.44
+2017,LTER 1,Outer 17,Coral,24.72
+2017,LTER 2,Backreef,Algal Turf,0.72
+2017,LTER 2,Backreef,Coral,0.48
+2017,LTER 2,Fringing,Algal Turf,15.92
+2017,LTER 2,Fringing,Coral,4.56
+2017,LTER 2,Outer 10,Algal Turf,38.16
+2017,LTER 2,Outer 10,Coral,40.32
+2017,LTER 2,Outer 17,Algal Turf,62.48
+2017,LTER 2,Outer 17,Coral,20.64
+2017,LTER 3,Backreef,Algal Turf,47.44
+2017,LTER 3,Backreef,Coral,10.8
+2017,LTER 3,Fringing,Algal Turf,41.68
+2017,LTER 3,Fringing,Coral,11.76
+2017,LTER 3,Outer 10,Algal Turf,34.4
+2017,LTER 3,Outer 10,Coral,17.04
+2017,LTER 3,Outer 17,Algal Turf,43.92
+2017,LTER 3,Outer 17,Coral,9.84
+2017,LTER 4,Backreef,Algal Turf,34.48
+2017,LTER 4,Backreef,Coral,24.08
+2017,LTER 4,Fringing,Algal Turf,8.96
+2017,LTER 4,Fringing,Coral,19.04
+2017,LTER 4,Outer 10,Algal Turf,40.88
+2017,LTER 4,Outer 10,Coral,29.2
+2017,LTER 4,Outer 17,Algal Turf,37.6
+2017,LTER 4,Outer 17,Coral,22.96
+2017,LTER 5,Backreef,Algal Turf,16.24
+2017,LTER 5,Backreef,Coral,24.16
+2017,LTER 5,Fringing,Algal Turf,0
+2017,LTER 5,Fringing,Coral,67.92
+2017,LTER 5,Outer 10,Algal Turf,38.32
+2017,LTER 5,Outer 10,Coral,30
+2017,LTER 5,Outer 17,Algal Turf,35.2
+2017,LTER 5,Outer 17,Coral,28.4
+2017,LTER 6,Backreef,Algal Turf,7.52
+2017,LTER 6,Backreef,Coral,28.4
+2017,LTER 6,Fringing,Algal Turf,41.92
+2017,LTER 6,Fringing,Coral,2.8
+2017,LTER 6,Outer 10,Algal Turf,35.12
+2017,LTER 6,Outer 10,Coral,40.08
+2017,LTER 6,Outer 17,Algal Turf,41.68
+2017,LTER 6,Outer 17,Coral,22.24
+2018,LTER 1,Backreef,Algal Turf,42.32
+2018,LTER 1,Backreef,Coral,5.68
+2018,LTER 1,Fringing,Algal Turf,14
+2018,LTER 1,Fringing,Coral,1.68
+2018,LTER 1,Outer 10,Algal Turf,8.48
+2018,LTER 1,Outer 10,Coral,83.36
+2018,LTER 1,Outer 17,Algal Turf,43.28
+2018,LTER 1,Outer 17,Coral,30.64
+2018,LTER 2,Backreef,Algal Turf,23.92
+2018,LTER 2,Backreef,Coral,0.24
+2018,LTER 2,Fringing,Algal Turf,21.44
+2018,LTER 2,Fringing,Coral,1.68
+2018,LTER 2,Outer 10,Algal Turf,16
+2018,LTER 2,Outer 10,Coral,63.04
+2018,LTER 2,Outer 17,Algal Turf,49.6
+2018,LTER 2,Outer 17,Coral,30.56
+2018,LTER 3,Backreef,Algal Turf,43.52
+2018,LTER 3,Backreef,Coral,8.4
+2018,LTER 3,Fringing,Algal Turf,32.72
+2018,LTER 3,Fringing,Coral,8.48
+2018,LTER 3,Outer 10,Algal Turf,35.12
+2018,LTER 3,Outer 10,Coral,22.64
+2018,LTER 3,Outer 17,Algal Turf,36.72
+2018,LTER 3,Outer 17,Coral,13.2
+2018,LTER 4,Backreef,Algal Turf,41.92
+2018,LTER 4,Backreef,Coral,24.4
+2018,LTER 4,Fringing,Algal Turf,8.16
+2018,LTER 4,Fringing,Coral,13.12
+2018,LTER 4,Outer 10,Algal Turf,45.12
+2018,LTER 4,Outer 10,Coral,34.32
+2018,LTER 4,Outer 17,Algal Turf,43.04
+2018,LTER 4,Outer 17,Coral,25.6
+2018,LTER 5,Backreef,Algal Turf,20.72
+2018,LTER 5,Backreef,Coral,24.16
+2018,LTER 5,Fringing,Algal Turf,6.96
+2018,LTER 5,Fringing,Coral,75.76
+2018,LTER 5,Outer 10,Algal Turf,33.84
+2018,LTER 5,Outer 10,Coral,33.76
+2018,LTER 5,Outer 17,Algal Turf,36.96
+2018,LTER 5,Outer 17,Coral,33.68
+2018,LTER 6,Backreef,Algal Turf,18.56
+2018,LTER 6,Backreef,Coral,26.08
+2018,LTER 6,Fringing,Algal Turf,40
+2018,LTER 6,Fringing,Coral,4.8
+2018,LTER 6,Outer 10,Algal Turf,36.16
+2018,LTER 6,Outer 10,Coral,44.72
+2018,LTER 6,Outer 17,Algal Turf,41.6
+2018,LTER 6,Outer 17,Coral,25.44
+2019,LTER 1,Backreef,Algal Turf,39.44
+2019,LTER 1,Backreef,Coral,5.68
+2019,LTER 1,Fringing,Algal Turf,33.04
+2019,LTER 1,Fringing,Coral,4.16
+2019,LTER 1,Outer 10,Algal Turf,10.32
+2019,LTER 1,Outer 10,Coral,84.08
+2019,LTER 1,Outer 17,Algal Turf,44.24
+2019,LTER 1,Outer 17,Coral,33.28
+2019,LTER 2,Backreef,Algal Turf,31.68
+2019,LTER 2,Backreef,Coral,0.48
+2019,LTER 2,Fringing,Algal Turf,58.64
+2019,LTER 2,Fringing,Coral,2.16
+2019,LTER 2,Outer 10,Algal Turf,17.44
+2019,LTER 2,Outer 10,Coral,62.48
+2019,LTER 2,Outer 17,Algal Turf,49.44
+2019,LTER 2,Outer 17,Coral,30.4
+2019,LTER 3,Backreef,Algal Turf,50.16
+2019,LTER 3,Backreef,Coral,9.84
+2019,LTER 3,Fringing,Algal Turf,45.2
+2019,LTER 3,Fringing,Coral,7.2
+2019,LTER 3,Outer 10,Algal Turf,35.76
+2019,LTER 3,Outer 10,Coral,24.08
+2019,LTER 3,Outer 17,Algal Turf,35.68
+2019,LTER 3,Outer 17,Coral,20.16
+2019,LTER 4,Backreef,Algal Turf,47.92
+2019,LTER 4,Backreef,Coral,26.72
+2019,LTER 4,Fringing,Algal Turf,20.8
+2019,LTER 4,Fringing,Coral,12
+2019,LTER 4,Outer 10,Algal Turf,36.72
+2019,LTER 4,Outer 10,Coral,36.32
+2019,LTER 4,Outer 17,Algal Turf,37.28
+2019,LTER 4,Outer 17,Coral,29.44
+2019,LTER 5,Backreef,Algal Turf,24.8
+2019,LTER 5,Backreef,Coral,25.12
+2019,LTER 5,Fringing,Algal Turf,17.6
+2019,LTER 5,Fringing,Coral,67.2
+2019,LTER 5,Outer 10,Algal Turf,24.96
+2019,LTER 5,Outer 10,Coral,42.48
+2019,LTER 5,Outer 17,Algal Turf,27.92
+2019,LTER 5,Outer 17,Coral,37.36
+2019,LTER 6,Backreef,Algal Turf,26.16
+2019,LTER 6,Backreef,Coral,20.96
+2019,LTER 6,Fringing,Algal Turf,50.64
+2019,LTER 6,Fringing,Coral,9.52
+2019,LTER 6,Outer 10,Algal Turf,34.8
+2019,LTER 6,Outer 10,Coral,44.32
+2019,LTER 6,Outer 17,Algal Turf,33.52
+2019,LTER 6,Outer 17,Coral,30.32
+2020,LTER 1,Backreef,Algal Turf,48.12
+2020,LTER 1,Backreef,Coral,5.08
+2020,LTER 1,Fringing,Algal Turf,49.4
+2020,LTER 1,Fringing,Coral,4.28
+2020,LTER 1,Outer 10,Algal Turf,20.88
+2020,LTER 1,Outer 10,Coral,20.16
+2020,LTER 1,Outer 17,Algal Turf,44.96
+2020,LTER 1,Outer 17,Coral,31.36
+2020,LTER 2,Backreef,Algal Turf,31.92
+2020,LTER 2,Backreef,Coral,0.56
+2020,LTER 2,Fringing,Algal Turf,78.84
+2020,LTER 2,Fringing,Coral,2.6
+2020,LTER 2,Outer 10,Algal Turf,18.88
+2020,LTER 2,Outer 10,Coral,19.6
+2020,LTER 2,Outer 17,Algal Turf,48.24
+2020,LTER 2,Outer 17,Coral,30.72
+2020,LTER 3,Backreef,Algal Turf,54.76
+2020,LTER 3,Backreef,Coral,13.48
+2020,LTER 3,Fringing,Algal Turf,67.2
+2020,LTER 3,Fringing,Coral,6.4
+2020,LTER 3,Outer 10,Algal Turf,43.36
+2020,LTER 3,Outer 10,Coral,17.36
+2020,LTER 3,Outer 17,Algal Turf,36.64
+2020,LTER 3,Outer 17,Coral,20.4
+2020,LTER 4,Backreef,Algal Turf,47.84
+2020,LTER 4,Backreef,Coral,34.36
+2020,LTER 4,Fringing,Algal Turf,33.84
+2020,LTER 4,Fringing,Coral,10.84
+2020,LTER 4,Outer 10,Algal Turf,58.56
+2020,LTER 4,Outer 10,Coral,24.4
+2020,LTER 4,Outer 17,Algal Turf,43.04
+2020,LTER 4,Outer 17,Coral,24.4
+2020,LTER 5,Backreef,Algal Turf,45.16
+2020,LTER 5,Backreef,Coral,25.88
+2020,LTER 5,Fringing,Algal Turf,24.52
+2020,LTER 5,Fringing,Coral,66.64
+2020,LTER 5,Outer 10,Algal Turf,49.52
+2020,LTER 5,Outer 10,Coral,18
+2020,LTER 5,Outer 17,Algal Turf,49.04
+2020,LTER 5,Outer 17,Coral,26.24
+2020,LTER 6,Backreef,Algal Turf,45.88
+2020,LTER 6,Backreef,Coral,23.48
+2020,LTER 6,Fringing,Algal Turf,78.64
+2020,LTER 6,Fringing,Coral,10.68
+2020,LTER 6,Outer 10,Algal Turf,53.28
+2020,LTER 6,Outer 10,Coral,17.6
+2020,LTER 6,Outer 17,Algal Turf,47.2
+2020,LTER 6,Outer 17,Coral,18.48
+2021,LTER 1,Backreef,Algal Turf,53.92
+2021,LTER 1,Backreef,Coral,4.48
+2021,LTER 1,Fringing,Algal Turf,65.76
+2021,LTER 1,Fringing,Coral,4.4
+2021,LTER 2,Backreef,Algal Turf,30.24
+2021,LTER 2,Backreef,Coral,0.64
+2021,LTER 2,Fringing,Algal Turf,78.16
+2021,LTER 2,Fringing,Coral,3.04
+2021,LTER 3,Backreef,Algal Turf,53.36
+2021,LTER 3,Backreef,Coral,17.12
+2021,LTER 3,Fringing,Algal Turf,84.64
+2021,LTER 3,Fringing,Coral,5.6
+2021,LTER 4,Backreef,Algal Turf,40.16
+2021,LTER 4,Backreef,Coral,42
+2021,LTER 4,Fringing,Algal Turf,42.48
+2021,LTER 4,Fringing,Coral,9.68
+2021,LTER 5,Backreef,Algal Turf,57.28
+2021,LTER 5,Backreef,Coral,26.64
+2021,LTER 5,Fringing,Algal Turf,26.88
+2021,LTER 5,Fringing,Coral,66.08
+2021,LTER 6,Backreef,Algal Turf,52
+2021,LTER 6,Backreef,Coral,26
+2021,LTER 6,Fringing,Algal Turf,75.92
+2021,LTER 6,Fringing,Coral,11.84
+2022,LTER 1,Backreef,Algal Turf,55.04
+2022,LTER 1,Backreef,Coral,7.6
+2022,LTER 1,Fringing,Algal Turf,53.44
+2022,LTER 1,Fringing,Coral,3.92
+2022,LTER 1,Outer 10,Algal Turf,43.12
+2022,LTER 1,Outer 10,Coral,8.4
+2022,LTER 1,Outer 17,Algal Turf,55.28
+2022,LTER 1,Outer 17,Coral,28.8
+2022,LTER 2,Backreef,Algal Turf,33.6
+2022,LTER 2,Backreef,Coral,3.2
+2022,LTER 2,Fringing,Algal Turf,73.92
+2022,LTER 2,Fringing,Coral,2.96
+2022,LTER 2,Outer 10,Algal Turf,47.04
+2022,LTER 2,Outer 10,Coral,7.92
+2022,LTER 2,Outer 17,Algal Turf,58.96
+2022,LTER 2,Outer 17,Coral,26.56
+2022,LTER 3,Backreef,Algal Turf,46.32
+2022,LTER 3,Backreef,Coral,19.76
+2022,LTER 3,Fringing,Algal Turf,79.2
+2022,LTER 3,Fringing,Coral,0.96
+2022,LTER 3,Outer 10,Algal Turf,47.28
+2022,LTER 3,Outer 10,Coral,16.56
+2022,LTER 3,Outer 17,Algal Turf,46.24
+2022,LTER 3,Outer 17,Coral,21.44
+2022,LTER 4,Backreef,Algal Turf,48.16
+2022,LTER 4,Backreef,Coral,38.16
+2022,LTER 4,Fringing,Algal Turf,47.28
+2022,LTER 4,Fringing,Coral,17.2
+2022,LTER 4,Outer 10,Algal Turf,63.36
+2022,LTER 4,Outer 10,Coral,22.88
+2022,LTER 4,Outer 17,Algal Turf,53.76
+2022,LTER 4,Outer 17,Coral,22.8
+2022,LTER 5,Backreef,Algal Turf,51.44
+2022,LTER 5,Backreef,Coral,25.12
+2022,LTER 5,Fringing,Algal Turf,33.76
+2022,LTER 5,Fringing,Coral,64.4
+2022,LTER 5,Outer 10,Algal Turf,62.64
+2022,LTER 5,Outer 10,Coral,18.08
+2022,LTER 5,Outer 17,Algal Turf,55.6
+2022,LTER 5,Outer 17,Coral,18.88
+2022,LTER 6,Backreef,Algal Turf,45.44
+2022,LTER 6,Backreef,Coral,24.08
+2022,LTER 6,Fringing,Algal Turf,76.32
+2022,LTER 6,Fringing,Coral,11.76
+2022,LTER 6,Outer 10,Algal Turf,64
+2022,LTER 6,Outer 10,Coral,13.12
+2022,LTER 6,Outer 17,Algal Turf,62.48
+2022,LTER 6,Outer 17,Coral,14.72
+2023,LTER 1,Backreef,Algal Turf,69.76
+2023,LTER 1,Backreef,Coral,5.52
+2023,LTER 1,Fringing,Algal Turf,64.56
+2023,LTER 1,Fringing,Coral,2.8
+2023,LTER 1,Outer 10,Algal Turf,41.92
+2023,LTER 1,Outer 10,Coral,5.84
+2023,LTER 1,Outer 17,Algal Turf,57.12
+2023,LTER 1,Outer 17,Coral,24.24
+2023,LTER 2,Backreef,Algal Turf,48.96
+2023,LTER 2,Backreef,Coral,1.12
+2023,LTER 2,Fringing,Algal Turf,82.4
+2023,LTER 2,Fringing,Coral,2
+2023,LTER 2,Outer 10,Algal Turf,58.24
+2023,LTER 2,Outer 10,Coral,7.36
+2023,LTER 2,Outer 17,Algal Turf,65.2
+2023,LTER 2,Outer 17,Coral,15.2
+2023,LTER 3,Backreef,Algal Turf,50.56
+2023,LTER 3,Backreef,Coral,17.92
+2023,LTER 3,Fringing,Algal Turf,81.68
+2023,LTER 3,Fringing,Coral,0.72
+2023,LTER 3,Outer 10,Algal Turf,46.24
+2023,LTER 3,Outer 10,Coral,15.6
+2023,LTER 3,Outer 17,Algal Turf,48.4
+2023,LTER 3,Outer 17,Coral,21.44
+2023,LTER 4,Backreef,Algal Turf,47.84
+2023,LTER 4,Backreef,Coral,36.24
+2023,LTER 4,Fringing,Algal Turf,36.96
+2023,LTER 4,Fringing,Coral,12.4
+2023,LTER 4,Outer 10,Algal Turf,71.44
+2023,LTER 4,Outer 10,Coral,14.56
+2023,LTER 4,Outer 17,Algal Turf,62.16
+2023,LTER 4,Outer 17,Coral,12.32
+2023,LTER 5,Backreef,Algal Turf,58.48
+2023,LTER 5,Backreef,Coral,20.96
+2023,LTER 5,Fringing,Algal Turf,38.64
+2023,LTER 5,Fringing,Coral,46.24
+2023,LTER 5,Outer 10,Algal Turf,56.88
+2023,LTER 5,Outer 10,Coral,14.48
+2023,LTER 5,Outer 17,Algal Turf,64
+2023,LTER 5,Outer 17,Coral,9.28
+2023,LTER 6,Backreef,Algal Turf,52.08
+2023,LTER 6,Backreef,Coral,22.16
+2023,LTER 6,Fringing,Algal Turf,75.92
+2023,LTER 6,Fringing,Coral,8.24
+2023,LTER 6,Outer 10,Algal Turf,56.16
+2023,LTER 6,Outer 10,Coral,12.4
+2023,LTER 6,Outer 17,Algal Turf,54.32
+2023,LTER 6,Outer 17,Coral,14.96
