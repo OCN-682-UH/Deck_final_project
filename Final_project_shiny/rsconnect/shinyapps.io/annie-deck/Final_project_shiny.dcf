@@ -5,7 +5,7 @@ account: annie-deck
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13545413
-bundleId: 9477812
+bundleId: 9494058
 url: https://annie-deck.shinyapps.io/Final_project_shiny/
 version: 1
 asMultiple: FALSE
