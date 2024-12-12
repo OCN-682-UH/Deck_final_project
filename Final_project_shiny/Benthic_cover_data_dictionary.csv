@@ -1,0 +1,6 @@
+Variable,Class,Description ,Example
+Year,Numerical,Year when the cover data was collected (ranges from 2005-2023),2005
+Site,Character,Moorea Coral Reef Long-term Ecological Research Site. Six sites in total (LTER 1-6) with two sites on each shore of the island.,LTER 1
+Habitat ,Character,"Reef habitat sampled at each of the 6 LTER sites. Four habitats in total across a transect from adjact to shore to interface with open water: back reef , fringing reef, fore reef shallow (10m), and fore reef deep (17m). At each habitat there are 5 permanent 10m long transects.",Back reef
+Taxonomy_Substrate_Functional_Group,Character,"Specific benthic taxa sampled. This dataset contains measurements for hard coral, soft coral, turf algae, anda variety of sessile invertebrates. ",Coral
+mean_percent_cover,Numerical,Average percent cover of each benthic taxa for each habitat and site. (Averaged cover measurements across all quadrats along the 5 permanet transects for each site). Percent cover data is collected via human conducted transects and photography. ,40
